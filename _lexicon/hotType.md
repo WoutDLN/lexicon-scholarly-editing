@@ -1,0 +1,5 @@
+---
+ 
+ name: hot type
+
+---

@@ -1,0 +1,38 @@
+collections:
+  contributors:
+    output: true
+  lexicon:
+    output: true
+  definitions:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "contributors"
+    values:
+      layout: "contributor"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: ""
+      type: "lexicon"
+    values:
+      layout: "lemma"
+  - scope:
+      path: ""
+      type: "definitions"
+    values:
+      layout: "definition"
+
+baseurl: /lexiconse
+
+scholar:
+  bibliography: lexiconse.bib
+  bibliography_template: bib
+  relative: "../bibliography.html"
+  sort_by: author, editor, year
+  style: chicago-author-date
+  bibliography_list_tag: ul

@@ -1,0 +1,10 @@
+- name: Home
+  link: /
+- name: About
+  link: /about.html
+- name: Lexicon
+  link: /lexicon.html
+- name: Contributors
+  link: /contributors.html
+- name: Bibliography
+  link: /bibliography.html

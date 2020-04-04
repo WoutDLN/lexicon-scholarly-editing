@@ -1,0 +1,28 @@
+<html>
+         {% include meta.html %}
+  <body>
+         {% include header.html %}
+         {% include navigation.html %}
+      <div class="row" id="content">
+         {% include nosidebar.html %}
+        <div class="col-6">
+<h1>{{ page.name }}</h1>
+<h2>{{ page.position }}</h2>
+
+{{ content }}
+
+<h2>Contributions</h2>
+<ul>
+  {% assign contributions = site.definitions | where: 'contributor', page.short_name %}
+  {% for contribution in contributions %}
+    <li><a href="{{ site.baseurl }}{{ contribution.url }}">{{ contribution.lemma | capitalize }} | {{ contribution.source }} </a></li>
+  {% endfor %}
+</ul>
+</div>
+  {% include nosidebar.html %}
+</div>
+<footer>
+  {% include footer.html %}
+</footer>
+</body>
+</html>

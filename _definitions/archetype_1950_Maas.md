@@ -1,0 +1,18 @@
+---
+
+lemma: archetype
+source: Maas_1950
+page: 6 
+language: German
+categories: Document
+related_terms: archetype
+contributor: elisa
+last_updated_by: wout
+last_update: 26-01-2015
+        
+---
+
+Die Vorlage, bei der die erste Spaltung begann, nennen wir den Archetypus. Der [Text](text.html) diese Archetypus ist frei von allen nach den Spaltung entstandenen [Fehlern](textualFault.html), steht also dem Original näher als der Text aller [Zeugen](witness.html). Gelingt es also, diesen Text sicherzustellen, so ist damit die constitutio bedeutend gefördert.
+
+Die besondere Bedeutung derjenigen Vorlage, die wir als Archetypus bezeichnet haben, ist unbestritten, und ein anderer Name dafür steht nicht zur Verfügung. Man sollte daher nicht andere Zwischenglieder zwischen Original und erhaltenen Zeugen, so wichtig sie unter Umständen sein können, als Archetypus bezeichnen.
+

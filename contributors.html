@@ -1,0 +1,14 @@
+---
+title: Contributors
+---
+<h1>Contributors</h1>
+
+<ul>
+  {% for contributor in site.contributors %}
+    <li>
+      <h2><a href="{{ site.baseurl }}{{ contributor.url }}">{{ contributor.name }}</a></h2>
+      <h3>{{ contributor.position }}</h3>
+      <p>{{ contributor.content | markdownify }}</p>
+    </li>
+  {% endfor %}
+</ul>

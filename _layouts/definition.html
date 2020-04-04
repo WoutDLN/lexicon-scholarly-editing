@@ -1,0 +1,19 @@
+<html>
+         {% include meta.html %}
+  <body>
+         {% include header.html %}
+         {% include navigation.html %}
+      <div class="row" id="content">
+         {% include nosidebar.html %}
+        <div class="col-6">
+          <h1>{{ page.lemma }} | {{ page.source }}</h1>
+
+        {{ content }}
+      </div>
+        {% include nosidebar.html %}
+      </div>
+      <footer>
+        {% include footer.html %}
+      </footer>
+      </body>
+      </html>

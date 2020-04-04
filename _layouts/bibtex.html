@@ -1,0 +1,37 @@
+<html>
+         {% include meta.html %}
+  <body>
+         {% include header.html %}
+         {% include navigation.html %}
+      <div class="row" id="content">
+         {% include nosidebar.html %}
+        <div class="col-6">
+<h1>{{ page.entry.title }}</h1>
+<p>KEY: {{ page.entry.key }} </p>
+<p>{{ page.entry.abstract }}</p>
+<small>
+	<ul>
+		<li><strong>author:</strong> {{ page.entry.author }}</li>
+		<li><strong>year:</strong> {{ page.entry.year }}</li>
+		{% if page.entry.publisher %}
+		<li><strong>publisher:</strong> {{ page.entry.publisher }}</li>
+		{% endif %}
+		{% if page.entry.place %}
+		<li><strong>place:</strong> {{ page.entry.place }}</li>
+		{% endif %}
+		{% if page.entry.pages %}
+		<li><strong>pages:</strong> {{ page.entry.pages }}</li>
+		{% endif %}
+	</ul>
+		{% if page.entry.url %}
+		<p><a href="{{ page.entry.url }}">Where to find the source online</a>
+		{% endif %}
+</small>
+</div>
+  {% include nosidebar.html %}
+</div>
+<footer>
+  {% include footer.html %}
+</footer>
+</body>
+</html>

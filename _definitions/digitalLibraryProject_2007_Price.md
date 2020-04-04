@@ -1,0 +1,16 @@
+---
+
+lemma: digital library project
+source: Price_2007
+page: 439-440 
+language: English
+categories: Editions, Scholarly Digital Editing
+related_terms: 
+contributor: wout
+last_updated_by: wout
+last_update: 29-01-2015
+        
+---
+
+It is worthwhile to distinguish between the useful contributions made by large-scale digitization projects, sometimes referred to as digital library projects, and the more fine-grained, specialized work of an electronic [scholarly edition](editionDigital.html). Each is valuable, though they have different procedures and purposes. The _Wright American Fiction_ project can be taken as a representative digital library project. Such collections are typically vast. _Wright American Fiction_ is a tremendous resource that makes freely available nearly 3,000 works of American fiction published from 1851 to 1875. This ambitious undertaking has been supported by a consortium of Big Ten schools plus the University of Chicago. As of September 2005 (the most recent update available) nearly half the [texts](text.html) were fully edited and encoded; the rest were unedited. "Fully edited" in this context means proofread and corrected (rather than remaining as texts created via optical character recognition (OCR) with a high number of errors). The "fully edited" texts also have [SGML](SGML.html) tagging that enables better navigation to chapter or other divisions within the fiction and links from the table of contents to these parts. Not surprisingly, _Wright American Fiction_ lacks scholarly introductions, annotations, and [collation](collation.html) of texts. Instead, the collection is made up of full-text presentations of the titles listed in Lyle Wright's _American Fiction 1851–1875: A Contribution Toward a Bibliography_ (1957; rev. 1965). The texts are presented as [page](page.html) images and [transcriptions](transcription.html) based on microfilm originally produced by a commercial firm, Primary Source Media. It is telling that the selection of texts for _Wright American Fiction_ was determined by a pre-existing commercial venture and was not based on finding the best texts available or by creating a fresh ["critical" edition](editionCritical). The latter option was no doubt a practical impossibility for a project of this scale. In contrast to _Wright American Fiction_'s acceptance of texts selected and reproduced by a third party, the editor of a scholarly edition would take the establishment of a suitable text to be a foundational undertaking. Moreover, as the MLA "Guidelines for Editors of Scholarly Editions" indicate, any edition that purports to be scholarly will provide annotations and other glosses 
+

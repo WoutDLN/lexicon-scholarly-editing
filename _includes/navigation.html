@@ -1,0 +1,15 @@
+<div class="row" id="navbar">
+	<div class="col-3"></div>
+    <div class="col-6">
+    	<nav>
+    		<div class="flex-container">
+  			{% for item in site.data.navigation %}
+    			<div class="nav-item">
+    				<a href="{{ site.baseurl }}{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}>{{ item.name }}</a>
+    			</div>
+  			{% endfor %}
+ 			</div>
+		</nav>
+    </div>
+    <div class="col-3"></div>
+</div>

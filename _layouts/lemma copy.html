@@ -1,0 +1,21 @@
+<h1>{{ page.name }}</h1>
+
+{% for definition in site.definitions %}
+{% if definition.lemma == page_lemma %}
+		{{ definition.content | markdownify }}
+		{% cite definition.source %} {{ definition.page }}
+		<p>
+			<small>
+<!--		{% assign editor = site.contributors | where: 'editor.short_name', defintion.contributor %}-->
+				contributed by <!--<a href="{{ editor.url }}">-->{{ definition.contributor }}<!--</a>--> –
+<!--		{% assign copyeditor = site.contributors | where: 'copyeditor.short_name', definition.updated_by %}-->
+				edited by <!--<a href="{{ copyeditor.url }}">-->{{ definition.updated_by }}<!--</a>--> –
+				last updated on {{ definition.last_update }}
+			</small>
+		</p>
+{% endif %}
+{% endfor %}<!--<h2>Related Terms</h2>
+{% assign related = site.lexicon | where: 'related_terms', page.related_terms %}
+{% for relation in related %}
+<a href="{{ relation.url }}">{{ relation }}
+{% endfor %}-->

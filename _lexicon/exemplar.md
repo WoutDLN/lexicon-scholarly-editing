@@ -1,0 +1,6 @@
+---
+
+name: exemplar
+tags: [document]
+
+---

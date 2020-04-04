@@ -1,0 +1,15 @@
+---
+title: Lexicon
+---
+
+	<ul>
+	  	{% assign sorted = site.lexicon | sort_natural %}
+	  	{% for lemma in sorted %}
+	  	<li>
+	  		<h2><a href="{{ lemma.url | prepend:site.baseurl}}">{{ lemma.name }}
+  			{% assign def_per_lemma = site.definitions | where: 'lemma', lemma.name %}
+  			({{ def_per_lemma | size }})
+			</a></h2>
+	    </li>
+		{% endfor %}
+	</ul>

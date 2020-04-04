@@ -1,0 +1,16 @@
+---
+
+lemma: collation
+source: Kline_1998
+page: 270 
+language: English
+categories: Genetic Criticism
+related_terms: collation
+contributor: wout
+last_updated_by: wout
+last_update: 29-01-2015
+        
+---
+
+**Collation.** Character-by-character comparison of two or more [texts](text.html). Traditionally, the process by which [editors](editorScholarly.html) isolate patterns of error that indicate [transcriptional](transcription.html) descent, to determine whether one or more texts is a copy made from an earlier and thus more reliable copy. Some twentieth-century editors have used the term to describe the process of visual comparison by which transcriptions, [galleys](proofsGalley.html), etc. are checked for error. With modern technology, the "compare" function in word-processing software performs this function by comparing the machine-readable [versions](version.html) of galleys and [page proofs](proofsPage.html) against each other.
+

@@ -1,0 +1,16 @@
+---
+
+lemma: element
+source: Burnard_1991
+page: §2 
+language: English
+categories: Markup, Scholarly Digital Editing
+related_terms: 
+contributor: wout
+last_updated_by: wout
+last_update: 28-02-2015
+        
+---
+
+At a higher level of abstraction [than [entities](entity.html)], a [text](text.html) is composed of representations of objects of various kinds, linguistically or functionally defined. Such objects do not appear randomly within a text: coherence demands that particular types of object appear in specifiable relationship to other objects -- they may be included within each other, linked to each other by reference or simply presented sequentially, for example. This level of description sees texts as composed of structurally defined objects, known as _elements_ in [SGML](SGML.html).
+
