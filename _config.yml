@@ -34,5 +34,6 @@ scholar:
   bibliography_template: bib
   relative: "../bibliography.html"
   sort_by: author, editor, year
-  style: chicago-author-date
-  bibliography_list_tag: ul
+  style: apa
+  bibliography_list_tag:
+  bibliography_item_tag: p

@@ -1,6 +1,6 @@
 ---
 
-lemma: image restoration
+lemma: image registration
 source: baumann_robust_2009
 page: 263
 language: English

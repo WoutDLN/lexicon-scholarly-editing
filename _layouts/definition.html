@@ -6,9 +6,27 @@
       <div class="row" id="content">
          {% include nosidebar.html %}
         <div class="col-6">
-          <h1>{{ page.lemma }} | {{ page.source }}</h1>
+          <h1>{{ page.lemma }}</h1>
 
-        {{ content }}
+          <div class="definition">
+          		{{ page.content | markdownify }}
+              <div class="reference">
+          		{% cite page.source %} p{{ page.page }}
+              </div>
+          </div>
+            <div class="creditsbar">
+              <p>
+          			<small>
+          				{% assign responsible = site.contributors | where: 'short_name', page.contributor | first %}
+          				contributed by <a href="{{ site.baseurl }}{{ responsible.url }}">{{ page.contributor }}</a> –
+          				{% assign editor = site.contributors | where: 'short_name', page.last_updated_by | first%}
+          				last updated on {{ page.last_update }},
+          				by <a href="{{ site.baseurl }}{{ editor.url }}">{{ page.last_updated_by }}</a>.
+          			</small>
+          		</p>
+            </div>
+
+
       </div>
         {% include nosidebar.html %}
       </div>

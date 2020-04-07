@@ -10,7 +10,7 @@
 body {
 	background-color: #41B3A3xxx;
 	padding: 1vw;
-	font-family: Palatino,Palatino Linotype,Palatino LT STD,Book Antiqua,Georgia,serif; 
+	font-family: Palatino,Palatino Linotype,Palatino LT STD,Book Antiqua,Georgia,serif;
 	line-height: 1.25;
 	font-size: 5vw;
 	}
@@ -28,8 +28,8 @@ body {
 
 .footer {
 	border-top: 1px solid black;
-	display: flex; 
-	align-items: center; 
+	display: flex;
+	align-items: center;
 	justify-content: center;
 	font-size: 3vw;
 }
@@ -37,6 +37,43 @@ body {
 	width: 4vw;
 	margin:.15vw;
 }
+
+.definition {
+  padding-left: 1vw;
+  padding-right: 1vw;
+  padding-top: .25vh;
+  padding-bottom: 1vh;
+  border-top: 1px solid #cccccc;
+  border-left: 1px solid #cccccc;
+  border-right: 1px solid #cccccc;
+  -webkit-border-top-left-radius: 5px;
+  -webkit-border-top-right-radius: 5px;
+  -moz-border-top-right-radius: 5px;
+  -moz-border-top-left-radius: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.reference {
+  text-align: right;
+  padding-bottom: .25vh;
+
+}
+
+.creditsbar {
+  text-align: center;
+  border: 1px solid #cccccc;
+  background-color: #ededed;
+  -webkit-border-bottom-left-radius: 5px;
+  -webkit-border-bottom-right-radius: 5px;
+  -moz-border-bottom-right-radius: 5px;
+  -moz-border-bottom-left-radius: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  margin-bottom: 1vh;
+  padding: .25vh;
+}
+
 
 
 pre {
@@ -79,7 +116,7 @@ figure {
     .footer img {
 		width: 1vw;
 		margin:.15vw;
-	}	
+	}
 	.stickyscript {
 		font-size: 1.25vw;
   		position: absolute;
@@ -92,14 +129,14 @@ figure {
   		position:fixed;
   		top:0;
   	/*	visibility: visible; */
-	}	
+	}
 	.float-left {
-		float: left; 
+		float: left;
 		padding: 0px 2vh 2vh 0px;
 		max-width: 33%;
 		}
 	.float-right {
-		float: right; 
+		float: right;
 		margin: 0px 15px 15px 0px;
 		max-width: 33%;
 		}
@@ -171,11 +208,11 @@ h2 {
 }
 
 h3 {
-	color: #41B3A3;	
+	color: #41B3A3;
 }
 
 strong {
-	color: #41B3A3;	
+	color: #41B3A3;
 }
 
 .flex-container {
@@ -183,4 +220,3 @@ strong {
 	flex-direction: row;
 	justify-content: center;
 }
-

@@ -11,9 +11,14 @@
 
 {% for definition in site.definitions %}
 {% if definition.lemma == page.name %}
+<div class="definition">
 		{{ definition.content | markdownify }}
-		{% cite definition.source %} {{ definition.page }}
-		<p>
+    <div class="reference">
+		{% cite definition.source %} p{{ definition.page }}
+    </div>
+</div>
+  <div class="creditsbar">
+    <p>
 			<small>
 				{% assign responsible = site.contributors | where: 'short_name', definition.contributor | first %}
 				contributed by <a href="{{ site.baseurl }}{{ responsible.url }}">{{ definition.contributor }}</a> –
@@ -22,6 +27,8 @@
 				by <a href="{{ site.baseurl }}{{ editor.url }}">{{ definition.last_updated_by }}</a>.
 			</small>
 		</p>
+  </div>
+
 {% endif %}
 {% endfor %}
 
