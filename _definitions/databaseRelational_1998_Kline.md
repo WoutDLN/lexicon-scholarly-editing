@@ -1,16 +1,13 @@
 ---
 
 lemma: database (relational)
-source: Kline1998,
-page: 273 
+source: kline_guide_1998
+page: 273
 language: English
-categories: Scholarly Digital Editing
-related_terms: database
 contributor: wout
 last_updated_by: wout
-last_update: 29-01-2015
-        
+last_update: 05-04-2020
+
 ---
 
 **Relational databases.** Computerized [databases](database.html) that allow the user to link information in several different files.
-

@@ -1,16 +1,13 @@
 ---
 
 lemma: crux
-source: 
-page: 
+source: kline_guide_1998
+page: 270
 language: English
-categories: 
-related_terms: variant
 contributor: wout
 last_updated_by: wout
-last_update: 29-01-2015
-        
+last_update: 05-04-2020
+
 ---
 
 **Crux.** An unexplained and unaccoutable [variant](variant.html).
-

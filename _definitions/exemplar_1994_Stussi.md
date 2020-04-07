@@ -1,17 +1,13 @@
 ---
 
 lemma: exemplar
-source: Stussi_1994
-page: 89 
+source: stussi_introduzione_1994
+page: 89
 language: Italian
-categories: 
-related_terms: 
 contributor: elisa
 last_updated_by: wout
-last_update: 18-04-2015
-        
+last_update: 07-04-2020
+
 ---
 
 Si usa spesso <span style="letter-spacing:2px">antigrafo</span> nel senso di copia da cui ne viene tratta un'altra (sebbene significhi etimologicamente il contrario) oppure <span style="letter-spacing:2px">esemplare</span> "copia che serve da modello", ma anche "copia" in genere.
-                        
-

@@ -1,14 +1,12 @@
 ---
 
 lemma: DTD
-source: Burnard_1991
+source: burnard_what_2014
 page: §5.1
 language: English
-categories: Markup, Scholarly Digital Editing
-related_terms:
 contributor: wout
 last_updated_by: wout
-last_update: 30-01-2015
+last_update: 06-04-2020
 
 ---
 

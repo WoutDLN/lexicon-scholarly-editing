@@ -1,16 +1,13 @@
 ---
 
 lemma: diplomatics
-source: Kline_1998
-page: 270 
+source: kline_guide_1998
+page: 270
 language: English
-categories: Basic Terminology
-related_terms: 
 contributor: wout
 last_updated_by: wout
-last_update: 30-01-2015
-        
+last_update: 05-04-2020
+
 ---
 
 _Diplomatics._ The systematic study of the record-keeping methods of particular groups of clerks or administrators.
-

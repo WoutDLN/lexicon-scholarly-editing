@@ -1,16 +1,13 @@
 ---
 
 lemma: accidental
-source: Kline_1998
-page: 269 
+source: kline_guide_1998
+page: 269
 language: English
-categories: Basic Terminology
-related_terms: acc-sub
 contributor: wout
 last_updated_by: wout
-last_update: 19-01-2015
-        
+last_update: 05-040-2020
+
 ---
 
-**Accidentals.** Elements of verbal [text](text.html) such as spelling or marks of [punctuation](punctuation.html) which affect primarily the text's formal presentation. 
-
+**Accidentals.** Elements of verbal [text](text.html) such as spelling or marks of [punctuation](punctuation.html) which affect primarily the text's formal presentation.

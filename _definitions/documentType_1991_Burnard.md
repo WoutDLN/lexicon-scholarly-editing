@@ -1,16 +1,13 @@
 ---
 
 lemma: document (type)
-source: Burnard_1991
-page: §2 
+source: burnard_what_2014
+page: §2
 language: English
-categories: Markup, Scholarly Digital Editing
-related_terms: 
 contributor: wout
 last_updated_by: wout
-last_update: 30-01-2015
-        
+last_update: 06-04-2020
+
 ---
 
 The grammar defining how [elements](element.html) may legally be combined in a particular [class](class.html) of [texts](text.html) is known as a _document type_.
-

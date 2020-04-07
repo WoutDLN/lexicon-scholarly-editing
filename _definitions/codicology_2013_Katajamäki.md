@@ -1,16 +1,13 @@
 ---
 
 lemma: codicology
-source: Katajamäki et_al.2013
-page: 8 
+source: katajamaki_textual_2013
+page: 8
 language: English
-categories: Basic Terminology
-related_terms: codex
 contributor: wout
 last_updated_by: wout
-last_update: 29-01-2015
-        
+last_update: 05-04-2020
+
 ---
 
 _Codicology_, [a form of [textual scholarship](textualScholarship.html)] addressing writings in [codex](codex.html) form.
-

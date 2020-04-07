@@ -4,8 +4,6 @@ lemma: accession number
 source: kline_guide_1998
 page: 269 
 language: English
-categories: 
-related_terms: 
 contributor: wout
 last_updated_by: wout
 last_update: 19-01-2015

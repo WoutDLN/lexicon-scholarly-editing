@@ -1,16 +1,13 @@
 ---
 
 lemma: edition (first)
-source: Plachta_1997
-page: 136 
+source: plachta_editionswissenschaft_1997
+page: 136
 language: German
-categories: Basic Terminology, Editions, Genetic Criticism
-related_terms: edition
 contributor: wout
 last_updated_by: wout
-last_update: 25-02-2015
-        
+last_update: 06-04-2020
+
 ---
 
 **Editio princeps** Erstausgabe.
-

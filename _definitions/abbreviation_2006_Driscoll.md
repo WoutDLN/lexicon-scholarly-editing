@@ -4,8 +4,6 @@ lemma: abbreviation
 source: driscoll_levels_2006
 page: 257 
 language: English
-categories:
-related_terms: 
 contributor: wout
 last_updated_by: wout
 last_update: 19-01-2015

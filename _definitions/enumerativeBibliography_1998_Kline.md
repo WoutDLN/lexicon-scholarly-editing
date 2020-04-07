@@ -1,16 +1,13 @@
 ---
 
 lemma: enumerative bibliography
-source: Kline_1998
-page: 271 
+source: kline_guide_1998
+page: 271
 language: English
-categories: 
-related_terms: 
 contributor: wout
 last_updated_by: wout
-last_update: 28-02-2015
-        
+last_update: 06-04-2020
+
 ---
 
 **Enumerative bibliography.** Reliable and comprehensive listing of printed [works](work.html), their various editions, and comments on those works.
-
