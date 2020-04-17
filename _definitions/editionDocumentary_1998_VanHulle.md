@@ -6,7 +6,6 @@ page: 97-98
 language: Dutch
 contributor: wout
 last_updated_by: wout
-last_update: 06-04-2020
 
 ---
 

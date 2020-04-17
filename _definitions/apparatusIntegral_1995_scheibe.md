@@ -6,7 +6,6 @@ page: 6-7
 language: English
 contributor: wout
 last_updated_by: wout
-last_update: 26-01-2015
 
 ---
 

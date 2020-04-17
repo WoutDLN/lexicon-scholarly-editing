@@ -6,7 +6,6 @@ page:  108-109
 language: French
 contributor: elisa
 last_updated_by: wout
-last_update: 05-04-2020
 
 ---
 
