@@ -21,10 +21,9 @@
     <p>
 			<small>
 				{% assign responsible = site.contributors | where: 'short_name', definition.contributor | first %}
-				contributed by <a href="{{ site.baseurl }}{{ responsible.url }}">{{ definition.contributor }}</a> –
+				Contributed by <a href="{{ site.baseurl }}{{ responsible.url }}">{{ definition.contributor }}</a>.
 				{% assign editor = site.contributors | where: 'short_name', definition.last_updated_by | first%}
-				last updated on {{ definition.last_modified_at | date: "%d %B %Y"}},
-				by <a href="{{ site.baseurl }}{{ editor.url }}">{{ definition.last_updated_by }}</a>.
+				Last updated on {{ definition.last_modified_at | date: "%d %B %Y"}} by <a href="{{ site.baseurl }}{{ editor.url }}">{{ definition.last_updated_by }}</a>.
 			</small>
 		</p>
   </div>
