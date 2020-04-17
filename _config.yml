@@ -30,8 +30,6 @@ defaults:
     values:
       layout: "definition"
 
-baseurl: /lexiconse
-
 scholar:
   bibliography: lexiconse.bib
   bibliography_template: bib
@@ -40,3 +38,8 @@ scholar:
   style: apa
   bibliography_list_tag:
   bibliography_item_tag: p
+
+baseurl: /lexiconse
+
+plugins:
+  - jekyll-last-modified-at
