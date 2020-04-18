@@ -1,0 +1,12 @@
+---
+layout: search
+---
+
+  {% for lemma in site.lexicon %}
+    {
+
+      "title"    : "{{ lemma.name | escape }}",
+      "url"      : "{{ site.baseurl }}{{ lemma.url }}",
+      "content"  : "{% for definition in site.definitions %}{% if definition.lemma == lemma.name %}{{ definition.content | strip_html | strip_newlines | remove_chars | escape}}{% endif %}{% endfor %}"
+    } {% unless forloop.last %},{% endunless %}
+  {% endfor %}

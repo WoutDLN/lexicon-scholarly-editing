@@ -2,14 +2,12 @@
 title: Lexicon
 ---
 
-	<ul>
+<div class="list-group">
 	  	{% assign sorted = site.lexicon | sort_natural %}
 	  	{% for lemma in sorted %}
-	  	<li>
-	  		<h2><a href="{{ site.baseurl }}{{ lemma.url }}">{{ lemma.name }}
+	  	<a href="{{ site.baseurl }}{{ lemma.url }}" class="list-group-item list-group-item-action">{{ lemma.name }}
   			{% assign def_per_lemma = site.definitions | where: 'lemma', lemma.name %}
   			({{ def_per_lemma | size }})
-			</a></h2>
-	    </li>
+			</a>
 		{% endfor %}
-	</ul>
+</div>
