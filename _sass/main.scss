@@ -26,6 +26,12 @@ body {
 	font-size: 18vw;
 }
 
+#search-input {
+  width: 100%;
+	font-size: 2vw;
+  font-family: Palatino,Palatino Linotype,Palatino LT STD,Book Antiqua,Georgia,serif;
+}
+
 .footer {
 	border-top: 1px solid black;
 	display: flex;
@@ -75,8 +81,6 @@ body {
   font-family: monospace;
   font-size: smaller;
 }
-
-
 
 pre {
 	background-color: rgba(71,178,163,0.25);
