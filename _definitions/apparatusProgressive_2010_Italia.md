@@ -1,7 +1,7 @@
 ---
 
 lemma: apparatus (progressive)
-source:
+source: italia_che_2010
 page: 60
 language: Italian
 contributor: jesse
