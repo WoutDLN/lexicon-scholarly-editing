@@ -1,7 +1,7 @@
 ---
 
 lemma: apparatus (vertical)
-source:
+source: italia_che_2010
 page: 50
 language: Italian
 contributor: jesse

@@ -1,7 +1,7 @@
 ---
 
 lemma: apparatus (genetic)
-source:
+source: italia_che_2010
 page: 39
 language: Italian
 contributor: jesse
