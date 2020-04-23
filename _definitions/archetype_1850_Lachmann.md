@@ -1,7 +1,7 @@
 ---
 
 lemma: archetype
-source:
+source: lachmann_novvm_1850
 page: 1
 language: Latin
 contributor: jesse
