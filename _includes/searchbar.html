@@ -1,7 +1,5 @@
 <form action="{{ site.baseurl }}/search.html" method="get">
-  <label for="search-box">Search</label>
-  <input type="text" id="search-box" name="query">
-  <input type="submit" value="search">
+    <label for="search-box" style="display:none">Search</label>
+    <input type="text" name="query" id="search-box" placeholder="Enter your search term...">
+    <input type="submit" value="search">
 </form>
-
-<ul id="search-results"></ul>
