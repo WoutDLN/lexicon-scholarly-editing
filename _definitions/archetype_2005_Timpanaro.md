@@ -1,7 +1,7 @@
 ---
 
 lemma: archetype
-source:
+source: timpanaro_genesis_2005
 page: 49-50
 language: English
 contributor: jesse

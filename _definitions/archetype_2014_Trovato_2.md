@@ -1,7 +1,7 @@
 ---
 
 lemma: archetype
-source:
+source: trovato_everything_2014
 page: 66-67
 language: English
 contributor: jesse

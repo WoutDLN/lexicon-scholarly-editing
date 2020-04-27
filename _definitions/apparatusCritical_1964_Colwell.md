@@ -1,7 +1,7 @@
 ---
 
 lemma: apparatus (critical)
-source:
+source: colwell_variant_1964
 page: 256
 language: English
 contributor: jesse
