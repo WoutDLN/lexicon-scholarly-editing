@@ -9,7 +9,7 @@ last_updated_by: jesse
 
 ---
 
-Nella [filologia d’autore](filologiaDautore.html) applicata in Italia […] con “avantesto” si intende solo l’insieme dei dati materiali relativi a tutto ciò che ha preceduto il [testo](text.html). In questa accezione è possibile distinguere:
+Nella [filologia d’autore](filologiaDAutore.html) applicata in Italia […] con “avantesto” si intende solo l’insieme dei dati materiali relativi a tutto ciò che ha preceduto il [testo](text.html). In questa accezione è possibile distinguere:
 
 – materiali che non hanno relazione diretta con il testo (come gli elenchi di personaggi, i progetti letterari, gli elenchi lessicali, ecc.);
 
