@@ -1,7 +1,7 @@
 ---
 
 lemma: apparatus (symbol)
-source:
+source: italia_che_2010
 page: 57
 language: Italian
 contributor: jesse

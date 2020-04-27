@@ -1,7 +1,7 @@
 ---
 
 lemma: apparatus (critical)
-source:
+source: kelemen_textual_2009
 page: 567
 language: English
 contributor: jesse

@@ -1,7 +1,7 @@
 ---
 
 lemma: apparatus (critical)
-source:
+source: sperberg_how_2009
 page: 28
 language: English
 contributor: jesse
