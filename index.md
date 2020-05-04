@@ -7,4 +7,4 @@ This [Github](https://github.com)-hosted [Jekyll](https://jekyllrb.com) version 
 
 ## Search the Lexicon:
 
-{% include search-container.html %}
+{% include searchbar.html %}
