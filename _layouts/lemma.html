@@ -15,7 +15,7 @@
       <div class="definition">
         {{ definition.content | markdownify }}
         <div class="reference">
-          {% cite definition.source %} p{{ definition.page }}
+          [{% cite definition.source %} p {{ definition.page }}{% if definition.qtd_in%}; qtd. in {% cite definition.qtd_in %} p{{ definition.qtd_in_page}}{% endif %}]
         </div>
       </div>
       <div class="creditsbar">

@@ -12,7 +12,7 @@
       <div class="definition">
         {{ page.content | markdownify }}
         <div class="reference">
-          {% cite page.source %} p{{ page.page }}
+          [{% cite page.source %} p {{ page.page }}{% if page.qtd_in%}; qtd. in {% cite page.qtd_in %} p{{ page.qtd_in_page}}{% endif %}]
         </div>
       </div>
       <div class="creditsbar">
