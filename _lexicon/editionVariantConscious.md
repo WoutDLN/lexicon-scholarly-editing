@@ -1,0 +1,5 @@
+---
+
+name: edition (variant conscious)
+
+---
