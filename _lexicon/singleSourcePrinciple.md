@@ -1,0 +1,6 @@
+---
+
+ name: single source principle
+
+
+---

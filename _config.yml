@@ -39,7 +39,7 @@ scholar:
   bibliography_list_tag:
   bibliography_item_tag: p
 
-baseurl: /lexiconse
+baseurl: /lexicon-scholarly-editing
 
 plugins:
   - jekyll-last-modified-at

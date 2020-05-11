@@ -1,43 +1,25 @@
 <!doctype html>
 <html lang="en">
-         {% include meta.html %}
-  <body>
-         {% include header.html %}
-         {% include navigation.html %}
-      <div class="row" id="content">
-         {% include nosidebar.html %}
-        <div class="col-6">
+{% include meta.html %}
+<body>
+  {% include header.html %}
+  {% include navigation.html %}
+  <div class="row" id="content">
+    {% include nosidebar.html %}
+    <div class="col-6">
 
-<h1>{{ page.name }}</h1>
-
-{% for definition in site.definitions %}
-{% if definition.lemma == page.name %}
-<div class="definition">
-		{{ definition.content | markdownify }}
-    <div class="reference">
-		{% cite definition.source %} p{{ definition.page }}
+      <h1>{{ page.name }}</h1>
+      {% for definition in site.definitions %}
+          {% if definition.lemma == page.name %}
+              {% include definition.html %}
+          {% endif %}
+      {% endfor %}
     </div>
-</div>
-  <div class="creditsbar">
-    <p>
-			<small>
-				{% assign responsible = site.contributors | where: 'short_name', definition.contributor | first %}
-				Contributed by <a href="{{ site.baseurl }}{{ responsible.url }}">{{ definition.contributor }}</a>.
-				{% assign editor = site.contributors | where: 'short_name', definition.last_updated_by | first%}
-				Last updated on {{ definition.last_modified_at | date: "%d %B %Y"}} by <a href="{{ site.baseurl }}{{ editor.url }}">{{ definition.last_updated_by }}</a>.
-			</small>
-		</p>
+    {% include nosidebar.html %}
   </div>
-
-{% endif %}
-{% endfor %}
-
-</div>
-  {% include nosidebar.html %}
-</div>
-<footer>
-  {% include footer.html %}
-</footer>
+  <footer>
+    {% include footer.html %}
+  </footer>
   {% include scripts.html %}
 </body>
 </html>
