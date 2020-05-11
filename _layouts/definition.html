@@ -8,25 +8,8 @@
     {% include nosidebar.html %}
     <div class="col-6">
       <h1>{{ page.lemma }}</h1>
-
-      <div class="definition">
-        {{ page.content | markdownify }}
-        <div class="reference">
-          [{% cite page.source %} p {{ page.page }}{% if page.qtd_in%}; qtd. in {% cite page.qtd_in %} p{{ page.qtd_in_page}}{% endif %}]
-        </div>
-      </div>
-      <div class="creditsbar">
-        <p>
-          <small>
-            {% assign responsible = site.contributors | where: 'short_name', page.contributor | first %}
-            Contributed by <a href="{{ site.baseurl }}{{ responsible.url }}">{{ page.contributor }}</a>.
-            {% assign editor = site.contributors | where: 'short_name', page.last_updated_by | first%}
-            Last updated on {{ page.last_modified_at | date: "%d %B %Y"}}
-            by <a href="{{ site.baseurl }}{{ editor.url }}">{{ page.last_updated_by }}</a>.
-          </small>
-        </p>
-      </div>
-
+      {% assign definition = page %}
+      {% include definition.html%}
     </div>
     {% include nosidebar.html %}
   </div>
