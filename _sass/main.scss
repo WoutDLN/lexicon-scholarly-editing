@@ -26,9 +26,8 @@ body {
 	font-size: 18vw;
 }
 
-#search-input {
-  width: 100%;
-	font-size: 2vw;
+#search-box {
+	font-size: 1.5vw;
   font-family: Palatino,Palatino Linotype,Palatino LT STD,Book Antiqua,Georgia,serif;
 }
 
@@ -211,6 +210,8 @@ h2 {
 	padding: 10px;
 	text-align: center;
 	border-bottom: 1px solid black;
+  margin-top: 10px;
+  margin-bottom: 20px;
 }
 
 h3 {
