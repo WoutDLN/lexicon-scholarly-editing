@@ -1,5 +1,5 @@
 ---
 
-name: LEG: Langage d'encodage génétique
+name: LEG (Langage d'encodage génétique)
 
 ---

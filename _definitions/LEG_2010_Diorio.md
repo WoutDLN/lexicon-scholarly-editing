@@ -1,6 +1,6 @@
 ---
 
-lemma: LEG: Langage d'encodage génétique
+lemma: LEG (Langage d'encodage génétique)
 source: diorio_questce_2010
 page: 52 note 7
 language: French
