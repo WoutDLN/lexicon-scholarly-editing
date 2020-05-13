@@ -55,6 +55,7 @@ nav {
   text-align: center;
   padding: 15px;
   background-color: white;
+  z-index: 2;
 }
 
 .nav-item {
@@ -69,7 +70,7 @@ nav {
 }
 
 #navbarfiller {
-  height:100px; 
+  height:100px;
   width:100%;
   clear:both;
 }
