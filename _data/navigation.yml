@@ -1,10 +1,18 @@
 - name: Home
   link: /
+  icon: fas fa-home
 - name: About
   link: /about.html
+  icon: fas fa-info-circle
 - name: Lexicon
   link: /lexicon.html
+  icon: fas fa-book
 - name: Contributors
   link: /contributors.html
+  icon: fas fa-users
 - name: Bibliography
   link: /bibliography.html
+  icon: far fa-bookmark
+- name: Search
+  link: /search.html
+  icon: fas fa-search
