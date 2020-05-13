@@ -1,0 +1,6 @@
+<!-- array with all contributors -->
+{% assign contributors = "" | split: "" %}
+{% for definition in site.definitions %}
+{% assign contributors = definition.contributor | concat: contributors %}
+{% endfor %}
+{% assign contributors = contributors | uniq | sort_natural %}
