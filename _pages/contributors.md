@@ -1,5 +1,6 @@
 ---
 title: Contributors
+description: contributors to the Lexicon of Scholarly Editing
 ---
 
 # Contributors

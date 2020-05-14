@@ -1,5 +1,6 @@
 ---
 title: copyright
+description: Copyright page
 ---
 
 ## Copyright Notice

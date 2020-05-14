@@ -41,5 +41,7 @@ scholar:
 
 baseurl: /lexicon-scholarly-editing
 
+name: LexiconSE
+
 plugins:
   - jekyll-last-modified-at

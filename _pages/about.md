@@ -1,10 +1,11 @@
 ---
 layout: default
 title: About
+description: "About the Lexicon of Scholarly Editing"
 ---
 # About
 
-The **Lexicon of Scholarly Editing** is an open academic resource for definitions of concepts that are relevant to the field of Scholarly Editing. 
+The **Lexicon of Scholarly Editing** is an open academic resource for definitions of concepts that are relevant to the field of Scholarly Editing.
 
 ## The Babel of Scholarly Editing
 

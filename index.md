@@ -1,5 +1,6 @@
 ---
 title: Home
+description: "homepage"
 ---
 {% include variables/languages.html %}
 {% include variables/contributors.html %}
