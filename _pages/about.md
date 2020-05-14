@@ -1,7 +1,7 @@
 ---
 layout: default
 title: About
-description: "About the Lexicon of Scholarly Editing"
+description: About the Lexicon of Scholarly Editing
 ---
 # About
 
