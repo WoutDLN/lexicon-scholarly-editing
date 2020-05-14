@@ -2,13 +2,15 @@
 
 ## About the Lexicon
 
-This is a reusable LaTeX Template for journals in the Humanities. It was originally developed for [Variants](https://journals.openedition.org/variants/) (the journal of the [European Society for Textual Scholarship](https://textualscholarship.eu/)) by [Wout Dillen](https://github.com/WoutDLN).
-
-Although the template and its design choices are documented in the code itself, a [documentation website](https://woutdln.github.com/VariantX) with more user-friendly instructions on how to use it is currently under construction.
+The [Lexicon of Scholarly Editing](https://woutdln.github.io/lexicon-scholarly-editing/) is an open academic resource for definitions of concepts that are relevant to the field of Scholarly Editing. Rather positing new definitions, however, the lexicon quotes existing definitions from textual scholars as they appear in academic articles, monographs, and the like. The Lexicon was first developed in WordPress (2012 onwards), but has been redeveloped into a Jekyll website in 2020 to make it more sustainable, more citable, to improve collaboration, crediting, and versioning options, and to allow for more automation while also publishing the definitions as a dataset. Find out more on our [About](https://woutdln.github.io/lexicon-scholarly-editing/about.html) page.
 
 ## About the Author
 
-This template was developed by [Wout Dillen](https://github.com/WoutDLN), a postdoctoral researcher at the [University of Antwerp](https://uantwerpen.be) as part of his position as the university's CLARIAH-VL coordinator. He is also the General Editor of the Variants journal from Issue 15 onwards. 
+This template was developed by [Wout Dillen](https://github.com/WoutDLN), a postdoctoral researcher at the [University of Antwerp](https://uantwerpen.be) as part of his position as the university's CLARIAH-VL coordinator. He is also the secretary of the [European Society of Textual Scholarship](https://textualscholarship.eu/), and the General Editor of the society's Open Access jounal [_Variants_](https://journals.openedition.org/variants/) from Issue 15 onwards. 
+
+## About the Website
+
+This website was developed using [Jekyll](https://jekyllrb.com/), and is hosted on [GitHub Pages](https://pages.github.com/) by making use of GitHub Actions ([as documented in the Jekyll documentation](https://jekyllrb.com/docs/continuous-integration/github-actions/)). It uses Jekyll plugins such as [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) and [jekyll-last-modified-at](https://github.com/gjtorikian/jekyll-last-modified-at), and its search function makes use of [lunar.js](https://lunrjs.com/). Except for the definitions themselves, [this website's contents and design are licensed under a CC-BY 4.0 license](https://woutdln.github.io/lexicon-scholarly-editing/copyright.html).
 
 ## Contribute
 
