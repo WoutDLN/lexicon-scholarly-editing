@@ -4,6 +4,8 @@ title: About
 ---
 # About
 
+The **Lexicon of Scholarly Editing** is an open academic resource for definitions of concepts that are relevant to the field of Scholarly Editing. 
+
 ## The Babel of Scholarly Editing
 
 In November 2009, the topic of the annual conference of the European Society for [Textual Scholarship was Texts beyond Borders: Multilingualism and Textual Scholarship](http://www.geneticjoycestudies.org/ESTS2009/) (19-21 November 2009). The logo of the conference was Peter Brueghel the Elder’s image of the Tower of Babel, the so-called little version (kept at the Museum Boijmans Van Beuningen in Rotterdam).
