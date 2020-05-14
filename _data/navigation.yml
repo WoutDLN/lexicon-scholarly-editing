@@ -16,3 +16,6 @@
 - name: Search
   link: /search.html
   icon: fas fa-search
+- name: Copyright
+  link: /copyright.html
+  icon: fas fa-copyright

@@ -17,18 +17,19 @@ body {
 	}
 
 #header {
-	hight: 50px;
-  padding-bottom: 1em;
 	margin-bottom: 1em;
 	text-align: center;
   border-bottom: 3px double black;
-
 }
 
 #header h1 {
 	margin-block-end: 0em;
 	font-size: 18vw;
 }
+
+#Copyright, #subtitle {
+    display: none;
+  }
 
 #search-box {
 	font-size: 5vw;
@@ -52,8 +53,9 @@ nav {
   position: fixed;
   bottom: 0;
   width: 100%;
+  height: 21vw;
   text-align: center;
-  padding: 15px;
+  padding: 3vw;
   background-color: white;
   z-index: 2;
 }
@@ -70,21 +72,14 @@ nav {
 }
 
 #navbarfiller {
-  height:100px;
+  display: block;
+  height:22vw;
   width:100%;
   clear:both;
 }
 
 .footer {
-	border-top: 1px solid black;
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	font-size: 3vw;
-}
-.footer img {
-	width: 4vw;
-	margin:.15vw;
+  display: none;
 }
 
 .definition {
@@ -213,12 +208,22 @@ img {
   #header {
     margin-bottom: 2em;
     border-bottom: none;
-
+    padding-bottom: 1em;
   }
+
 	#header h1 {font-size: 8vw;}
+
 	pre {font-size: 1.25vw;}
 	code{font-size: 1.25vw;}
-	.footer {font-size: 1vw;}
+  footer{display: block;}
+  .footer {
+  	border-top: 1px solid black;
+  	display: flex;
+  	align-items: center;
+  	justify-content: center;
+  	font-size: 1vw;
+  }
+  #Copyright, #subtitle {display: none}
 	figure {font-size: 1vw;}
     .footer img {
 		width: 1vw;
@@ -271,11 +276,13 @@ nav {
 	padding: 5px;
 	margin-top: 1em;
 	margin-bottom: 1em;
+  height: auto;
+
 }
 
 .nav-item {
-	padding: 12px;
-	margin: 5px;
+	padding: .5vw;
+	margin: .5vw;
 	text-align: center;
   font-size: 1.33vw;
 }
