@@ -2,20 +2,20 @@
   link: /
   icon: fas fa-home
 - name: About
-  link: /about.html
+  link: /about
   icon: fas fa-info-circle
 - name: Lexicon
   link: /lexicon.html
   icon: fas fa-book
 - name: Contributors
-  link: /contributors.html
+  link: /contributors
   icon: fas fa-users
 - name: Bibliography
-  link: /bibliography.html
+  link: /bibliography
   icon: far fa-bookmark
 - name: Search
-  link: /search.html
+  link: /search
   icon: fas fa-search
 - name: Copyright
-  link: /copyright.html
+  link: /copyright
   icon: fas fa-copyright
