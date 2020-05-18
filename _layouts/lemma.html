@@ -9,11 +9,14 @@
     <div class="col-6">
 
       <h1>{{ page.name }}</h1>
-      {% for definition in site.definitions %}
-          {% if definition.lemma == page.name %}
-              {% include definition.html %}
-          {% endif %}
-      {% endfor %}
+      {% capture lemma_stripper %}
+        {% for definition in site.definitions %}
+            {% if definition.lemma == page.name %}
+                {% include definition.html %}
+            {% endif %}
+        {% endfor %}
+      {% endcapture %}
+      {{ lemma_stripper | strip }}
     </div>
     {% include nosidebar.html %}
   </div>
