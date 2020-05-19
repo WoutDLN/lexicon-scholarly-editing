@@ -3,6 +3,7 @@ title: Lexicon
 pagination:
   enabled: true
   collection: lexicon
+<<<<<<< HEAD
   sort_field: name
   trail:
     before: 3
@@ -19,3 +20,42 @@ pagination:
       </a>
       {% endfor %}
 </div>
+=======
+---
+
+<div class="list-group">
+	  	{% assign sorted = site.lexicon | sort_natural %}
+	  	{% for lemma in sorted %}
+	  	<a href="{{ site.baseurl }}{{ lemma.url }}" class="list-group-item list-group-item-action">{{ lemma.name }}
+  			{% assign def_per_lemma = site.definitions | where: 'lemma', lemma.name %}
+  			({{ def_per_lemma | size }})
+			</a>
+		{% endfor %}
+</div>
+
+<!-- This loops through the paginated posts -->
+{% for lemma in paginator.lexicon %}
+  <h1><a href="{{ lemma.url }}">{{ lemma.title }}</a></h1>
+  <p class="author">
+    <span class="date">{{ lemma.date }}</span>
+  </p>
+  <div class="content">
+    {{ lemma.content }}
+  </div>
+{% endfor %}
+
+{% if paginator.total_pages > 1 %}
+<ul>
+  {% if paginator.previous_page %}
+  <li>
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li>
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
+>>>>>>> 742de414fdc2d841158438c9c6cd2fd2e4ffc173
