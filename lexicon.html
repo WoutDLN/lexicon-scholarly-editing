@@ -3,19 +3,23 @@ title: Lexicon
 pagination:
   enabled: true
   collection: lexicon
-  sort_field: name
-  trail:
-    before: 2
-    after: 2
 ---
 
 {% include paginatornav.html %}
 
 <div class="list-group">
       {% for lemma in paginator.posts %}
-      <a href="{{ site.baseurl }}{{ lemma.url }}" class="list-group-item list-group-item-action">{{ lemma.name }}
+      <a href="{{ site.baseurl }}{{ lemma.url }}" class="list-group-item list-group-item-action">
+
+        {% if lemma.name_diacritics %}
+        {% assign def_per_lemma = site.definitions | where: 'lemma', lemma.name_diacritics %}
+        {{ lemma.name_diacritics }}
+        {% else %}
         {% assign def_per_lemma = site.definitions | where: 'lemma', lemma.name %}
+        {{ lemma.name }}
+        {% endif %}
         ({{ def_per_lemma | size }})
+
       </a>
       {% endfor %}
 </div>
