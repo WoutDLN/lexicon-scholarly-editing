@@ -58,11 +58,7 @@ pagination:
 
   title: ':title - page :num'   # Optional the title format for the paginated pages (supports :title for original page title, :num for pagination page number, :max for total number of pages)
   limit: 0   # Limit how many pagenated pages to create (default: 0, means all)
-<<<<<<< HEAD
   sort_reverse: false   # Optional, sorts the posts in reverse order (omit to default decending or sort_reverse: true)
-=======
-  sort_reverse: true   # Optional, sorts the posts in reverse order (omit to default decending or sort_reverse: true)
->>>>>>> 742de414fdc2d841158438c9c6cd2fd2e4ffc173
   category: 'posts'   # Optional, the default category to use, omit or just leave this as 'posts' to get a backwards-compatible behavior (all posts)
   tag: ''   # Optional, the default tag to use, omit to disable
 
