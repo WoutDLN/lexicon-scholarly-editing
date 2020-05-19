@@ -47,7 +47,7 @@ body {
   margin-top: 1em;
 }
 
-nav {
+#sitenav {
   position: fixed;
   bottom: 0;
   width: 100%;
@@ -67,6 +67,21 @@ nav {
 
 .nav-item-text {
   display: none;
+}
+
+#paginatornav {
+   margin: 1vw;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+}
+
+li.page-item {
+  color: #E27D60;
+}
+
+li.page-item.active {
+  background-color: black;
 }
 
 #navbarfiller {
@@ -200,7 +215,7 @@ img {
   /* For desktop: */
   [class*="col-"] {
   float: left;
-  padding: 15px;
+  padding: 1vw;
 }
 	body {font-size:1.5vw}
 
@@ -263,7 +278,7 @@ img {
 #search-box {
 	font-size: 1.5vw;
 }
-nav {
+#sitenav {
   position: relative;
   border-top: 3px double black;
 	border-bottom: 3px double black;
