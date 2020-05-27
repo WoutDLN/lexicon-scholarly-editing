@@ -1,0 +1,21 @@
+---
+title: Lexicon
+pagination:
+  enabled: true
+  collection: lexicon
+  sort_field: name
+  trail:
+    before: 3
+    after: 3
+---
+
+{% include paginatornav.html %}
+
+<div class="list-group">
+      {% for lemma in paginator.posts %}
+      <a href="{{ site.baseurl }}{{ lemma.url }}" class="list-group-item list-group-item-action">{{ lemma.name }}
+        {% assign def_per_lemma = site.definitions | where: 'lemma', lemma.name %}
+        ({{ def_per_lemma | size }})
+      </a>
+      {% endfor %}
+</div>
