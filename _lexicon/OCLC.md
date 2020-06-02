@@ -1,5 +1,5 @@
 ---
 
-name: OCLC: Online Computer Library Center
+name: OCLC (Online Computer Library Center)
 
 ---

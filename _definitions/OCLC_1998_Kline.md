@@ -1,6 +1,6 @@
 ---
 
-lemma: OCLC: Online Computer Library Center
+lemma: OCLC (Online Computer Library Center)
 source: kline_guide_1998
 page: 272
 language: English
