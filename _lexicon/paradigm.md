@@ -1,0 +1,5 @@
+---
+
+name: paradigm
+
+---
