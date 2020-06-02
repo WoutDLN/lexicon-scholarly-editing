@@ -8,10 +8,17 @@
     {% include nosidebar.html %}
     <div class="col-6">
 
+      {% if page.name_diacritics %}
+      <h1>{{ page.name_diacritics }}</h1>
+      {% else %}
       <h1>{{ page.name }}</h1>
+      {% endif %}
+      
       {% capture lemma_stripper %}
         {% for definition in site.definitions %}
-            {% if definition.lemma == page.name %}
+            {% if definition.lemma == page.name_diacritics %}
+                {% include definition.html %}
+            {% elsif definition.lemma == page.name %}
                 {% include definition.html %}
             {% endif %}
         {% endfor %}
