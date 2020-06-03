@@ -23,7 +23,7 @@ All quotations are referenced and the text from which they derive can be found i
 
 All suggestions for updates are very welcome. New entries or other definitions can be added by following the instructions on the Contribute page. New contributions will be presented to the lexicon’s editors.
 
-_-- original preface to the Lexicon, by Dirk Van Hulle and Wout Dillen (2012)_
+_-- original preface to the Lexicon, by Dirk Van Hulle (2012)_
 
 # Credits
 In the first place, the credits for this Lexicon of course go to the authors, for writing the definitions in the first place. These authors and their publications can be found on our [Bibliography](bibliography.html) page. We try to follow the [fair-use policy](http://codes.lp.findlaw.com/uscode/17/1/107) when quoting their publications. Nevertheless, if you find we have quoted one of your publications too extensively, please do not hesitate to [contact](mailto:wout.dillen@uantwerpen.be) us.
