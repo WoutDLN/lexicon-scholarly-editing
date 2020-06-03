@@ -16,6 +16,7 @@ body {
   width: 100%;
 	}
 
+#subtitle {display: none;}
 #header {
 		text-align: center;
   }
@@ -24,10 +25,6 @@ body {
 	margin-block-end: 0em;
 	font-size: 18vw;
 }
-
-#Copyright, #subtitle {
-    display: none;
-  }
 
 #search-box {
 	font-size: 5vw;
@@ -91,7 +88,7 @@ li.page-item.active {
   clear:both;
 }
 
-.footer {
+.affiliations, .copyright {
   display: none;
 }
 
@@ -224,20 +221,26 @@ img {
 	pre {font-size: 1.25vw;}
 	code{font-size: 1.25vw;}
   footer{display: block;}
-  .footer {
-  	border-top: 1px solid black;
+  .affiliations, .copyright {
   	display: flex;
   	align-items: center;
   	justify-content: center;
   	font-size: 1vw;
   }
+  .copyright {
+    border-top: 1px solid black;
+  }
   #Copyright {display: none}
   #subtitle {display: block}
 	figure {font-size: 1vw;}
-    .footer img {
+  img.copyright_logo {
 		width: 1vw;
 		margin:.15vw;
 	}
+  img.affiliation_logo {
+  height: 3.25vw;
+  margin:.2vw;
+  }
 	.stickyscript {
 		font-size: 1.25vw;
   		position: absolute;
