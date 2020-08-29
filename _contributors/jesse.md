@@ -1,5 +1,5 @@
 ---
-short_name: jesse
+username: jesse
 name: Jesse Franquet
 position: contributor
 joined: 2020-04-20

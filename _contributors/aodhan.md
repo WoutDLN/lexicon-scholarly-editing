@@ -1,5 +1,5 @@
 ---
-short_name: aodhan
+username: aodhan
 name: Aodhán Kelly
 position: contributor
 joined: 2016-05-31

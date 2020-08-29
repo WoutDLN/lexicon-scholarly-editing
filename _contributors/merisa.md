@@ -1,5 +1,5 @@
 ---
-short_name: merisa
+username: merisa
 name: Merisa Ariel Martinez
 position: Sentient Contributor
 joined: 2017-03-17

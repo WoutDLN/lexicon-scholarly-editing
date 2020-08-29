@@ -1,5 +1,5 @@
 ---
-short_name: fran
+username: fran
 name: Francisco Javier Álvarez-Carbajal
 position: contributor
 joined: 2015-04-28

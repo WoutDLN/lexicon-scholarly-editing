@@ -1,5 +1,5 @@
 ---
-short_name: monica
+username: monica
 name: Monica Zanardo
 position: contributor
 joined: 2015-06-02

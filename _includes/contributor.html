@@ -6,8 +6,8 @@
   {{ content }}
   <p>
     <strong>Achievements: </strong>
-    {% assign contributions = site.definitions | where: 'contributor', page.short_name %}
-    {% assign emmendations = site.definitions | where: 'last_updated_by', page.short_name %}
+    {% assign contributions = site.definitions | where: 'contributor', page.username %}
+    {% assign emmendations = site.definitions | where: 'last_updated_by', page.username %}
 
     {{ page.name }} has added a total of <a data-toggle="collapse" href="#contributions" aria-expanded="false" aria-controls="contributions">{{ contributions | size }} definitions</a> to the Lexicon, and edited at least <a data-toggle="collapse" href="#emmendations" aria-expanded="false" aria-controls="emmendations">{{ emmendations | size }} definitions</a>.
     <div class="collapse" id="contributions">
