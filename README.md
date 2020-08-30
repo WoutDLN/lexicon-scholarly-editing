@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/215016822.svg)](https://zenodo.org/badge/latestdoi/4008433)
 # A Lexicon for Scholarly Editing
 
 ## About the Lexicon
