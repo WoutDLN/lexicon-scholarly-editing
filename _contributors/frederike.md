@@ -1,5 +1,5 @@
 ---
-short_name: frederike
+username: frederike
 name: Frederike Neuber
 position: contributor
 joined: 2014-09-03

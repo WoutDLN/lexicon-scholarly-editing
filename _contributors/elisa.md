@@ -1,5 +1,5 @@
 ---
-short_name: elisa
+username: elisa
 name: Elisa Nury
 position: contributor
 joined: 2014-11-07

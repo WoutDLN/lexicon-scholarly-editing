@@ -1,5 +1,5 @@
 ---
-short_name: gioele
+username: gioele
 name: Gioele Barabucci
 position: contributor
 joined: 2015-08-19

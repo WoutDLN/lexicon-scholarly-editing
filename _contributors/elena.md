@@ -1,5 +1,5 @@
 ---
-short_name: elena
+username: elena
 name: Elena Spadini
 position: contributor
 joined: 2015-06-12

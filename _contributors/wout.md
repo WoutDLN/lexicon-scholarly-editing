@@ -1,5 +1,5 @@
 ---
-short_name: wout
+username: wout
 name: Wout Dillen
 position: Editor in Chief
 joined: 2012

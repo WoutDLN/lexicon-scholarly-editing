@@ -1,5 +1,5 @@
 ---
-short_name: mats
+username: mats
 name: Mats Dahlström
 position: contributor
 joined: 2016-04-01

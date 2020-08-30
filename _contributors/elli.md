@@ -1,5 +1,5 @@
 ---
-short_name: elli
+username: elli
 name: Elli Bleeker
 position: contributor
 joined: 2015-01-26

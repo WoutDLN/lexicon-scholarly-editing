@@ -1,5 +1,5 @@
 ---
-short_name: ronan
+username: ronan
 name: Ronan Crowley
 position: contributor
 joined: 2015-04-30

@@ -1,5 +1,5 @@
 ---
-short_name: luciano
+username: luciano
 name: Luciano Longo
 position: contributor
 joined: 2015-06-02
