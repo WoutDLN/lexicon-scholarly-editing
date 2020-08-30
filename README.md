@@ -1,6 +1,4 @@
-[![DOI](https://zenodo.org/badge/215016822.svg)](https://zenodo.org/badge/latestdoi/4008433)
-# A Lexicon for Scholarly Editing
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4008433.svg)](https://doi.org/10.5281/zenodo.4008433)# A Lexicon for Scholarly Editing
 ## About the Lexicon
 
 The [Lexicon of Scholarly Editing](https://woutdln.github.io/lexicon-scholarly-editing/) is an open academic resource for definitions of concepts that are relevant to the field of Scholarly Editing. Rather positing new definitions, however, the lexicon quotes existing definitions from textual scholars as they appear in academic articles, monographs, and the like. The Lexicon was first developed in WordPress (2012 onwards), but has been redeveloped into a Jekyll website in 2020 to make it more sustainable, more citable, to improve collaboration, crediting, and versioning options, and to allow for more automation while also publishing the definitions as a dataset. Find out more on our [About](https://woutdln.github.io/lexicon-scholarly-editing/about.html) page.
