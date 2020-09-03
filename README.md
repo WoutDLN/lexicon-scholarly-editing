@@ -6,7 +6,7 @@ The [Lexicon of Scholarly Editing](https://woutdln.github.io/lexicon-scholarly-e
 
 ## About the Author
 
-This template was developed by [Wout Dillen](https://github.com/WoutDLN), a postdoctoral researcher at the [University of Antwerp](https://uantwerpen.be) as part of his position as the university's CLARIAH-VL coordinator. He is also the secretary of the [European Society of Textual Scholarship](https://textualscholarship.eu/), and the General Editor of the society's Open Access jounal [_Variants_](https://journals.openedition.org/variants/) from Issue 15 onwards. 
+This template was developed by [Wout Dillen](https://github.com/WoutDLN), a postdoctoral researcher at the [University of Antwerp](https://uantwerpen.be) as part of his position as the university's CLARIAH-VL coordinator. He is also the secretary of the [European Society of Textual Scholarship](https://textualscholarship.eu/), and the General Editor of the society's Open Access jounal [_Variants_](https://journals.openedition.org/variants/) from Issue 15 onwards.
 
 ## About the Website
 
@@ -14,4 +14,6 @@ This website was developed using [Jekyll](https://jekyllrb.com/), and is hosted 
 
 ## Contribute
 
-Guidelines for contributors are still underdevelopment, but a very limited version is available in this repository's [contribution](https://github.com/WoutDLN/lexicon-scholarly-editing/blob/master/CONTRIBUTING.md) file. As the guidelines are extended, they will move to our [wiki](https://github.com/WoutDLN/lexicon-scholarly-editing/wiki).
+The Lexicon is always looking for new definitions. If you have one or more that you'd like to share, please do! Follow our simple contribution steps, and you'll be credited for your efforts in the Lexicon.
+
+For a trimmed down quick reference guide on how to add definitions to the Lexicon, check out our [contribution](https://github.com/WoutDLN/lexicon-scholarly-editing/blob/master/CONTRIBUTING.md) file. For a more elaborate walk through the different steps, have a look at our [wiki](https://github.com/WoutDLN/lexicon-scholarly-editing/wiki).
