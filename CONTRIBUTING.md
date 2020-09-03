@@ -52,10 +52,10 @@ The lemma needs at least a `name` variable in the front matter. Just write it as
 ```
 
 ## Step 4: add definition
-### create definition file
+### 4.1 create definition file
 Add a `.md` file to the `_definitions` directory. For the filename, use: `lemmaFilename_year_lastNameFirstAuthor`. E.g.: `avantTexte_2004_Deppman.md`.
 
-### 3.2 add front matter
+### 4.2 add front matter
 Inside the `.md` file, complete the following variables:
 - `lemma` (value of corresponding lemma's `name` variable),
 - `source` (`@key` of corresponding BibTeX source in `lexicon.bib`),
@@ -64,10 +64,10 @@ Inside the `.md` file, complete the following variables:
 - `contributor` (`username` of whoever initially added the definition to the Lexicon), and
 - `last_updated_by` (`username` of whoever last updated/corrected the definition).
 
-### 3.3 add definition
+### 4.3 add definition
 Below the front matter, write out the full definition, using markdown formatting. Try to be as true to the original as possible. If possible, add links to other definitions in the lexicon, using `[linked text](lemmaFileName.html)`.
 
-### 3.4 complete example of a definition file
+### 4.4 complete example of a definition file
 ```
 ---
 
