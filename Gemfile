@@ -11,4 +11,5 @@ group :jekyll_plugins do
   gem 'jekyll-scholar'
   gem 'bootstrap', '~> 4.4.1'
   gem 'jekyll-paginate-v2'
+  gem "webrick", "~> 1.7"
 end
