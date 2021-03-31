@@ -4,7 +4,7 @@ description: Contributors to the Lexicon of Scholarly Editing
 ---
 
 ## Contributors
-At the moment, the Lexicon has thirteen official contributors: [**Frederike Neuber**](https://twitter.com/FredFirlefanz), a [DiXiT fellow](http://dixit.uni-koeln.de/home.html?&L=1) who is based at the [Centre for Information Modelling – Austrian Centre for Digital Humanities](http://informationsmodellierung.uni-graz.at/en/) at the [University of Graz](http://www.uni-graz.at/en/), Austria (contributing since 3 September 2014);
+At the moment, the Lexicon has thirteen official contributors: [**Frederike Neuber**](https://twitter.com/FrederikeNBR), a [DiXiT fellow](http://dixit.uni-koeln.de/home.html?&L=1) who is based at the [Centre for Information Modelling – Austrian Centre for Digital Humanities](http://informationsmodellierung.uni-graz.at/en/) at the [University of Graz](http://www.uni-graz.at/en/), Austria (contributing since 3 September 2014);
 [**Elisa Nury**](https://twitter.com/ElisaNury), a PhD student in Digital Humanities at [King’s College London](http://www.kcl.ac.uk/index.aspx), UK (contributing since 7 November 2014);
 [**Elli Bleeker**](https://twitter.com/ellibleeker), a DiXiT fellow who is based at the [Centre for Manuscript Genetics](https://www.uantwerpen.be/en/rg/centre-for-manuscript-genetics/) at the University of Antwerp, Belgium (contributing since 26 Januari 2015);
 [**Francisco Javier Álvarez-Carbajal**](https://twitter.com/FranJAlvarezCar), also a DiXiT fellow, who is based at the [École des Haute Études en Sciences Sociales](http://www.ehess.fr/fr/) in Lyon, France (contributing since 28 April 2015);
