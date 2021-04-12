@@ -2,7 +2,7 @@
 
 lemma: reading (act)
 source: belleminnoel_texte_1972
-page: n.p.
+page: 16
 language: French
 contributor: caroline
 last_updated_by: caroline
