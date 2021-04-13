@@ -1,6 +1,6 @@
 ---
- 
+
  name: diacritical sign
- categories: [transcription]
+ tags: [transcription]
 
 ---
