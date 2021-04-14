@@ -15,3 +15,16 @@
 <!-- Scripts for activating search function -->
 <script src="{{site.baseurl}}/assets/js/lunr.min.js"></script>
 <script src="{{site.baseurl}}/assets/js/search.js"></script>
+
+<!-- Script to automatically expand accordion when hash is called in URL-->
+<script type="text/javascript">
+$(document).ready(
+
+  function() {
+
+    if(location.hash != null && location.hash != ""){
+      $(location.hash + '.collapse').collapse('show')
+    ;}
+
+   });
+</script>

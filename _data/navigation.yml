@@ -7,6 +7,9 @@
 - name: Lexicon
   link: /lexicon.html
   icon: fas fa-book
+- name: Cats
+  link: /categories
+  icon: fas fa-paw
 - name: Contributors
   link: /contributors
   icon: fas fa-users
