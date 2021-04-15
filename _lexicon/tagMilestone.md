@@ -1,6 +1,6 @@
 ---
 
 name: tag (milestone)
-categories: :[Markup, Digital Scholarly Editing]
+categories: [Markup, Digital Scholarly Editing]
 
 ---
