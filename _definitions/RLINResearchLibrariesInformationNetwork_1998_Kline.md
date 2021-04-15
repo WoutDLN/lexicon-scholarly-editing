@@ -9,4 +9,4 @@ last_updated_by: caroline
 
 ---
 
-**RLIN (Research Libraries Information Network).** A natìonwide bibliographic utility.
+**RLIN (Research Libraries Information Network).** A nationwide bibliographic utility.
