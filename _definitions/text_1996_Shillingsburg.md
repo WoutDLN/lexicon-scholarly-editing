@@ -9,4 +9,4 @@ last_updated_by: wout
 
 ---
 
-The series of words and pauses recorded in a [document](document.html).\
+The series of words and pauses recorded in a [document](document.html).
