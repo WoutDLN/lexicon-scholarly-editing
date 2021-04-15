@@ -1,5 +1,5 @@
 ---
 
-name: error (typographical.md)
+name: error (typographical)
 
 ---
