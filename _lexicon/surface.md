@@ -1,6 +1,6 @@
 ---
 
 name: surface
-categories: [Document, Markup, Scholarly Digital Editing]
+categories: [Document, Markup, Digital Scholarly Editing]
 
 ---
