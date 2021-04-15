@@ -1,0 +1,5 @@
+---
+
+name: setting copy
+
+---

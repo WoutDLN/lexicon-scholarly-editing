@@ -1,0 +1,6 @@
+---
+
+name: siglum
+categories: [Text]
+
+---

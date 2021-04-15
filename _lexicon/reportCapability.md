@@ -1,0 +1,5 @@
+---
+
+name: report capability
+
+---
