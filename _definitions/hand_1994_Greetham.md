@@ -1,11 +1,11 @@
 ---
 
-lemma: header
+lemma: hand
 source: greetham_textual_1994
 page: 172
 language: English
-contributor: jesse
-last_updated_by: jesse
+contributor: wout
+last_updated_by: wout
 
 ---
 

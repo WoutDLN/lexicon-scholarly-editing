@@ -1,11 +1,11 @@
 ---
 
-lemma: monograpic
+lemma: monographic
 source: burnard_what_2014
 page: 110
 language: English
-contributor: jesse
-last_updated_by: jesse
+contributor: wout
+last_updated_by: wout
 
 ---
 **Monographic**
