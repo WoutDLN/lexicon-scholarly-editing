@@ -1,6 +1,6 @@
 ---
 
 name: SHORTREF
-categories: [Markup, Scholarly Digital Editing]
+categories: [Markup, Digital Scholarly Editing]
 
 ---
