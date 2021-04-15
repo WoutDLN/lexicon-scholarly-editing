@@ -9,4 +9,4 @@ last_updated_by: caroline
 
 ---
 
-In de _revision description <revisionDesc>_ wordt bijgehouden wie een verandering op de [tekst](text.html) aanbracht en wanneer.
+In de _revision description_ `<revisionDesc>` wordt bijgehouden wie een verandering op de [tekst](text.html) aanbracht en wanneer.
