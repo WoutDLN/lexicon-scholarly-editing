@@ -1,10 +1,17 @@
 {%- include variables/dogs.html -%}
 {%- assign tagcounter = page.tags | size -%}
 {%- if tagcounter >= 1 -%}
+<div id="accordion">
   <div class="card">
-    <div class="card-header">
-      <strong>Related Terms:</strong>
+    <div class="card-header" id="tagwidget">
+      <h3 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" style="font-size:1.25em" data-target="#tagcontents" aria-expanded="false" aria-controls="collapseOne">
+      Related Terms
+        </button>
+      </h3>
     </div>
+  <div id="tagcontents" class="collapse" aria-labelledby="tagwidget" data-parent="#accordion">
+      <div class="card-body" style="padding:0">
       {%- for dog in dogs -%}
       {%- assign litter = site.lexicon | where: 'tags', dog -%}
         {%- if page.tags contains dog -%}
@@ -17,5 +24,8 @@
         </ul>
         {%- endif -%}
       {%- endfor -%}
+    </div>
   </div>
+</div>
+</div>
 {%- endif -%}

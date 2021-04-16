@@ -18,10 +18,10 @@ description: List of categories used.
       </h3>
     </div>
     <div id="{{cat | slugify }}" class="collapse" aria-labelledby="{{cat | slugify }}-header" data-parent="#accordion">
-      <div class="card-body">
-        <ul>
+      <div class="card-body" style="padding:0">
+        <ul class="list-group list-group-flush">
           {% for kitten in litter %}
-          <li><a href="{{ site.baseurl }}{{ kitten.url }}">{{ kitten.name }}</a></li>
+          <li class="list-group-item"><a href="{{ site.baseurl }}{{ kitten.url }}">{{ kitten.name }}</a></li>
           {% endfor %}
         </ul>
       </div>

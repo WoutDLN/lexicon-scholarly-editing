@@ -1,13 +1,23 @@
 {%- assign catcounter = page.categories | size -%}
 {%- if catcounter >= 1 -%}
-<div class="card">
-  <div class="card-header">
-    <strong>Categories:</strong>
+<div id="accordion">
+  <div class="card">
+    <div class="card-header" id="catwidget">
+      <h3 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" style="font-size:1.25em" data-target="#catcontents" aria-expanded="false" aria-controls="collapseOne">
+          Categories
+        </button>
+      </h3>
+    </div>
+    <div id="catcontents" class="collapse" aria-labelledby="catwidget" data-parent="#accordion">
+      <div class="card-body" style="padding:0">
+        <ul class="list-group list-group-flush">
+          {%- for category in page.categories -%}
+          <li class="list-group-item"><a href="{{site.baseurl}}/categories.html#{{ category | slugify }}">{{ category }}</a></li>
+          {%- endfor -%}
+        </ul>
+      </div>
+    </div>
   </div>
-  <ul class="list-group list-group-flush">
-    {%- for category in page.categories -%}
-    <li class="list-group-item"><a href="{{site.baseurl}}/categories.html#{{ category | slugify }}">{{ category }}<a></li>
-    {%- endfor -%}
-  </ul>
 </div>
 {%- endif -%}
