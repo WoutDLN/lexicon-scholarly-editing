@@ -1,0 +1,21 @@
+{%- include variables/dogs.html -%}
+{%- assign tagcounter = page.tags | size -%}
+{%- if tagcounter >= 1 -%}
+  <div class="card">
+    <div class="card-header">
+      <strong>Related Terms:</strong>
+    </div>
+      {%- for dog in dogs -%}
+      {%- assign litter = site.lexicon | where: 'tags', dog -%}
+        {%- if page.tags contains dog -%}
+        <ul class="list-group list-group-flush">
+          {%- for puppy in litter -%}
+            {% unless puppy == page  %}
+            <li class="list-group-item"><a href="{{ site.baseurl }}{{ puppy.url }}">{{ puppy.name }}</a></li>
+            {% endunless %}
+          {%- endfor -%}
+        </ul>
+        {%- endif -%}
+      {%- endfor -%}
+  </div>
+{%- endif -%}

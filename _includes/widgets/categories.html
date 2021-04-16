@@ -1,0 +1,13 @@
+{%- assign catcounter = page.categories | size -%}
+{%- if catcounter >= 1 -%}
+<div class="card">
+  <div class="card-header">
+    <strong>Categories:</strong>
+  </div>
+  <ul class="list-group list-group-flush">
+    {%- for category in page.categories -%}
+    <li class="list-group-item"><a href="{{site.baseurl}}/categories.html#{{ category | slugify }}">{{ category }}<a></li>
+    {%- endfor -%}
+  </ul>
+</div>
+{%- endif -%}

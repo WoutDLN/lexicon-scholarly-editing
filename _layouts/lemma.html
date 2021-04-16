@@ -7,14 +7,18 @@
   <div class="row" id="content">
     {% include nosidebar.html %}
     <div class="col-6">
-
       {% if page.name_diacritics %}
-      <h1>{{ page.name_diacritics }}</h1>
+      <h2>{{ page.name_diacritics }}</h2>
       {% else %}
-      <h1>{{ page.name }}</h1>
+      <h2>{{ page.name }}</h2>
       {% endif %}
+    </div>
+    {% include nosidebar.html %}
+  </div>
 
-
+  <div class="row" id="content">
+    {% include lemma_leftsidebar.html %}
+    <div class="col-6">
       {% capture lemma_stripper %}
         {% for definition in site.definitions %}
             {% if definition.lemma == page.name_diacritics %}
@@ -26,7 +30,7 @@
       {% endcapture %}
       {{ lemma_stripper | strip }}
     </div>
-    {% include sidebar_lemma.html %}
+    {% include lemma_rightsidebar.html %}
   </div>
   <footer>
     {% include footer.html %}
