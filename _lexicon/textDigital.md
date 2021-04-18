@@ -1,6 +1,6 @@
 ---
 
-name: text (content)
+name: text (digital)
 categories: [Text]
 tags: [text]
 

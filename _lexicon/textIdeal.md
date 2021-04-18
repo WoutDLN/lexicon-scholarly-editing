@@ -1,6 +1,6 @@
 ---
 
-name: text (content)
+name: text (ideal)
 categories: [Text]
 tags: [text]
 

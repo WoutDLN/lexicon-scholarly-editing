@@ -1,6 +1,6 @@
 ---
 
-name: text (content)
+name: text (inclusive)
 categories: [Text]
 tags: [text]
 

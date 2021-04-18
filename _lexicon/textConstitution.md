@@ -1,6 +1,6 @@
 ---
 
-name: text (content)
+name: text (constitution)
 categories: [Text]
 tags: [text]
 

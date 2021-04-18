@@ -1,6 +1,6 @@
 ---
 
-name: TEI (Consortium)
+name: TEI (Special Interest Group)
 categories: [Markup]
 tags: [TEI]
 

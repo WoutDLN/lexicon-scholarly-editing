@@ -1,6 +1,6 @@
 ---
 
-name: text (content)
+name: text (orientation)
 categories: [Text]
 tags: [text]
 

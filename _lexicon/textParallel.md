@@ -1,6 +1,6 @@
 ---
 
-name: text (content)
+name: text (parallel)
 categories: [Text]
 tags: [text]
 

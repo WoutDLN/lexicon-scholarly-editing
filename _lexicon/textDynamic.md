@@ -1,6 +1,6 @@
 ---
 
-name: text (content)
+name: text (dynamic)
 categories: [Text]
 tags: [text]
 

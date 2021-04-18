@@ -1,6 +1,6 @@
 ---
 
-name: text (content)
+name: text (fluid)
 categories: [Text]
 tags: [text]
 

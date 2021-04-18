@@ -1,6 +1,6 @@
 ---
 
-name: text (content)
+name: text (synoptic)
 categories: [Text]
 tags: [text]
 

@@ -1,6 +1,6 @@
 ---
 
-name: text (content)
+name: text (edited)
 categories: [Text]
 tags: [text]
 
