@@ -1,7 +1,7 @@
 ---
 
 lemma: token
-source: dekker_computer-supported_2014
+source: dekker_computer_2014
 page: 4
 language: English
 contributor: caroline

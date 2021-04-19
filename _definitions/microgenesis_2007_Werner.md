@@ -4,7 +4,7 @@ lemma: microgenesis
 source: werner_woe_2007
 page: 43
 language: English
-contributor: jesse
+contributor: wout
 last_updated_by: jesse
 
 ---

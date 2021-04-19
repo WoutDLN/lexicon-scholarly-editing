@@ -13,7 +13,8 @@
       {% else %}
       <h1>{{ page.name }}</h1>
       {% endif %}
-      
+
+
       {% capture lemma_stripper %}
         {% for definition in site.definitions %}
             {% if definition.lemma == page.name_diacritics %}
@@ -25,7 +26,7 @@
       {% endcapture %}
       {{ lemma_stripper | strip }}
     </div>
-    {% include nosidebar.html %}
+    {% include sidebar_lemma.html %}
   </div>
   <footer>
     {% include footer.html %}

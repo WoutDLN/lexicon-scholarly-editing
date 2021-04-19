@@ -1,5 +1,5 @@
 ---
 
-name: posttext stage
+name: posttext (stage)
 
 ---

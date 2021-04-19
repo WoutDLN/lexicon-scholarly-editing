@@ -1,7 +1,7 @@
 ---
- 
+
  name: edition (documentary digital)
- categories: [Editions, Scholarly Digital Editing]
+ categories: [Editions, Digital Scholarly Editing]
  tags: [edition]
 
 ---

@@ -1,7 +1,7 @@
 ---
- 
+
  name: edition (hypertext)
- categories: [Editions, Digital Scholarly Editiong]
+ categories: [Editions, Digital Scholarly Editing]
  tags: [edition]
 
 ---
