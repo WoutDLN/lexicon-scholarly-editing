@@ -1,0 +1,12 @@
+---
+
+lemma: text (sophisticated)
+source: shillingsburg_scholarly_1996
+page: 174
+language: English
+contributor: caroline
+last_updated_by: caroline
+
+---
+
+**sophisticated text.** A [text](text.html) purporting to be a faithful copy but containing introduced [variants](variant.html) that are syntactically plausible. The sophistications may or may not be "improvements" but, on the whole, are considered to have been produced according to faulty editorial principles. _Sophisticated texts_ are _[corrupt texts](textCorrupt.html)_, though not all corrupt texts are sophisticated.
