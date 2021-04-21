@@ -4,7 +4,7 @@ lemma: recensio
 source: maas_critica_1952
 page: XVII-13
 language: Italian
-contributor: caroline
+contributor: elena
 last_updated_by: caroline
 
 ---
