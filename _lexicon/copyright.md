@@ -1,0 +1,6 @@
+---
+
+name: copyright
+categories: [Text]
+
+---
