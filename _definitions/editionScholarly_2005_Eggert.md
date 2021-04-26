@@ -1,6 +1,6 @@
 ---
 
-lemma: edition (documentary)
+lemma: edition (scholarly)
 source: eggert_text_2005
 page: 433
 language: English
