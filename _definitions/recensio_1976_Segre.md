@@ -4,7 +4,7 @@ lemma: recensio
 source: segre_critique_1976
 page: 279
 language: French
-contributor: caroline
+contributor: elena
 last_updated_by: caroline
 
 ---

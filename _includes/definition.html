@@ -1,16 +1,29 @@
-<div class="definition">
-  {{ definition.content | markdownify }}
-  <div class="reference">
-    [{% cite definition.source %} p {{ definition.page }}{% if definition.qtd_in%}; qtd. in {% cite definition.qtd_in %} p{{ definition.qtd_in_page}}{% endif %}]
+<div id="accordion">
+  <div class="card">
+    <div class="card-header" id="{{definition.source}}-header">
+      <h3 class="mb-0">
+        <button class="btn btn-link collapsed" data-toggle="collapse" style="font-size:1.25em" data-target="#{{definition.source}}" aria-expanded="false" aria-controls="collapseOne">
+          {% bibliography --query @*[key={{definition.source}}] -T jekyll-scholar/definition-card-header %}
+        </button>
+      </h3>
+    </div>
+    <div id="{{definition.source}}" class="collapse" aria-labelledby="{{definition.source}}-header" data-parent="#accordion">
+      <div class="card-body">
+        {{ definition.content | markdownify }}
+      </div>
+      <div class="card-body reference">
+        ({% include citation-reference.html %})
+      </div>
+      <div class="card-body creditsbar">
+        <p>
+          <small>
+            {% assign responsible = site.contributors | where: 'username', definition.contributor | first %}
+            Contributed by <a href="{{ site.baseurl }}{{ responsible.url }}">{{ definition.contributor }}</a>.
+            {% assign editor = site.contributors | where: 'username', definition.last_updated_by | first %}
+            Last updated on {{ definition.last_modified_at | date: "%d %B %Y"}} by <a href="{{ site.baseurl }}{{ editor.url }}">{{ definition.last_updated_by }}</a>.
+          </small>
+        </p>
+      </div>
+    </div>
   </div>
-</div>
-<div class="creditsbar">
-  <p>
-    <small>
-      {% assign responsible = site.contributors | where: 'username', definition.contributor | first %}
-      Contributed by <a href="{{ site.baseurl }}{{ responsible.url }}">{{ definition.contributor }}</a>.
-      {% assign editor = site.contributors | where: 'username', definition.last_updated_by | first%}
-      Last updated on {{ definition.last_modified_at | date: "%d %B %Y"}} by <a href="{{ site.baseurl }}{{ editor.url }}">{{ definition.last_updated_by }}</a>.
-    </small>
-  </p>
 </div>

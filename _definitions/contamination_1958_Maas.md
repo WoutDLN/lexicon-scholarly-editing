@@ -2,7 +2,8 @@
 
 lemma: contamination
 source: maas_textual_1958
-page: §10
+page: 10
+locator: §
 language: English
 contributor: jesse
 last_updated_by: jesse

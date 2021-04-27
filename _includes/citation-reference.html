@@ -1,0 +1,9 @@
+<a href="../bibliography#{{definition.source}}">{%- bibliography --query @*[key={{definition.source}}] -T jekyll-scholar/citation-key -%}</a>,
+{%- if definition.locator -%}
+{{ definition.locator }}
+{%- endif -%}
+{{ definition.page | prepend: " "}}
+{%- if definition.qtd_in -%}
+; qtd. in <a href="../bibliography#{{definition.qtd_in}}">{%- bibliography --query @*[key={{definition.qtd_in}}] -T jekyll-scholar/citation-key -%}</a>,
+{{definition.qtd_in_page}}
+{%- endif -%}

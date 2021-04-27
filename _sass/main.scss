@@ -118,13 +118,10 @@ li.page-item.active {
 
 .reference {
   text-align: right;
-  padding-bottom: .25vh;
-
 }
 
 .creditsbar {
   text-align: center;
-  border: 1px solid #cccccc;
   background-color: #ededed;
   -webkit-border-bottom-left-radius: 5px;
   -webkit-border-bottom-right-radius: 5px;
@@ -132,8 +129,6 @@ li.page-item.active {
   -moz-border-bottom-left-radius: 5px;
   border-bottom-left-radius: 5px;
   border-bottom-right-radius: 5px;
-  margin-bottom: 1vh;
-  padding: .25vh;
   font-family: monospace;
   font-size: smaller;
 }

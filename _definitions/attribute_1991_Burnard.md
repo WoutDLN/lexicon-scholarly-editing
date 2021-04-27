@@ -2,7 +2,8 @@
 
 lemma: attribute
 source: burnard_what_2014
-page: §4.3
+page: 4.3
+locator: §
 language: English
 contributor: wout
 last_updated_by: wout

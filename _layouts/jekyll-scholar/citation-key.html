@@ -1,0 +1,8 @@
+---
+---
+{% assign authors = entry.author | split: ", " %}
+{%- if entry.author contains " and " -%}
+{{ authors | first | append: " et al."}} {{ entry.year }}
+{%- else -%}
+{{ authors | first }} {{ entry.year }}
+{%- endif -%}

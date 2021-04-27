@@ -32,12 +32,12 @@ defaults:
 
 scholar:
   bibliography: lexiconse.bib
-  bibliography_template: bib
+  bibliography_template: jekyll-scholar/bib
   relative: "../bibliography.html"
   sort_by: author, editor, year
-  style: apa
-  bibliography_list_tag:
-  bibliography_item_tag: p
+  style: chicago-author-date
+  bibliography_list_tag: span
+  bibliography_item_tag: span
 
 baseurl: /lexicon-scholarly-editing
 

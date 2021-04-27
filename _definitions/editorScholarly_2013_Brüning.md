@@ -2,7 +2,8 @@
 
 lemma: editor (scholarly)
 source: bruning_multiple_2013
-page: §19
+page: 19
+locator: §
 language: English
 contributor: wout
 last_updated_by: wout

@@ -2,7 +2,8 @@
 
 lemma: SGML
 source: burnard_what_1991
-page: section 4.1
+page: 4.1
+locator: section
 language: English
 contributor: caroline
 last_updated_by: caroline
