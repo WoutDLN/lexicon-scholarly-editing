@@ -5,9 +5,9 @@ source: peirce_prolegomena_1906
 page: 423-24
 qtd_in: huitfeldt_what_2008
 qtd_in_page: 309, note 1
-language: Engish
+language: English
 contributor: caroline
-last_updated_by: caroline
+last_updated_by: wout
 
 ---
 
