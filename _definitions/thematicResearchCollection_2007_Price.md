@@ -1,11 +1,11 @@
 ---
 
-lemma: textual transmission
+lemma: thematic research collection
 source: price_electronic_2007
 page: 440
 language: English
 contributor: caroline
-last_updated_by: caroline
+last_updated_by: wout
 
 ---
 
