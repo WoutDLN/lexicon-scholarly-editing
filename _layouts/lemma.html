@@ -20,7 +20,9 @@
     {% include lemma_leftsidebar.html %}
     <div class="col-6">
       {% capture lemma_stripper %}
+        {% assign nr = 0 %}
         {% for definition in site.definitions %}
+            {% assign nr = nr | plus: 1 %}
             {% if definition.lemma == page.name_diacritics %}
                 {% include definition.html %}
             {% elsif definition.lemma == page.name %}
