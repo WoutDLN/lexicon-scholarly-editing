@@ -2,7 +2,8 @@
 
 lemma: edition (hypertext)
 source: dahlstrom_drowning_2000
-page: §8
+page: 8
+locator: §
 language: English
 contributor: wout
 last_updated_by: wout

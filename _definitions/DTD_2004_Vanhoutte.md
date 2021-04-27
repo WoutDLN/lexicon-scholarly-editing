@@ -2,7 +2,8 @@
 
 lemma: DTD
 source: vanhoutte_introduction_2004
-page: §5.1
+page: 5.1
+locator: §
 language: English
 contributor: wout
 last_updated_by: wout
