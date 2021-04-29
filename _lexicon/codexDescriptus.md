@@ -1,7 +1,7 @@
 ---
 
- name: codex
+ name: codex (descriptus)
  categories: [Basic Terminology]
- tags: [codex, support]
+ tags: [codex]
 
 ---

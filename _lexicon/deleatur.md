@@ -1,5 +1,6 @@
 ---
 
 name: deleatur
+tags: [emendation]
 
---- 
+---
