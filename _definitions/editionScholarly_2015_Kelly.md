@@ -4,7 +4,7 @@ lemma: edition (scholarly)
 source: kelly_tablet_2015
 page: 125
 language: English
-contributor: jesse
+contributor: aodhan
 last_updated_by: jesse
 
 ---

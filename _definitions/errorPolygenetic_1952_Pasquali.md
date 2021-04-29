@@ -4,7 +4,7 @@ lemma: error (polygenetic)
 source: pasquali_storia_1952
 page: 9
 language: Italian
-contributor: jesse
+contributor: elisa
 last_updated_by: jesse
 
 ---

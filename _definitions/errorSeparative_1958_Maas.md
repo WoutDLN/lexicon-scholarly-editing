@@ -4,7 +4,7 @@ lemma: error (separative)
 source: maas_textual_1958
 page: 42
 language: English
-contributor: jesse
+contributor: elisa
 last_updated_by: jesse
 
 ---

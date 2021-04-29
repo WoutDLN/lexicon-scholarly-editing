@@ -4,7 +4,7 @@ lemma: edition (variant conscious)
 source: epp_all_2007
 page: 298
 language: English
-contributor: jesse
+contributor: elisa
 last_updated_by: jesse
 
 ---
