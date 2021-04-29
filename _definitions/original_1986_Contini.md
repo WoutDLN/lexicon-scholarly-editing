@@ -4,7 +4,7 @@ lemma: original
 source: contini_breviario_1986
 page: 22
 language: Italian
-contributor: jesse
+contributor: elisa
 last_updated_by: jesse
 
 ---

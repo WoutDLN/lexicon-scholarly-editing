@@ -4,7 +4,7 @@ lemma: codex (descriptus)
 source: contini_breviario_1986
 page: 26-27
 language: Italian
-contributor: jesse
+contributor: elisa
 last_updated_by: jesse
 
 ---

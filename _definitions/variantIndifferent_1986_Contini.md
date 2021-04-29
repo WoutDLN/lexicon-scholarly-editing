@@ -4,7 +4,7 @@ lemma: variant (indifferent)
 source: contini_breviario_1986
 page: 7
 language: Italian
-contributor: caroline
+contributor: elisa
 last_updated_by: caroline
 
 ---

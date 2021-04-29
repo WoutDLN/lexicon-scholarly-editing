@@ -4,7 +4,7 @@ lemma: edition (authoritative)
 source: contini_breviario_1986
 page: 15-16
 language: Italian
-contributor: jesse
+contributor: elisa
 last_updated_by: jesse
 
 ---

@@ -4,7 +4,7 @@ lemma: variant (authorial)
 source: contini_breviario_1986
 page: 13
 language: Italian
-contributor: caroline
+contributor: elisa
 last_updated_by: caroline
 
 ---

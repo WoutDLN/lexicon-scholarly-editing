@@ -4,7 +4,7 @@ lemma: textual transmission
 source: contini_breviario_1986
 page: 25
 language: Italian
-contributor: caroline
+contributor: elisa
 last_updated_by: caroline
 
 ---

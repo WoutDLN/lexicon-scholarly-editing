@@ -4,7 +4,7 @@ lemma: variantistica
 source: contini_breviario_1986
 page: 12
 language: Italian
-contributor: caroline
+contributor: elisa
 last_updated_by: caroline
 
 ---
