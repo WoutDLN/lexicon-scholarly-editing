@@ -4,7 +4,7 @@ lemma: collation (automatic)
 source: whittaker_practice_1991
 page: 128
 language: English
-contributor: jesse
+contributor: elisa
 last_updated_by: jesse
 
 ---

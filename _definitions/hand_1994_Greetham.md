@@ -4,7 +4,7 @@ lemma: hand
 source: greetham_textual_1994
 page: 172
 language: English
-contributor: wout
+contributor: elisa
 last_updated_by: wout
 
 ---

@@ -4,7 +4,7 @@ lemma: collation (automatic)
 source: mace_chapter_2015
 page: 333
 language: English
-contributor: jesse
+contributor: elisa
 last_updated_by: jesse
 
 ---

@@ -4,7 +4,7 @@ lemma: collation (automatic)
 source: gilbert_automatic_1973
 page: 139
 language: English
-contributor: jesse
+contributor: elisa
 last_updated_by: jesse
 
 ---

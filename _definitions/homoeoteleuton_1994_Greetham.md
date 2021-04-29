@@ -4,7 +4,7 @@ lemma: homoeoteleuton
 source: greetham_textual_1994
 page: 281
 language: English
-contributor: jesse
+contributor: elisa
 last_updated_by: jesse
 
 ---

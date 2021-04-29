@@ -4,7 +4,7 @@ lemma: conjectural
 source: greetham_textual_1994
 page: 352
 language: English
-contributor: jesse
+contributor: elisa
 last_updated_by: jesse
 
 ---

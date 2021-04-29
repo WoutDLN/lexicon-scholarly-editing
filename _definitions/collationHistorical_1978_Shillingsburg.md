@@ -4,7 +4,7 @@ lemma: collation (historical)
 source: shillingsburg_computer_1978
 page: 448
 language: English
-contributor: jesse
+contributor: elisa
 last_updated_by: jesse
 
 ---
