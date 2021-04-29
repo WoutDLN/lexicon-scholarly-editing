@@ -4,7 +4,7 @@ lemma: rewriting
 source: italia_che_2010
 page: 57
 language: Italian
-contributor: caroline
+contributor: monica
 last_updated_by: caroline
 
 ---

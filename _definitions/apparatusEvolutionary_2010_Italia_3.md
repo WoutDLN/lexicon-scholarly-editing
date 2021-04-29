@@ -4,7 +4,7 @@ lemma: apparatus (evolutionary)
 source: italia_che_2010
 page: 46
 language: Italian
-contributor: jesse
+contributor: monica
 last_updated_by: jesse
 
 ---

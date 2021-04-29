@@ -1,10 +1,10 @@
 ---
 
 lemma: apparatus (linear)
-source: italia_che_2010 
+source: italia_che_2010
 page: 52
 language: Italian
-contributor: jesse
+contributor: monica
 last_updated_by: jesse
 
 ---
