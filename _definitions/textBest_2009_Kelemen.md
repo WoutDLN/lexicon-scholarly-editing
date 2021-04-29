@@ -4,7 +4,7 @@ lemma: text (best)
 source: kelemen_textual_2009
 page: 567
 language: English
-contributor: caroline
+contributor: merisa
 last_updated_by: caroline
 
 ---

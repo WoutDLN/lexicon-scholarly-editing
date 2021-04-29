@@ -4,7 +4,7 @@ lemma: archetype
 source: kelemen_textual_2009
 page: 567
 language: English
-contributor: jesse
+contributor: merisa
 last_updated_by: jesse
 
 ---
