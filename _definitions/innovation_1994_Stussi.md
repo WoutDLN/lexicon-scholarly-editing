@@ -4,7 +4,7 @@ lemma: innovation
 source: stussi_introduzione_1994
 page: 100
 language: Italian
-contributor: jesse
+contributor: elisa
 last_updated_by: jesse
 
 ---

@@ -4,7 +4,7 @@ lemma: collation
 source: stussi_introduzione_1994
 page: 123
 language: Italian
-contributor: jesse
+contributor: elisa
 last_updated_by: jesse
 
 ---

@@ -4,7 +4,7 @@ lemma: diffraction
 source: stussi_introduzione_1994
 page: 134
 language: Italian
-contributor: jesse
+contributor: elisa
 last_updated_by: jesse
 
 ---

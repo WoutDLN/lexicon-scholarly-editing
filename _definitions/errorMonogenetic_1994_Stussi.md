@@ -4,7 +4,7 @@ lemma: error (monogenetic)
 source: stussi_introduzione_1994
 page: 103-104
 language: Italian
-contributor: jesse
+contributor: elisa
 last_updated_by: jesse
 
 ---

@@ -4,7 +4,7 @@ lemma: reading (variant)
 source: stussi_introduzione_1994
 page: 89
 language: Italian
-contributor: caroline
+contributor: elisa
 last_updated_by: caroline
 
 ---

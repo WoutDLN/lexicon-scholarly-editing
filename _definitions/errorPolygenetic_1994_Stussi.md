@@ -4,7 +4,7 @@ lemma: error (polygenetic)
 source: stussi_introduzione_1994
 page: 103
 language: Italian
-contributor: jesse
+contributor: elisa
 last_updated_by: jesse
 
 ---
