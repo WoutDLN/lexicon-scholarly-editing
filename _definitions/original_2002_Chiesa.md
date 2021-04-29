@@ -4,7 +4,7 @@ lemma: original
 source: chiesa_elementi_2002
 page: 138
 language: Italian
-contributor: jesse
+contributor: elisa
 last_updated_by: jesse
 
 ---

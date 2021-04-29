@@ -4,7 +4,7 @@ lemma: error (indicative)
 source: chiesa_elementi_2002
 page: 62-63
 language: Italian
-contributor: jesse
+contributor: elisa
 last_updated_by: jesse
 
 ---

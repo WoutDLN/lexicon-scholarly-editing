@@ -4,7 +4,7 @@ lemma: antigraph
 source: chiesa_elementi_2002
 page: 69-70
 language: Italian
-contributor: jesse
+contributor: elisa
 last_updated_by: jesse
 
 ---

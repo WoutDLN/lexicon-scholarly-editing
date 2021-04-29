@@ -4,7 +4,7 @@ lemma: error (polygenetic)
 source: chiesa_elementi_2002
 page: 66-67
 language: Italian
-contributor: jesse
+contributor: elisa
 last_updated_by: jesse
 
 ---

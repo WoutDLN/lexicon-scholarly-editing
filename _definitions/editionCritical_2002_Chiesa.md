@@ -4,7 +4,7 @@ lemma: edition (critical)
 source: chiesa_elementi_2002
 page: 24
 language: Italian
-contributor: jesse
+contributor: elisa
 last_updated_by: jesse
 
 ---

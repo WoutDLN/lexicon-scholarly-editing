@@ -4,7 +4,7 @@ lemma: edition (diplomatic)
 source: chiesa_elementi_2002
 page: 167-168
 language: Italian
-contributor: jesse
+contributor: elisa
 last_updated_by: jesse
 
 ---

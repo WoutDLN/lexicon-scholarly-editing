@@ -4,7 +4,7 @@ lemma: eliminatio codicum descriptorum
 source: chiesa_elementi_2002
 page: 75
 language: Italian
-contributor: jesse
+contributor: elisa
 last_updated_by: jesse
 
 ---

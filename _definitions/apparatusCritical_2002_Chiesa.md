@@ -4,7 +4,7 @@ lemma: apparatus (critical)
 source: chiesa_elementi_2002
 page: 161-162
 language: Italian
-contributor: jesse
+contributor: elisa
 last_updated_by: jesse
 
 ---

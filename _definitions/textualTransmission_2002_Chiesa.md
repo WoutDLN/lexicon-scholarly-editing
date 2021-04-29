@@ -4,7 +4,7 @@ lemma: textual transmission
 source: chiesa_elementi_2002
 page: 35
 language: Italian
-contributor: caroline
+contributor: elisa
 last_updated_by: caroline
 
 ---

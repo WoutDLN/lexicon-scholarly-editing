@@ -4,7 +4,7 @@ lemma: error (separative)
 source: chiesa_elementi_2002
 page: 68-69
 language: Italian
-contributor: jesse
+contributor: elisa
 last_updated_by: jesse
 
 ---
