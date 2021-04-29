@@ -1,7 +1,7 @@
 ---
- 
+
  name: holograph
  categories: [Author]
- tags: [author, holograph-allograph]
+ tags: [author, graph]
 
 ---

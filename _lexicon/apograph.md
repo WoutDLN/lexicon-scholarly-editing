@@ -1,5 +1,5 @@
 ---
 
 name: apograph
-
+tags: [graph]
 ---
