@@ -1,6 +1,6 @@
 ---
 
-lemma: handwritten text recognition
+lemma: HTR (Handwritten Text Recognition)
 source: silfverberg_historical_2007
 page: 18
 language: English

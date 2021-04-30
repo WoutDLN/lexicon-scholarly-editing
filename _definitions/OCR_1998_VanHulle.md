@@ -1,6 +1,6 @@
 ---
 
-lemma: OCR
+lemma: OCR (Optical Character Recognition)
 source: van_hulle_denkt_1998
 page: 95
 language: Dutch
