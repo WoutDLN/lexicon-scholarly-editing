@@ -1,6 +1,7 @@
 ---
 username: merisa
 name: Merisa Ariel Martinez
+nationality: American
 position: Sentient Contributor
 joined: 2017-03-17
 ---

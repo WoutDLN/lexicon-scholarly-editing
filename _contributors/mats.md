@@ -1,6 +1,7 @@
 ---
 username: mats
 name: Mats Dahlström
+nationality: Swedish
 position: contributor
 joined: 2016-04-01
 ---

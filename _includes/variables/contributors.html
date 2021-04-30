@@ -1,6 +1,9 @@
 <!-- array with all contributors -->
 {% assign contributors = "" | split: "" %}
-{% for definition in site.definitions %}
-{% assign contributors = definition.contributor | concat: contributors %}
+{% for contributor in site.contributors %}
+{% assign contributors = contributor.name | prepend: "<a href='{{site.basurl}}/contributors/{{contributor.username}}.html'>"
+                                          | append: "</a>"
+                                          | concat: contributors %}
 {% endfor %}
 {% assign contributors = contributors | uniq | sort_natural %}
+{% for contributor in contributors %}

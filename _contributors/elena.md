@@ -1,6 +1,7 @@
 ---
 username: elena
 name: Elena Spadini
+nationality: Italian
 position: contributor
 joined: 2015-06-12
 ---

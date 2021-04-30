@@ -1,6 +1,7 @@
 ---
 username: ronan
 name: Ronan Crowley
+nationality: Irish
 position: contributor
 joined: 2015-04-30
 ---

@@ -1,6 +1,7 @@
 ---
 username: elisa
 name: Elisa Nury
+nationality: Swiss
 position: contributor
 joined: 2014-11-07
 ---

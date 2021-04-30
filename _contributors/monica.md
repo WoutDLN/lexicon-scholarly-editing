@@ -1,6 +1,7 @@
 ---
 username: monica
 name: Monica Zanardo
+nationality: Italian
 position: contributor
 joined: 2015-06-02
 ---

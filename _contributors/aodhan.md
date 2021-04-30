@@ -1,6 +1,7 @@
 ---
 username: aodhan
 name: Aodhán Kelly
+nationality: Irish
 position: contributor
 joined: 2016-05-31
 ---

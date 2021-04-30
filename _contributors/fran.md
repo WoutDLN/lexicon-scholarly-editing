@@ -1,6 +1,7 @@
 ---
 username: fran
 name: Francisco Javier Álvarez-Carbajal
+nationality: Spanish
 position: contributor
 joined: 2015-04-28
 ---

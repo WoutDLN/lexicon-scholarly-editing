@@ -1,6 +1,7 @@
 ---
 username: frederike
 name: Frederike Neuber
+nationality: German
 position: contributor
 joined: 2014-09-03
 ---

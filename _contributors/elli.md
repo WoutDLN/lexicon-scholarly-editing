@@ -1,6 +1,7 @@
 ---
 username: elli
 name: Elli Bleeker
+nationality: Dutch
 position: contributor
 joined: 2015-01-26
 ---

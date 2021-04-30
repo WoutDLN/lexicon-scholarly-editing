@@ -1,6 +1,7 @@
 ---
 username: luciano
 name: Luciano Longo
+nationality: Italian
 position: contributor
 joined: 2015-06-02
 ---
