@@ -4,7 +4,7 @@ lemma: locus
 source: froger_critique_1968
 page: 9
 language: French
-contributor: jesse
+contributor: elisa
 last_updated_by: jesse
 
 ---

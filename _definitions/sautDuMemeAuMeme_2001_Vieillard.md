@@ -4,7 +4,7 @@ lemma: saut du meme au meme
 source: vieillard_conseils_2001
 page: 210
 language: French
-contributor: caroline
+contributor: elisa
 last_updated_by: caroline
 
 ---

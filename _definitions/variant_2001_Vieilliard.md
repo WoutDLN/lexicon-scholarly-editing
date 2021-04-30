@@ -4,7 +4,7 @@ lemma: variant
 source: vieillard_conseils_2001
 page: 214
 language: French
-contributor: caroline
+contributor: elisa
 last_updated_by: caroline
 
 ---

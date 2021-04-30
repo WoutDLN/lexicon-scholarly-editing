@@ -4,7 +4,7 @@ lemma: collation
 source: vieillard_conseils_2001
 page: 210
 language: French
-contributor: jesse
+contributor: elisa
 last_updated_by: jesse
 
 ---

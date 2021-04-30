@@ -4,7 +4,7 @@ lemma: variant
 source: froger_critique_1968
 page: 80
 language: French
-contributor: caroline
+contributor: elisa
 last_updated_by: caroline
 
 ---

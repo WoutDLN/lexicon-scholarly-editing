@@ -4,7 +4,7 @@ lemma: saut du meme au meme
 source: reynolds_scribes_1991
 page: 204
 language: English
-contributor: caroline
+contributor: elisa
 last_updated_by: caroline
 
 ---

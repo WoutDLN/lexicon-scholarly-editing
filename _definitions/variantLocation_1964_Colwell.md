@@ -4,7 +4,7 @@ lemma: variant location
 source: colwell_variant_1964
 page: 254
 language: English
-contributor: caroline
+contributor: elisa
 last_updated_by: caroline
 
 ---
