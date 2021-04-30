@@ -1,7 +1,7 @@
 ---
 
 name: TEI (Consortium)
-categories: [Markup]
+categories: [Markup, Digital Scholarly Editing]
 tags: [TEI]
 
 ---

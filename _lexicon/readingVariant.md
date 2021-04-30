@@ -1,6 +1,7 @@
 ---
 
 name: reading (variant)
-tags: [reading]
+categories: [Basic Terminology]
+tags: [readings, version, variant]
 
 ---

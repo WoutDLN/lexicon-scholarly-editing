@@ -1,6 +1,6 @@
 ---
 
 name: text (OHCO)
-categories: [Digital Scholarly Editing, Text]
+categories: [Markup, Digital Scholarly Editing, Text]
 
 ---

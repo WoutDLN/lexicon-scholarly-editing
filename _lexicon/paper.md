@@ -1,5 +1,6 @@
 ---
 
 name: paper
+tags: [support]
 
 ---

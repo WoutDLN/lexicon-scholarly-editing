@@ -1,6 +1,6 @@
 ---
 
  name: trace
- categories: [Genetic Criticism]
+ categories: [Genetic Criticism, Revision]
 
 ---

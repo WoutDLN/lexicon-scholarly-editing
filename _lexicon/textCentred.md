@@ -1,6 +1,6 @@
 ---
 
  name: text-centred
- tags: data-text
+ tags: [data-text]
 
 ---

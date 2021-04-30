@@ -1,6 +1,7 @@
 ---
 
 name: siglum
-categories: [Text]
+categories: [Basic Terminology, Text]
+tags: [text]
 
 ---

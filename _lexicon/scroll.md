@@ -1,5 +1,6 @@
 ---
 
 name: scroll
+tags: [support]
 
 ---

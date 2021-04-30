@@ -1,7 +1,7 @@
 ---
 
 name: text (cancelled)
-categories: [Genetic Criticism, Text]
+categories: [Genetic Criticism, Revision, Text]
 tags: [text]
 
 ---

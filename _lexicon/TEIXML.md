@@ -2,6 +2,6 @@
 
 name: TEI XML
 categories: [Markup, Digital Scholarly Editing]
-tags: [TEI]
+tags: [TEI, tag]
 
 ---

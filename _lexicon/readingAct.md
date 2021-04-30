@@ -1,6 +1,6 @@
 ---
 
 name: reading (act)
-tags: [reading]
+tags: [readings]
 
 ---

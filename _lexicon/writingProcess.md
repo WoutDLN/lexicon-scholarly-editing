@@ -1,7 +1,7 @@
 ---
 
 name: writing (process)
-categories: [Basic Terminology, Genetic Criticism]
+categories: [Author, Basic Terminology, Genetic Criticism]
 tags: [writing]
 
 ---

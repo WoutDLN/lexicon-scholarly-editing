@@ -1,7 +1,6 @@
 ---
 
 name: user
-categories: [Text]
-tags: [text]
+categories: [Digital Scholarly Editing]
 
 ---

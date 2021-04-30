@@ -1,5 +1,6 @@
 ---
 
 name: papyrus
+tags: [support]
 
 ---
