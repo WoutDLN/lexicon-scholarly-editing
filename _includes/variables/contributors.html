@@ -1,9 +1,11 @@
 <!-- array with all contributors -->
 {% assign contributors = "" | split: "" %}
 {% for contributor in site.contributors %}
-{% assign contributors = contributor.name | prepend: "<a href='{{site.basurl}}/contributors/{{contributor.username}}.html'>"
+{% capture link %}
+<a href="{{site.baseurl}}/contributors/{{contributor.username}}.html">
+{% endcapture %}
+{% assign contributors = contributor.name | prepend: link
                                           | append: "</a>"
                                           | concat: contributors %}
 {% endfor %}
 {% assign contributors = contributors | uniq | sort_natural %}
-{% for contributor in contributors %}
