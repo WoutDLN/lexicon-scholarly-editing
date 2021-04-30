@@ -2,9 +2,9 @@
 
 lemma: edition (documentary digital)
 source: pierazzo_digital_2014
-page: 475
+page: 3
 language: English
-contributor: jesse
+contributor: fran
 last_updated_by: jesse
 
 ---
