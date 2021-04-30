@@ -1,5 +1,6 @@
 ---
 
 name: fragment
+tags: [fragment]
 
 ---

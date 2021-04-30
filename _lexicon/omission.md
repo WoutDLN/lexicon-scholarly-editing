@@ -1,5 +1,6 @@
 ---
 
 name: omission
+tags: [error]
 
 ---

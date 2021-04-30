@@ -1,5 +1,6 @@
 ---
 
 name: hand
+tags: [graph]
 
 ---

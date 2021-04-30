@@ -1,6 +1,6 @@
 ---
 
 name: cancellation
- tags: [emendation]
+tags: [emendation]
 
 ---
