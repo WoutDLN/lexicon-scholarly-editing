@@ -1,6 +1,6 @@
 ---
 
-lemma: tete-beche
+lemma: tête-bêche
 source: gresillon_elments_1994
 page: 246
 language: French

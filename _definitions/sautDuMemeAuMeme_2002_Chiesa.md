@@ -1,6 +1,6 @@
 ---
 
-lemma: saut du meme au meme
+lemma: saut du même au même
 source: chiesa_elementi_2002
 page: 71
 language: Italian

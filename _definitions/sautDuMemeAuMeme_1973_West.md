@@ -1,6 +1,6 @@
 ---
 
-lemma: saut du meme au meme
+lemma: saut du même au même
 source: west_textual_1973
 page: 24
 language: English

@@ -1,6 +1,6 @@
 ---
 
-lemma: saut du meme au meme
+lemma: saut du même au même
 source: vieillard_conseils_2001
 page: 210
 language: French
