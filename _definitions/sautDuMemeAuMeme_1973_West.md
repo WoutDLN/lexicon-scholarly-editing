@@ -4,7 +4,7 @@ lemma: saut du meme au meme
 source: west_textual_1973
 page: 24
 language: English
-contributor: caroline
+contributor: elisa
 last_updated_by: caroline
 
 ---

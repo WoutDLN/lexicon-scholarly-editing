@@ -4,7 +4,7 @@ lemma: hypertext
 source: orlandi_informatica_2010
 page: 25
 language: Italian
-contributor: jesse
+contributor: elisa
 last_updated_by: jesse
 
 ---

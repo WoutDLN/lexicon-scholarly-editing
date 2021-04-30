@@ -4,7 +4,7 @@ lemma: textual transmission
 source: west_textual_1973
 page: 12
 language: English
-contributor: caroline
+contributor: elisa
 last_updated_by: caroline
 
 ---

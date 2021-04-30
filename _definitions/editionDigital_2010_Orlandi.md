@@ -4,7 +4,7 @@ lemma: edition (digital)
 source: orlandi_informatica_2010
 page: 82
 language: Italian
-contributor: jesse
+contributor: elisa
 last_updated_by: jesse
 
 ---

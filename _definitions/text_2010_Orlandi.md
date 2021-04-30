@@ -4,7 +4,7 @@ lemma: text
 source: orlandi_informatica_2010
 page: 8
 language: Italian
-contributor: wout
+contributor: elisa
 last_updated_by: wout
 
 ---

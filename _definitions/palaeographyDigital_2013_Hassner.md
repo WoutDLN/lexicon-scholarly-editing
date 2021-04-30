@@ -4,7 +4,7 @@ lemma: palaeography (digital)
 source: hassner_computation_2013
 page: 18
 language: English
-contributor: jesse
+contributor: frederike
 last_updated_by: jesse
 
 ---

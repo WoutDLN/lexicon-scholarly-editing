@@ -1,10 +1,12 @@
 ---
 
 lemma: homoearchon (phenomenon)
-source: stussi_introduzione_1994
+source: triana_propedeutica_1998
 page: 309
+qtd_in: gane_dizionario_2013
+qtd_in_page: 248
 language: Italian
-contributor: elisa
+contributor: gioele
 last_updated_by: jesse
 
 ---
