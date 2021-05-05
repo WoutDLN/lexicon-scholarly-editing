@@ -96,7 +96,11 @@ li.page-item.active {
   height: 7vw;
   margin:.15vw;
 }
-.copyright {
+.copyright, {
+  display: none;
+}
+
+#Cats {
   display: none;
 }
 
