@@ -137,17 +137,19 @@ li.page-item.active {
   font-size: smaller;
 }
 
-.bibliography {
+p.bibliography {
   text-indent:-2vw;
   padding-left:2vw;
   text-align:left;
+
+  /* CSS rules to prevent overflow of long AF URL on the bibliography page */
+  /* WARNING: they also break other words in the bibliography, find another solution if this is becomes prohibitive */
 
   /* These are technically the same, but use both */
   overflow-wrap: break-word;
   word-wrap: break-word;
 
   -ms-word-break: break-all;
-  /* Instead use this non-standard one: */
   word-break: break-word;
 
   /* Adds a hyphen where the word breaks, if supported (No Blink) */
