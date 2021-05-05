@@ -6,11 +6,11 @@ The [Lexicon of Scholarly Editing](https://woutdln.github.io/lexicon-scholarly-e
 
 ## About the Author
 
-This template was developed by [Wout Dillen](https://github.com/WoutDLN), a postdoctoral researcher at the [University of Antwerp](https://uantwerpen.be) as part of his position as the university's CLARIAH-VL coordinator. He is also the secretary of the [European Society of Textual Scholarship](https://textualscholarship.eu/), and the General Editor of the society's Open Access jounal [_Variants_](https://journals.openedition.org/variants/) from Issue 15 onwards.
+This repository was developed by [Wout Dillen](https://github.com/WoutDLN), a postdoctoral researcher at the [University of Antwerp](https://uantwerpen.be) as part of his position as the university's CLARIAH-VL coordinator. He is also the secretary of the [European Society of Textual Scholarship](https://textualscholarship.eu/), and the General Editor of the society's Open Access jounal [_Variants_](https://journals.openedition.org/variants/) from Issue 15 onwards.
 
 ## About the Website
 
-This website was developed using [Jekyll](https://jekyllrb.com/), and is hosted on [GitHub Pages](https://pages.github.com/) by making use of GitHub Actions ([as documented in the Jekyll documentation](https://jekyllrb.com/docs/continuous-integration/github-actions/)). It uses Jekyll plugins such as [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) and [jekyll-last-modified-at](https://github.com/gjtorikian/jekyll-last-modified-at), and its search function makes use of [lunar.js](https://lunrjs.com/). Except for the definitions themselves, [this website's contents and design are licensed under a CC-BY 4.0 license](https://woutdln.github.io/lexicon-scholarly-editing/copyright.html).
+The repository's website was developed using [Jekyll](https://jekyllrb.com/), and is hosted on [GitHub Pages](https://pages.github.com/) by making use of GitHub Actions ([as documented in the Jekyll documentation](https://jekyllrb.com/docs/continuous-integration/github-actions/)). It uses Jekyll plugins such as [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) and [jekyll-last-modified-at](https://github.com/gjtorikian/jekyll-last-modified-at), and its search function makes use of [lunar.js](https://lunrjs.com/). Except for the definitions themselves, [this website's contents and design are licensed under a CC-BY 4.0 license](https://woutdln.github.io/lexicon-scholarly-editing/copyright.html).
 
 ## Contribute
 
