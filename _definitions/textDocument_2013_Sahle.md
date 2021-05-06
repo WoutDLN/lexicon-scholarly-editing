@@ -4,8 +4,8 @@ lemma: text (document)
 source: sahle_digitale_2013_1
 page: 28
 language: German
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

@@ -4,8 +4,8 @@ lemma: text
 source: martens_what_1995
 page: 210
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

@@ -4,8 +4,8 @@ lemma: collation (automatic)
 source: hilton_urica_1992
 page: 139-140
 language: English
-contributor: elisa
-last_updated_by: jesse
+contributor: Elisa
+last_updated_by: Jesse
 
 ---
 

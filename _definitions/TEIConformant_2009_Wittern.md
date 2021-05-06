@@ -4,8 +4,8 @@ lemma: TEI conformant
 source: wittern_making_2009
 page: 294
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

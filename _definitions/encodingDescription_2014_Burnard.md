@@ -4,8 +4,8 @@ lemma: encoding description
 source: burnard_what_2014
 page: 109
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

@@ -4,8 +4,8 @@ lemma: variantistica
 source: isella_varianti_1987
 page: 12
 language: Italian
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

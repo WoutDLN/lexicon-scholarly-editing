@@ -4,8 +4,8 @@ lemma: apparatus (derivative)
 source: italia_che_2010
 page: 60
 language: Italian
-contributor: monica
-last_updated_by: jesse
+contributor: Monica
+last_updated_by: Jesse
 
 ---
 

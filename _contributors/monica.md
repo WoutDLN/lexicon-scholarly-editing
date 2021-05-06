@@ -1,5 +1,5 @@
 ---
-username: monica
+username: Monica
 name: Monica Zanardo
 nationality: Italian
 position: contributor

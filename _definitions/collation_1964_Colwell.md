@@ -4,8 +4,8 @@ lemma: collation
 source: colwell_variant_1964
 page: 253
 language: English
-contributor: elisa
-last_updated_by: jesse
+contributor: Elisa
+last_updated_by: Jesse
 
 ---
 

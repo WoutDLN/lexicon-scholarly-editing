@@ -1,5 +1,5 @@
 ---
-username: jesse
+username: Jesse
 name: Jesse Franquet
 nationality: Belgian
 position: contributor

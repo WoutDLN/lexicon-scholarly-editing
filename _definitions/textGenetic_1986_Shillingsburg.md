@@ -4,8 +4,8 @@ lemma: text (genetic)
 source: shillingsburg_scholarly_1986
 page: 171-172
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-username: elisa
+username: Elisa
 name: Elisa Nury
 nationality: Swiss
 position: contributor

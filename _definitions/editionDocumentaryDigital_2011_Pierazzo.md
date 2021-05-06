@@ -4,8 +4,8 @@ lemma: edition (documentary digital)
 source: pierazzo_rationale_2011
 page: 474-475
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

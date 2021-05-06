@@ -4,8 +4,8 @@ lemma: variant (indifferent)
 source: malato_filologia_2008
 page: 101-102
 language: Italian
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

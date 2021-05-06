@@ -4,8 +4,8 @@ lemma: avant-texte
 source: biasi_toward_2004
 page: 34
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

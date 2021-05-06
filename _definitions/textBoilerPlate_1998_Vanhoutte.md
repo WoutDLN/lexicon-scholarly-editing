@@ -4,8 +4,8 @@ lemma: text (boiler-plate)
 source: vanhoutte_en_1998
 page: 120n10
 language: Dutch
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

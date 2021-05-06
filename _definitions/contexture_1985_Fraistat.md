@@ -4,8 +4,8 @@ lemma: contexture
 source: fraistat_poem_1985
 page: 4
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

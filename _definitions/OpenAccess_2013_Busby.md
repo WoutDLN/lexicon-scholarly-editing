@@ -4,8 +4,8 @@ lemma: Open Access
 source: busby_oa_2013
 page: 34
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

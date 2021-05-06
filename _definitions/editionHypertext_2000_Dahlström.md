@@ -5,8 +5,8 @@ source: dahlstrom_drowning_2000
 page: 8
 locator: §
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

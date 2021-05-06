@@ -4,8 +4,8 @@ lemma: XML
 source: price_electronic_2007
 page: 442
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

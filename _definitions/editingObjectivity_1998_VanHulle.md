@@ -4,8 +4,8 @@ lemma: editing (objectivity)
 source: van_hulle_denkt_1998
 page: 99
 language: Dutch
-contributor: jesse
-last_updated_by: jesse
+contributor: Jesse
+last_updated_by: Jesse
 
 ---
 

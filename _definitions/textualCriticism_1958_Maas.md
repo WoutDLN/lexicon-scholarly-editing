@@ -4,8 +4,8 @@ lemma: textual criticism
 source: maas_textual_1958
 page: 1
 language: English
-contributor: elisa
-last_updated_by: caroline
+contributor: Elisa
+last_updated_by: Caroline
 
 ---
 

@@ -4,8 +4,8 @@ lemma: token
 source: dekker_computer_2014
 page: 4
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

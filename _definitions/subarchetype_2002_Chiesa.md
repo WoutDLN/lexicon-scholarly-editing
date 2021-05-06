@@ -4,8 +4,8 @@ lemma: subarchetype
 source: chiesa_elementi_2002
 page: 81
 language: Italian
-contributor: elisa
-last_updated_by: caroline
+contributor: Elisa
+last_updated_by: Caroline
 
 ---
 

@@ -4,8 +4,8 @@ lemma: text
 source: vanhulle_textual_2004
 page: 47
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

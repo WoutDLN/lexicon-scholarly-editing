@@ -4,8 +4,8 @@ lemma: edition (critical)
 source: contini_breviario_1986
 page: 9
 language: Italian
-contributor: elisa
-last_updated_by: jesse
+contributor: Elisa
+last_updated_by: Jesse
 
 ---
 

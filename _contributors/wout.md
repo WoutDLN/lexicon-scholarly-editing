@@ -1,5 +1,5 @@
 ---
-username: wout
+username: Wout
 name: Wout Dillen
 nationality: Belgian
 position: editor

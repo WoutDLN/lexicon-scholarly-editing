@@ -4,8 +4,8 @@ lemma: variant (status)
 source: italia_che_2010
 page: 14
 language: Italian
-contributor: monica
-last_updated_by: caroline
+contributor: Monica
+last_updated_by: Caroline
 
 ---
 

@@ -4,8 +4,8 @@ lemma: collation
 source: chiesa_elementi_2002
 page: 48
 language: Italian
-contributor: elisa
-last_updated_by: wout
+contributor: Elisa
+last_updated_by: Wout
 
 ---
 

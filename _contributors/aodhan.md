@@ -1,5 +1,5 @@
 ---
-username: aodhan
+username: Aodhán
 name: Aodhán Kelly
 nationality: Irish
 position: contributor

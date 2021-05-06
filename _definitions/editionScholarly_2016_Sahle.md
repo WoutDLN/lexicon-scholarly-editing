@@ -4,8 +4,8 @@ lemma: edition (scholarly)
 source: sahle_what_2016
 page: 23
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

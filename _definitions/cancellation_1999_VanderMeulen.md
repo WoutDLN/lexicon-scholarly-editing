@@ -4,8 +4,8 @@ lemma: cancellation
 source: meulen_system_1999
 page: 206
 language: English
-contributor: jesse
-last_updated_by: jesse
+contributor: Jesse
+last_updated_by: Jesse
 
 ---
 _Cancellation_. We use the word _canceled_ as the encompassing term for [text](text.html) that has in some way

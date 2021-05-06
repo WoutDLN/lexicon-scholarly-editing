@@ -4,8 +4,8 @@ lemma: transcription
 source: meulen_system_1999
 page: 202
 language: English
-contributor: jesse
-last_updated_by: jesse
+contributor: Jesse
+last_updated_by: Jesse
 
 ---
 First, however, we must make clear that by “transcription” we mean the effort to report—insofar

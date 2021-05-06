@@ -4,8 +4,8 @@ lemma: transcription
 source: huitfeldt_what_2008
 page: 303-304
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 _T_ is a transcription of _E_ if and only if:

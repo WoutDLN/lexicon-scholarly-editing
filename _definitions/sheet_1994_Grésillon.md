@@ -4,8 +4,8 @@ lemma: sheet
 source: gresillon_elments_1994
 page: 243
 language: French
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

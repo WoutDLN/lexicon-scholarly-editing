@@ -4,8 +4,8 @@ lemma: saut du même au même
 source: vieillard_conseils_2001
 page: 210
 language: French
-contributor: elisa
-last_updated_by: caroline
+contributor: Elisa
+last_updated_by: Caroline
 
 ---
 

@@ -4,8 +4,8 @@ lemma: segment
 source: gresillon_elments_1994
 page: 245
 language: French
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

@@ -4,8 +4,8 @@ lemma: scribe
 source: segre_critique_1976
 page: 286
 language: French
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

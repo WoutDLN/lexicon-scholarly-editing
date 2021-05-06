@@ -4,8 +4,8 @@ lemma: folio
 source: gresillon_elments_1994
 page: 243
 language: French
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

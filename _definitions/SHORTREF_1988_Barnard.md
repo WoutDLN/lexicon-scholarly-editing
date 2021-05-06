@@ -4,8 +4,8 @@ lemma: SHORTREF
 source: barnard_sgml_1988
 page: 274
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

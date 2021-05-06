@@ -1,5 +1,5 @@
 ---
-username: gioele
+username: Gioele
 name: Gioele Barabucci
 nationality: Italian
 position: contributor

@@ -4,8 +4,8 @@ lemma: archetype
 source: maas_textual_1958
 page: 2-3
 language: English
-contributor: elisa
-last_updated_by: wout
+contributor: Elisa
+last_updated_by: Wout
 
 ---
 

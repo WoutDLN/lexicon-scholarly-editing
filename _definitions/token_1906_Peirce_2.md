@@ -4,8 +4,8 @@ lemma: token
 source: huitfeldt_what_2008
 page: 309, note 1
 language: English
-contributor: caroline
-last_updated_by: wout
+contributor: Caroline
+last_updated_by: Wout
 
 ---
 

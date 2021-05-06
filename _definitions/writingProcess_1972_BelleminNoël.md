@@ -4,8 +4,8 @@ lemma: writing process
 source: belleminnoel_texte_1972
 page: 15-16
 language: French
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

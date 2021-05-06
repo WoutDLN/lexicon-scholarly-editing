@@ -4,7 +4,7 @@ lemma: apparatus (integral)
 source: gabler_introduction_1995
 page: 6-7
 language: English
-contributor: wout
+contributor: Wout
 last_updated_by: merisa
 
 ---

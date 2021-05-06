@@ -4,8 +4,8 @@ lemma: variant location
 source: mace_comparing_2012
 page: 113
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

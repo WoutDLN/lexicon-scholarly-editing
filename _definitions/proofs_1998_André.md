@@ -4,8 +4,8 @@ lemma: proofs
 source: andre_petite_1998
 page: 46
 language: French
-contributor: jesse
-last_updated_by: jesse
+contributor: Jesse
+last_updated_by: Jesse
 
 ---
 Un [texte](text.html), une fois composé, est imprimé en un exemplaire (épreuve). Un [correcteur](proofreader.html) signale alors les fautes en indiquant

@@ -4,8 +4,8 @@ lemma: variant
 source: plachta_editionswissenschaft_1997
 page: 140
 language: German
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

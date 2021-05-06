@@ -4,8 +4,8 @@ lemma: archetype
 source: stussi_introduzione_1994
 page: 128
 language: Italian
-contributor: elisa
-last_updated_by: wout
+contributor: Elisa
+last_updated_by: Wout
 
 ---
 

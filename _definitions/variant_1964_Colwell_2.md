@@ -4,8 +4,8 @@ lemma: variant
 source: colwell_variant_1964
 page: 261
 language: English
-contributor: elisa
-last_updated_by: caroline
+contributor: Elisa
+last_updated_by: Caroline
 
 ---
 

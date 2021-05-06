@@ -4,8 +4,8 @@ lemma: authoritative
 source: shillingsburg_scholarly_1986
 page: 169
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

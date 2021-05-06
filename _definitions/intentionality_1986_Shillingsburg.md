@@ -4,8 +4,8 @@ lemma: intentionality
 source: shillingsburg_scholarly_1986
 page: 33, 37, 39
 language: English
-contributor: jesse
-last_updated_by: jesse
+contributor: Jesse
+last_updated_by: Jesse
 
 ---
 

@@ -6,8 +6,8 @@ page: 309
 qtd_in: gane_dizionario_2013
 qtd_in_page: 248
 language: Italian
-contributor: gioele
-last_updated_by: jesse
+contributor: Gioele
+last_updated_by: Jesse
 
 ---
 

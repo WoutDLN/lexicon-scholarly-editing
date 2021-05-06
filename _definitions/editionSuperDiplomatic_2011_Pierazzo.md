@@ -4,8 +4,8 @@ lemma: edition (super-diplomatic)
 source: pierazzo_rationale_2011
 page: 464
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

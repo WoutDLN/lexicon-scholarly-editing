@@ -4,8 +4,8 @@ lemma: SGML
 source: van_hulle_denkt_1998
 page: 105
 language: Dutch
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

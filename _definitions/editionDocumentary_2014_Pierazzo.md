@@ -4,8 +4,8 @@ lemma: edition (documentary)
 source: pierazzo_digital_2014
 page: 2-3
 language: English
-contributor: frederike
-last_updated_by: wout
+contributor: Frederike
+last_updated_by: Wout
 
 ---
 

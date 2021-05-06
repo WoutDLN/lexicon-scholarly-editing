@@ -4,8 +4,8 @@ lemma: work
 source: biasi_toward_2004
 page: 37
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

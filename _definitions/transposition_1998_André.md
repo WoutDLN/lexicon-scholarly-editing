@@ -4,8 +4,8 @@ lemma: transposition
 source: andre_petite_1998
 page: 54
 language: French
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

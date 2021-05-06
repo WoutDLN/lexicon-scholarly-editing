@@ -4,8 +4,8 @@ lemma: editor (scholarly)
 source: scheibe_on_1995
 page: 194-195
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

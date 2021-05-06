@@ -4,7 +4,7 @@ lemma: editing (digital scholarly)
 source: martinez_critical_2019
 page: 3
 language: English
-contributor: merisa
+contributor: Merisa
 last_updated_by: merisa
 
 ---

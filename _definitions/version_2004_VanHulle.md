@@ -4,8 +4,8 @@ lemma: version
 source: vanhulle_textual_2004
 page: 44-45
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

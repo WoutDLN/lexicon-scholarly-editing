@@ -4,8 +4,8 @@ lemma: text
 source: burnard_what_2014
 page: 13
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

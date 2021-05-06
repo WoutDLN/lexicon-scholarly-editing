@@ -4,8 +4,8 @@ lemma: homoeoteleuton
 source: west_textual_1973
 page: 24-25; n19
 language: English
-contributor: elisa
-last_updated_by: jesse
+contributor: Elisa
+last_updated_by: Jesse
 
 ---
 In verse the [scribe](scribe.html)‘s copying unit tends to be the line or half-line, so that verbal similarities at line-end (homoeoteleuton) or line-beginning (homoearchon)~19~ are particularly likely to mislead him.

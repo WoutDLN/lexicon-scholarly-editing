@@ -4,8 +4,8 @@ lemma: autographic
 source: goodman_languages_1976
 page: 113
 language: English
-contributor: mats
-last_updated_by: jesse
+contributor: Mats
+last_updated_by: Jesse
 
 
 

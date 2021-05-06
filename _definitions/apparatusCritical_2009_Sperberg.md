@@ -4,8 +4,8 @@ lemma: apparatus (critical)
 source: sperberg_how_2009
 page: 28
 language: English
-contributor: jesse
-last_updated_by: jesse
+contributor: Jesse
+last_updated_by: Jesse
 
 ---
 

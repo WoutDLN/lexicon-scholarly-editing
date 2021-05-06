@@ -4,8 +4,8 @@ lemma: textual scholarship
 source: gabler_introduction_1995
 page: 6
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

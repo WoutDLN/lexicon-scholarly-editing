@@ -4,8 +4,8 @@ lemma: variant
 source: bowman_genetic_1990
 page: 629
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

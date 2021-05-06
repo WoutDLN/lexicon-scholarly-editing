@@ -1,5 +1,5 @@
 ---
-username: mats
+username: Mats
 name: Mats Dahlström
 nationality: Swedish
 position: contributor

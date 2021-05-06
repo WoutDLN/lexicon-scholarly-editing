@@ -4,8 +4,8 @@ lemma: edition (definitive)
 source: shillingsburg_scholarly_1996
 page: 174
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

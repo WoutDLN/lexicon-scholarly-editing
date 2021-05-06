@@ -4,8 +4,8 @@ lemma: TEI (customization)
 source: lavagnino_when_2006
 page: 335
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

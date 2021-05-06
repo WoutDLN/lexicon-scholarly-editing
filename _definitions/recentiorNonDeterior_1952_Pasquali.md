@@ -4,8 +4,8 @@ lemma: recentior non deterior
 source: pasquali_storia_1952
 page: 4
 language: Italian
-contributor: elisa
-last_updated_by: caroline
+contributor: Elisa
+last_updated_by: Caroline
 
 ---
 

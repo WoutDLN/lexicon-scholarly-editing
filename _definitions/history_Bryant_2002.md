@@ -4,8 +4,8 @@ lemma: history
 source: bryant_fluid_2002
 page: 28
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

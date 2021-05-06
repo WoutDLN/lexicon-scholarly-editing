@@ -4,8 +4,8 @@ lemma: edition (variorum)
 source: wittern_making_2009
 page: 281
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

@@ -4,8 +4,8 @@ lemma: textual criticism
 source: housman_application_1922
 page: 68
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

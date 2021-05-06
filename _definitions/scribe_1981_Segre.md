@@ -4,8 +4,8 @@ lemma: scribe
 source: segre_testo_1981
 page: 280
 language: Italian
-contributor: elena
-last_updated_by: caroline
+contributor: Elena
+last_updated_by: Caroline
 
 ---
 

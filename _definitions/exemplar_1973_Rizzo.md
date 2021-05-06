@@ -4,8 +4,8 @@ lemma: exemplar
 source: rizzo_lessico_1973
 page: 185
 language: Italian
-contributor: elisa
-last_updated_by: wout
+contributor: Elisa
+last_updated_by: Wout
 
 ---
 

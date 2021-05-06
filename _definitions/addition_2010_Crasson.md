@@ -4,8 +4,8 @@ lemma: addition
 source: crasson_archives_2010
 page: 46
 language: French
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

@@ -4,8 +4,8 @@ lemma: edition (genetic)
 source: diorio_questce_2010
 page: 49
 language: French
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

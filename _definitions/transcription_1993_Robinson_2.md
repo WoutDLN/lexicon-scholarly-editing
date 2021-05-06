@@ -4,8 +4,8 @@ lemma: transcription
 source: robinson_guidelines_1993
 page: 21
 language: English
-contributor: jesse
-last_updated_by: jesse
+contributor: Jesse
+last_updated_by: Jesse
 
 ---
 Transcription is both decoding and encoding; the text in the computer system will not be the same as the [text](text.html) of the primary [source](textSource.html).

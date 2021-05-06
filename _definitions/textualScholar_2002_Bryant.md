@@ -4,8 +4,8 @@ lemma: textual scholar
 source: bryant_fluid_2002
 page: 19-20
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

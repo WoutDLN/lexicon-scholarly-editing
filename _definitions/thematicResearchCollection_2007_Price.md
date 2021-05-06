@@ -4,8 +4,8 @@ lemma: thematic research collection
 source: price_electronic_2007
 page: 440
 language: English
-contributor: caroline
-last_updated_by: wout
+contributor: Caroline
+last_updated_by: Wout
 
 ---
 

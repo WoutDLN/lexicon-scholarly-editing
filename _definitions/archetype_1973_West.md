@@ -4,8 +4,8 @@ lemma: archetype
 source: west_textual_1973
 page: 32
 language: English
-contributor: elisa
-last_updated_by: wout
+contributor: Elisa
+last_updated_by: Wout
 
 ---
 

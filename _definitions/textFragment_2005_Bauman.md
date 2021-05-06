@@ -4,8 +4,8 @@ lemma: text (fragment)
 source: bauman_tei_2005
 page: 7
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

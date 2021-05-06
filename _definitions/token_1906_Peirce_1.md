@@ -4,8 +4,8 @@ lemma: token
 source: peirce_prolegomena_1906
 page: 506
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

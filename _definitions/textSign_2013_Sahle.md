@@ -4,8 +4,8 @@ lemma: text (sign)
 source: sahle_digitale_2013_1
 page: 7
 language: German
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

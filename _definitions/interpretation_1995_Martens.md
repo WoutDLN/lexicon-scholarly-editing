@@ -4,8 +4,8 @@ lemma: interpretation
 source: martens_what_1995
 page: 217-218
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

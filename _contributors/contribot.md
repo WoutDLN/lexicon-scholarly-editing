@@ -1,5 +1,5 @@
 ---
-username: contribot
+username: Contribot
 name: Contribot the Robot
 nationality: AI
 position: contributor

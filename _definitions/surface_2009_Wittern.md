@@ -4,8 +4,8 @@ lemma: surface
 source: wittern_making_2009
 page: 290
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

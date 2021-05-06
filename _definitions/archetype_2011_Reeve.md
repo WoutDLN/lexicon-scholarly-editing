@@ -4,8 +4,8 @@ lemma: archetype
 source: reeve_archetypes_2011
 page: 117
 language: English
-contributor: elisa
-last_updated_by: wout
+contributor: Elisa
+last_updated_by: Wout
 
 ---
 

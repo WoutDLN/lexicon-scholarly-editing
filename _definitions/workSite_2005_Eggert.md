@@ -4,8 +4,8 @@ lemma: work-site
 source: eggert_text_2005
 page: 433
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

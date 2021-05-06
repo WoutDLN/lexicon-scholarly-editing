@@ -4,8 +4,8 @@ lemma: codex (descriptus)
 source: chiesa_elementi_2002
 page: 75-76
 language: Italian
-contributor: elisa
-last_updated_by: jesse
+contributor: Elisa
+last_updated_by: Jesse
 
 ---
 

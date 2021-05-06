@@ -4,8 +4,8 @@ lemma: markup (descriptive)
 source: coombs_markup_1987
 page: 936
 language: English
-contributor: jesse
-last_updated_by: jesse
+contributor: Jesse
+last_updated_by: Jesse
 
 ---
 _Descriptive._ Under the descriptive system of [markup](markup.html), [authors](author.html) identify the element types of text tokens. In Figure 1 the tag <lq> identifies the following text as a long quotation, and the tag </lq> identifies the end of the quotation.

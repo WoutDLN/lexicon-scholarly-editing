@@ -4,8 +4,8 @@ lemma: variantistica
 source: segre_critique_1995
 page: 30
 language: French
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

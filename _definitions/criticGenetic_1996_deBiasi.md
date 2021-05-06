@@ -4,8 +4,8 @@ lemma: critic (genetic)
 source: biasi_what_1996
 page: 26-27
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

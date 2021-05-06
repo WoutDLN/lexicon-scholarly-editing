@@ -4,8 +4,8 @@ lemma: edition (facsimile)
 source: biasi_edition_1996
 page: 163
 language: French
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

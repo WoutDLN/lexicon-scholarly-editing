@@ -4,8 +4,8 @@ lemma: portability
 source: coombs_markup_1987
 page: 939
 language: English
-contributor: jesse
-last_updated_by: jesse
+contributor: Jesse
+last_updated_by: Jesse
 
 ---
 The ability to “port” or send one’s [documents](document.html) to other scholars and to publishers has always been a major concern for scholars. When typewriters ruled the industry, we ported our documents in the form of typescripts and photocopies. Since there were no alternatives, people were generally satisfied with this procedure.

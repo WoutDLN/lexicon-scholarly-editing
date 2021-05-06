@@ -4,8 +4,8 @@ lemma: decidability
 source: schmidt_inadequacy_2010
 page: 344
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

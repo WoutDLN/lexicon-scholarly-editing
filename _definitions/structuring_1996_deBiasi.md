@@ -4,8 +4,8 @@ lemma: structuring
 source: biasi_what_1996
 page: 48
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

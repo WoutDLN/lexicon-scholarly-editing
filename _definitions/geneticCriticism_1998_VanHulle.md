@@ -4,8 +4,8 @@ lemma: genetic criticism
 source: van_hulle_denkt_1998
 page: 93
 language: Dutch
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

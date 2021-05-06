@@ -4,8 +4,8 @@ lemma: schema
 source: burnard_what_2014
 page: 15-16
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

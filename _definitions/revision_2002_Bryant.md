@@ -4,8 +4,8 @@ lemma: revision
 source: bryant_fluid_2002
 page: 12-13
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

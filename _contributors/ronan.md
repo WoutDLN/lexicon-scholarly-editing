@@ -1,5 +1,5 @@
 ---
-username: ronan
+username: Ronan
 name: Ronan Crowley
 nationality: Irish
 position: contributor

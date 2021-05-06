@@ -4,8 +4,8 @@ lemma: collation (historical)
 source: MLA_guidelines_2011
 page:
 language: English
-contributor: jesse
-last_updated_by: jesse
+contributor: Jesse
+last_updated_by: Jesse
 
 ---
 

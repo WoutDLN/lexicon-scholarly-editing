@@ -4,8 +4,8 @@ lemma: error (typographical)
 source: shillingsburg_scholarly_1996
 page: 175
 language: English
-contributor: jesse
-last_updated_by: jesse
+contributor: Jesse
+last_updated_by: Jesse
 
 ---
 

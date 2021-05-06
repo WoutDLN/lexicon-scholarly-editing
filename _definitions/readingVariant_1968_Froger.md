@@ -4,8 +4,8 @@ lemma: reading (variant)
 source: froger_critique_1968
 page: 9
 language: French
-contributor: elisa
-last_updated_by: caroline
+contributor: Elisa
+last_updated_by: Caroline
 
 ---
 

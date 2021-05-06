@@ -5,8 +5,8 @@ source: bruning_multiple_2013
 page: 19
 locator: §
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

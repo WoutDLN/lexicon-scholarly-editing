@@ -4,8 +4,8 @@ lemma: TEI (Lite)
 source: vanhoutte_introduction_2004
 page: 11
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

@@ -4,8 +4,8 @@ lemma: conjectural
 source: greetham_textual_1994
 page: 352
 language: English
-contributor: elisa
-last_updated_by: jesse
+contributor: Elisa
+last_updated_by: Jesse
 
 ---
 

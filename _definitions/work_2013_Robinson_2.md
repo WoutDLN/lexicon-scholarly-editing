@@ -4,8 +4,8 @@ lemma: work
 source: robinson_towards_2013
 page: 120
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

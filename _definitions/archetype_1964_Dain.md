@@ -4,8 +4,8 @@ lemma: archetype
 source: dain_manuscrits_1964
 page:  108-109
 language: French
-contributor: elisa
-last_updated_by: wout
+contributor: Elisa
+last_updated_by: Wout
 
 ---
 

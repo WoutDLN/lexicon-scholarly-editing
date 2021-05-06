@@ -4,8 +4,8 @@ lemma: work
 source: shillingsburg_literary_2013
 page: 13
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

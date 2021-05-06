@@ -5,8 +5,8 @@ source: burnard_what_2014
 page: 4.3
 locator: §
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

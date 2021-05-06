@@ -4,8 +4,8 @@ lemma: text (digital)
 source: orlandi_informatica_2010
 page: 26
 language: Italian
-contributor: elisa
-last_updated_by: caroline
+contributor: Elisa
+last_updated_by: Caroline
 
 ---
 

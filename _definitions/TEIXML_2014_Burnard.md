@@ -4,8 +4,8 @@ lemma: TEI XML
 source: burnard_what_2014
 page: 9
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

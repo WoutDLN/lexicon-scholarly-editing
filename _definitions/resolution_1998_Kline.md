@@ -4,8 +4,8 @@ lemma: resolution
 source: kline_guide_1998
 page: 273
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

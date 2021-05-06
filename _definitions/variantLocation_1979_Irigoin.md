@@ -4,8 +4,8 @@ lemma: variant location
 source: irigoin_table_1979
 page: 267
 language: French
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

@@ -4,8 +4,8 @@ lemma: class
 source: wittern_making_2009
 page: 285
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

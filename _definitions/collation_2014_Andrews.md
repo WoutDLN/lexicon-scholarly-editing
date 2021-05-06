@@ -4,8 +4,8 @@ lemma: collation
 source: andrews_digital_2014
 page: 176
 language: English
-contributor: jesse
-last_updated_by: jesse
+contributor: Jesse
+last_updated_by: Jesse
 
 ---
 

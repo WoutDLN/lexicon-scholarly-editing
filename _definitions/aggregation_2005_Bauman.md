@@ -4,8 +4,8 @@ lemma: aggregation
 source: bauman_tei_2005
 page: 7
 language: English
-contributor: wout
-last_updated_by: jesse
+contributor: Wout
+last_updated_by: Jesse
 
 ---
 

@@ -4,8 +4,8 @@ lemma: SGML
 source: barnard_generalized_1988
 page: 28
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

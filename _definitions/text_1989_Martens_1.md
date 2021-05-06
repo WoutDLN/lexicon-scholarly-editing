@@ -4,8 +4,8 @@ lemma: text
 source: martens_was_1989
 page: 3
 language: German
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

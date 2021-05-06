@@ -4,8 +4,8 @@ lemma: text
 source: orlandi_informatica_2010
 page: 8
 language: Italian
-contributor: elisa
-last_updated_by: wout
+contributor: Elisa
+last_updated_by: Wout
 
 ---
 

@@ -4,8 +4,8 @@ lemma: recensio
 source: trovato_everything_2014
 page: 73
 language: English
-contributor: elena
-last_updated_by: caroline
+contributor: Elena
+last_updated_by: Caroline
 
 ---
 

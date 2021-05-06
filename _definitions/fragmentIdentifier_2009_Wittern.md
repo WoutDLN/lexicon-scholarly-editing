@@ -4,8 +4,8 @@ lemma: fragment identifier
 source: wittern_making_2009
 page: 292
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

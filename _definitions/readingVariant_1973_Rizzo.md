@@ -4,8 +4,8 @@ lemma: reading (variant)
 source: rizzo_lessico_1973
 page: 209
 language: Italian
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

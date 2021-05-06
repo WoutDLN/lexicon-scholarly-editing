@@ -4,8 +4,8 @@ lemma: genetic dossier
 source: biasi_edition_1996
 page: 167-168
 language: French
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

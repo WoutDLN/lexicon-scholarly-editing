@@ -4,8 +4,8 @@ lemma: text (OHCO)
 source: derose_what_1990
 page: 3-4
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

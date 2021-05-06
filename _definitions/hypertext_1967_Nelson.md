@@ -4,8 +4,8 @@ lemma: hypertext
 source: nelson_getting_1967
 page: 195
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

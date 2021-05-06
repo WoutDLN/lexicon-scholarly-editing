@@ -1,5 +1,5 @@
 ---
-username: elena
+username: Elena
 name: Elena Spadini
 nationality: Italian
 position: contributor

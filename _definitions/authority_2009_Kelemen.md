@@ -4,8 +4,8 @@ lemma: authority
 source: kelemen_textual_2009
 page: 567
 language: English
-contributor: merisa
-last_updated_by: jesse
+contributor: Merisa
+last_updated_by: Jesse
 
 ---
 

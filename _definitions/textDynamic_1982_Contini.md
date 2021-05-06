@@ -4,8 +4,8 @@ lemma: text (dynamic)
 source: contini_come_1982
 page: 233-234
 language: Italian
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

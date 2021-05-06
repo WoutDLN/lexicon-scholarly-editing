@@ -4,8 +4,8 @@ lemma: stemma
 source: west_textual_1973
 page: 14
 language: English
-contributor: elisa
-last_updated_by: caroline
+contributor: Elisa
+last_updated_by: Caroline
 
 ---
 

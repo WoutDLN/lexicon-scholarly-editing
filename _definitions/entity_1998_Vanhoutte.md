@@ -4,8 +4,8 @@ lemma: entity
 source: vanhoutte_en_1998
 page: 117-118
 language: Dutch
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

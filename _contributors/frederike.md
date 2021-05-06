@@ -1,5 +1,5 @@
 ---
-username: frederike
+username: Frederike
 name: Frederike Neuber
 nationality: German
 position: contributor

@@ -4,8 +4,8 @@ lemma: edition (critical)
 source: bryant_fluid_2002
 page: 20
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

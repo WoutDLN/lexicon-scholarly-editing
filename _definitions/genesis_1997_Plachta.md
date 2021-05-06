@@ -4,8 +4,8 @@ lemma: genesis
 source: plachta_editionswissenschaft_1997
 page: 139
 language: French
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

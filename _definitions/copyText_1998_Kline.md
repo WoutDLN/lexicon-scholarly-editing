@@ -4,8 +4,8 @@ lemma: copy-text
 source: kline_guide_1998
 page: 270
 language: German
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

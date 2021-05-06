@@ -4,8 +4,8 @@ lemma: editing
 source: belleminnoel_texte_1972
 page: 14
 language: French
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

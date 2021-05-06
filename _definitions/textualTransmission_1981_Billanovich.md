@@ -4,8 +4,8 @@ lemma: textual transmission
 source: billanovich_tradizione_1981
 page: 1
 language: Italian
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

@@ -4,8 +4,8 @@ lemma: archive
 source: price_electronic_2007
 page: 345
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

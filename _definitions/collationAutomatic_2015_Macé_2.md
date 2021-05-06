@@ -4,8 +4,8 @@ lemma: collation (automatic)
 source: mace_chapter_2015
 page: 335
 language: English
-contributor: elisa
-last_updated_by: jesse
+contributor: Elisa
+last_updated_by: Jesse
 
 ---
 

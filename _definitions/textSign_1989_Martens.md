@@ -4,8 +4,8 @@ lemma: text (sign)
 source: martens_was_1989
 page: 12-13
 language: German
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

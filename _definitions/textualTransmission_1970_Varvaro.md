@@ -4,8 +4,8 @@ lemma: textual transmission
 source: varvaro_critica_1970
 page: 86-87
 language: Italian
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

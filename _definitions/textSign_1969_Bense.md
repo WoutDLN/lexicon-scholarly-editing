@@ -4,8 +4,8 @@ lemma: text (sign)
 source: bense_einfuhrung_1969
 page: 76
 language: German
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

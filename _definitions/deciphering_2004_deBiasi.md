@@ -4,8 +4,8 @@ lemma: deciphering
 source: biasi_toward_2004
 page: 54
 language: French
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

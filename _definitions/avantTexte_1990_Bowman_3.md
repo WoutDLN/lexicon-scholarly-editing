@@ -4,8 +4,8 @@ lemma: avant-texte
 source: bowman_genetic_1990
 page: 634
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

@@ -4,8 +4,8 @@ lemma: insertion mark
 source: andre_petite_1998
 page: 54
 language: French
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 Le signe `⁁` (qu’on appelle en France lambda du fait de sa ressemblance avec la lettre grecque `λ` inversée) semble avoir d’abord été `‸` (ou `ˇ`). C’est d’ailleurs la forme qu’il a encore dans certains pays (aux USA par exemple, [...], où il s’appelle caret). On a probablement ajouté la barre oblique pour bien situer l’endroit exact où faire l’insertion (souvent entre deux lettres).

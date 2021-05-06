@@ -4,8 +4,8 @@ lemma: apparatus (progressive)
 source: italia_che_2010
 page: 60
 language: Italian
-contributor: monica
-last_updated_by: jesse
+contributor: Monica
+last_updated_by: Jesse
 
 ---
 Un’altra distinzione negli apparati orizzontali viene fatta tra apparato progressivo o [derivativo](apparatusDerivative.html). Una volta ripetuta in apparato la porzione di [testo](text.html) coinvolta da [variante](variant.html), seguita dalla parentesi quadra chiusa, le [correzioni](correction.html) possono essere rappresentate in forma progressiva o derivativa, a seconda dell’ordine seguito nella catena delle varianti.

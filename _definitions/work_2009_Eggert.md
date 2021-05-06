@@ -4,8 +4,8 @@ lemma: work
 source: eggert_securing_2009
 page: 237
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

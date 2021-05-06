@@ -5,8 +5,8 @@ source: sahle_criteria_2014
 page: Scope
 locator: §
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

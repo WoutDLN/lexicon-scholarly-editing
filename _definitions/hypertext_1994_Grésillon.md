@@ -4,8 +4,8 @@ lemma: hypertext
 source: gresillon_elments_1994
 page: 224
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

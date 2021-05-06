@@ -4,8 +4,8 @@ lemma: exemplar
 source: stussi_introduzione_1994
 page: 89
 language: Italian
-contributor: elisa
-last_updated_by: wout
+contributor: Elisa
+last_updated_by: Wout
 
 ---
 

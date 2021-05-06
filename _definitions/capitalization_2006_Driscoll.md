@@ -4,8 +4,8 @@ lemma: capitalization
 source: driscoll_levels_2006
 page: 256
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

@@ -4,8 +4,8 @@ lemma: TEI
 source: vanhoutte_en_1998
 page: 121-122
 language: Dutch
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

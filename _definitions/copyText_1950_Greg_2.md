@@ -4,8 +4,8 @@ lemma: copy-text
 source: greg_rationale_1950
 page: 26
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

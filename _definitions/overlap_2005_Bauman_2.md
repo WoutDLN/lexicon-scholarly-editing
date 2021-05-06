@@ -4,8 +4,8 @@ lemma: overlap
 source: bauman_tei_2005
 page: 7
 language: English
-contributor: jesse
-last_updated_by: jesse
+contributor: Jesse
+last_updated_by: Jesse
 
 ---
 overlapping elements

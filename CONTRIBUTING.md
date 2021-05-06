@@ -18,7 +18,7 @@ Below the front matter, write a few lines about yourself, using markdown formatt
 ### 1.4 complete example of contributor file
 ```
 ---
-username: elli
+username: Elli
 name: Elli Bleeker
 position: contributor
 joined: 2015-01-26
@@ -75,8 +75,8 @@ lemma: écriture à processus
 source: gresillon_elments_1994
 page: 243
 language: French
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

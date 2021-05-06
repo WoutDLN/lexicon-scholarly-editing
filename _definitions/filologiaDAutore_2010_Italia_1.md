@@ -4,8 +4,8 @@ lemma: filologia d'autore
 source: italia_che_2010
 page: 9
 language: Italian
-contributor: monica
-last_updated_by: jesse
+contributor: Monica
+last_updated_by: Jesse
 
 ---
 

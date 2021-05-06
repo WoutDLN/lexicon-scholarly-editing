@@ -1,5 +1,5 @@
 ---
-username: luciano
+username: Luciano
 name: Luciano Longo
 nationality: Italian
 position: contributor

@@ -4,8 +4,8 @@ lemma: attribute
 source: burnard_what_2014
 page: 14
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

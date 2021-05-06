@@ -4,8 +4,8 @@ lemma: document
 source: sahle_digitale_2013_2
 page: 138
 language: German
-contributor: elisa
-last_updated_by: wout
+contributor: Elisa
+last_updated_by: Wout
 
 ---
 

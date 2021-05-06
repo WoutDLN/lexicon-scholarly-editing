@@ -4,8 +4,8 @@ lemma: avant-texte
 source: belleminnoel_psychoanalytic_2004
 page: 30-31
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

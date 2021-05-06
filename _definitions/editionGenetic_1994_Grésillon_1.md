@@ -4,8 +4,8 @@ lemma: edition (genetic)
 source: gresillon_elments_1994
 page: 188
 language: French
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

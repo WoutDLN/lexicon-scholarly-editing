@@ -4,8 +4,8 @@ lemma: instant rewriting
 source: plachta_editionswissenschaft_1997
 page: 138
 language: German
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

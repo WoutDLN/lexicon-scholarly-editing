@@ -4,8 +4,8 @@ lemma: attribute
 source: vanhoutte_en_1998
 page: 116
 language: Dutch
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

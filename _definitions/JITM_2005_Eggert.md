@@ -4,8 +4,8 @@ lemma: JITM
 source: eggert_text_2005
 page: 431
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

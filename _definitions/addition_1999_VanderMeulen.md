@@ -4,8 +4,8 @@ lemma: addition
 source: meulen_system_1999
 page: 206
 language: English
-contributor: jesse
-last_updated_by: jesse
+contributor: Jesse
+last_updated_by: Jesse
 
 ---
 _Addition._ The word _interlined_ designates one of the most common forms of addition, an

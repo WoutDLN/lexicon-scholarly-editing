@@ -4,8 +4,8 @@ lemma: phylogenetics
 source: pierazzo_digital_2014
 page: 2
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

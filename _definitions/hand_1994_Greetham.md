@@ -4,8 +4,8 @@ lemma: hand
 source: greetham_textual_1994
 page: 172
 language: English
-contributor: elisa
-last_updated_by: wout
+contributor: Elisa
+last_updated_by: Wout
 
 ---
 

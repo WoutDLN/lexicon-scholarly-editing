@@ -4,8 +4,8 @@ lemma: archetype
 source: rizzo_lessico_1973
 page:  308
 language: Italian
-contributor: jesse
-last_updated_by: jesse
+contributor: Jesse
+last_updated_by: Jesse
 
 ---
 

@@ -4,8 +4,8 @@ lemma: TEI
 source: romary_questions_2010
 page: 78
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

@@ -4,8 +4,8 @@ lemma: edition (critical)
 source: diorio_questce_2010
 page: 50
 language: French
-contributor: elli
-last_updated_by: wout
+contributor: Elli
+last_updated_by: Wout
 
 ---
 

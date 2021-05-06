@@ -4,8 +4,8 @@ lemma: edition (digital)
 source: vanhoutte_en_1998
 page: 107
 language: Dutch
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

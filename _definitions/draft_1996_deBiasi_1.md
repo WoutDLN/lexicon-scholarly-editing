@@ -4,8 +4,8 @@ lemma: draft
 source: biasi_what_1996
 page: 26
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

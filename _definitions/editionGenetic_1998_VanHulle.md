@@ -4,8 +4,8 @@ lemma: edition (genetic)
 source: van_hulle_denkt_1998
 page: 93-94
 language: Dutch
-contributor: wout
-last_updated_by: jesse
+contributor: Wout
+last_updated_by: Jesse
 
 ---
 

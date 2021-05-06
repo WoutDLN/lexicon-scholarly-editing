@@ -4,8 +4,8 @@ lemma: accidental
 source: kline_guide_1998
 page: 269
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

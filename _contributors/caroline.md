@@ -1,5 +1,5 @@
 ---
-username: caroline
+username: Caroline
 name: Caroline Vandyck
 nationality: Belgian
 position: contributor

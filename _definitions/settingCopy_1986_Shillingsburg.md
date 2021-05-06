@@ -4,8 +4,8 @@ lemma: setting copy
 source: shillingsburg_scholarly_1986
 page: 169-170
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

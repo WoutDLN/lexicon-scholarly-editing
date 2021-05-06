@@ -4,8 +4,8 @@ lemma: bon à tirer
 source: biasi_what_1996
 page: 37
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

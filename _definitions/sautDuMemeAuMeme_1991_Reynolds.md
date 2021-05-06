@@ -4,8 +4,8 @@ lemma: saut du même au même
 source: reynolds_scribes_1991
 page: 204
 language: English
-contributor: elisa
-last_updated_by: caroline
+contributor: Elisa
+last_updated_by: Caroline
 
 ---
 

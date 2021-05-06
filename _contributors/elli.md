@@ -1,5 +1,5 @@
 ---
-username: elli
+username: Elli
 name: Elli Bleeker
 nationality: Dutch
 position: contributor

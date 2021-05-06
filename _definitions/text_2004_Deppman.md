@@ -4,8 +4,8 @@ lemma: text
 source: deppman_introduction_2004
 page: 5
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

@@ -4,8 +4,8 @@ lemma: authority
 source: shillingsburg_scholarly_1996
 page: 173
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

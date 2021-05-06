@@ -4,8 +4,8 @@ lemma: contamination
 source: chiesa_elementi_2002
 page: 113-114
 language: Italian
-contributor: elisa
-last_updated_by: jesse
+contributor: Elisa
+last_updated_by: Jesse
 
 ---
 Si parla di contaminazione quando nel corso della [trasmissione](textualTransmission.html) di un testo sia avvenuto un contatto fra due o più testimoni diversi che abbia prodotto una copia contenente alcune lezioni dell’uno e alcune [lezioni](readingVariant.html) dell’altro [testimone](witness.html).

@@ -4,8 +4,8 @@ lemma: segmentation
 source: derose_markup_2004
 page: 4
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

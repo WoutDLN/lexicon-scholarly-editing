@@ -4,8 +4,8 @@ lemma: GML
 source: schmidt_inadequacy_2010
 page: 339
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

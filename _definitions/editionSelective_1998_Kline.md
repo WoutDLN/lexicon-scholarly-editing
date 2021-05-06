@@ -4,8 +4,8 @@ lemma: edition (selective)
 source: kline_guide_1998
 page: 273
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

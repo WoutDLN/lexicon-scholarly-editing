@@ -4,8 +4,8 @@ lemma: variant (authorial)
 source: trovato_everything_2014
 page: 161
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

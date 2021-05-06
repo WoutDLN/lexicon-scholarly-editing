@@ -4,8 +4,8 @@ lemma: apparatus (vertical)
 source: italia_che_2010
 page: 50
 language: Italian
-contributor: monica
-last_updated_by: jesse
+contributor: Monica
+last_updated_by: Jesse
 
 ---
 La rappresentazione delle [varianti](variant.html) può avvenire in due modi: con apparato verticale, definito anche “rappresentazione in colonna” (Stussi 2006, 187) o con apparato orizzontale, definito anche “rappresentazione lineare” (189).

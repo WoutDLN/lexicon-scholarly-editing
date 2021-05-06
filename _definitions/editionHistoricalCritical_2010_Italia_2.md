@@ -4,8 +4,8 @@ lemma: edition (historical-critical)
 source: italia_che_2010
 page: 27
 language: Italian
-contributor: monica
-last_updated_by: jesse
+contributor: Monica
+last_updated_by: Jesse
 
 ---
 L’edizione tedesco-italiana tende invece a dare maggiore importanza al processo correttorio di cui la [lezione](readingVariant.html) a [testo](text.html) costituisce il prodotto finale e considera quindi solo la parte dell’avantesto che ha una relazione diretta con tale “prodotto”.

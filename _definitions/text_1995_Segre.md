@@ -4,8 +4,8 @@ lemma: text
 source: segre_critique_1995
 page: 29
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

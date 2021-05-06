@@ -4,8 +4,8 @@ lemma: TEI (software)
 source: teehan_appropriate_2010
 page: 381
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

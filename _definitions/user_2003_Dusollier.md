@@ -4,8 +4,8 @@ lemma: user
 source: dusollier_open_2003
 page: 291
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

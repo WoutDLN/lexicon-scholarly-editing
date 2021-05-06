@@ -4,8 +4,8 @@ lemma: DTD
 source: romary_questions_2010
 page: 77
 language: English
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

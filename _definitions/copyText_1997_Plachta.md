@@ -4,8 +4,8 @@ lemma: copy-text
 source: plachta_editionswissenschaft_1997
 page: 135-136
 language: German
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

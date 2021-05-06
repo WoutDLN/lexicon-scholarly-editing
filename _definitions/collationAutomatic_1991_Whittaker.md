@@ -4,8 +4,8 @@ lemma: collation (automatic)
 source: whittaker_practice_1991
 page: 128
 language: English
-contributor: elisa
-last_updated_by: jesse
+contributor: Elisa
+last_updated_by: Jesse
 
 ---
 

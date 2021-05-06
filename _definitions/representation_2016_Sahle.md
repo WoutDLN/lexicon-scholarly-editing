@@ -4,8 +4,8 @@ lemma: representation
 source: sahle_what_2016
 page: 20-21
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

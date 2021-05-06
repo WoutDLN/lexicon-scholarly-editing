@@ -4,8 +4,8 @@ lemma: intralinear
 source: gresillon_elments_1994
 page: 244
 language: French
-contributor: jesse
-last_updated_by: jesse
+contributor: Jesse
+last_updated_by: Jesse
 
 ---
 

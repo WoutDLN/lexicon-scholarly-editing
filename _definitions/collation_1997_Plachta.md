@@ -4,8 +4,8 @@ lemma: collation
 source: plachta_editionswissenschaft_1997
 page: 137
 language: German
-contributor: wout
-last_updated_by: jesse
+contributor: Wout
+last_updated_by: Jesse
 
 ---
 

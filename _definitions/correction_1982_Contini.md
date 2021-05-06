@@ -4,8 +4,8 @@ lemma: correction
 source: contini_come_1982
 page: 234
 language: Italian
-contributor: jesse
-last_updated_by: jesse
+contributor: Jesse
+last_updated_by: Jesse
 
 ---
 

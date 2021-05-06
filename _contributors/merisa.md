@@ -1,5 +1,5 @@
 ---
-username: merisa
+username: Merisa
 name: Merisa Ariel Martinez
 nationality: American
 position: Sentient Contributor

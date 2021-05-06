@@ -4,8 +4,8 @@ lemma: intentionality
 source: price_electronic_2007
 page: 345
 language: English
-contributor: jesse
-last_updated_by: jesse
+contributor: Jesse
+last_updated_by: Jesse
 
 ---
 

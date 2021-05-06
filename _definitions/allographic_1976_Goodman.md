@@ -4,8 +4,8 @@ lemma: allograph
 source: goodman_languages_1976
 page: 121
 language: English
-contributor: mats
-last_updated_by: wout
+contributor: Mats
+last_updated_by: Wout
 
 ---
 

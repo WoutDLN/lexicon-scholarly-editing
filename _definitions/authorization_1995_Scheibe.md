@@ -4,8 +4,8 @@ lemma: authorization
 source: scheibe_on_1995
 page: 207
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

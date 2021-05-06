@@ -4,8 +4,8 @@ lemma: text
 source: pichler_advantages_1995
 page: 774-775
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

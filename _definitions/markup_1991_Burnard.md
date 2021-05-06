@@ -5,8 +5,8 @@ source: burnard_what_1991
 page: 2
 locator: section
 language: English
-contributor: jesse
-last_updated_by: wout
+contributor: Jesse
+last_updated_by: Wout
 
 ---
 The word markup was originally used to describe annotation or other marks within a text intended to instruct a compositor or typist how a particular passage should be printed or [laid out](layout.html). Examples, familiar to proofreaders and others, include wavy underlining to indicate boldface, special symbols for passages to be omited or printed in a particular font, and so forth. As the production of texts was automated, the term was extended to cover all sorts of special “markup codes” inserted into electronic texts to govern formatting, printing, or other processing.

@@ -4,8 +4,8 @@ lemma: intentionality
 source: zeller_record_1995
 page: 24
 language: English
-contributor: jesse
-last_updated_by: jesse
+contributor: Jesse
+last_updated_by: Jesse
 
 ---
 

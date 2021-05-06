@@ -1,5 +1,5 @@
 ---
-username: fran
+username: Fran
 name: Francisco Javier Álvarez-Carbajal
 nationality: Spanish
 position: contributor

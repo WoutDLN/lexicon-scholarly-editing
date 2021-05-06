@@ -4,8 +4,8 @@ lemma: contamination
 source: zeller_record_1995
 page: 27
 language: English
-contributor: wout
-last_updated_by: wout
+contributor: Wout
+last_updated_by: Wout
 
 ---
 

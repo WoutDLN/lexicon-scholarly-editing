@@ -4,8 +4,8 @@ lemma: setting copy
 source: andre_petite_1998
 page: 46
 language: French
-contributor: caroline
-last_updated_by: caroline
+contributor: Caroline
+last_updated_by: Caroline
 
 ---
 

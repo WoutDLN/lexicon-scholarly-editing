@@ -4,8 +4,8 @@ lemma: filologia d'autore
 source: stussi_introduzione_1994
 page: 163
 language: Italian
-contributor: elisa
-last_updated_by: jesse
+contributor: Elisa
+last_updated_by: Jesse
 
 ---
 

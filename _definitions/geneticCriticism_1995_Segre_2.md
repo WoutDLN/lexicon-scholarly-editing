@@ -4,8 +4,8 @@ lemma: genetic criticism
 source: segre_critique_1995
 page: 31
 language: French
-contributor: jesse
-last_updated_by: jesse
+contributor: Jesse
+last_updated_by: Jesse
 
 ---
 
