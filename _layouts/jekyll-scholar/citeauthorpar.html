@@ -2,7 +2,7 @@
 ---
 {% assign authors = entry.author | split: ", " %}
 {% if entry.author contains " and " %}
-  {{entry.year}} ({{authors | first | append: " et al."}})
+  ({{authors | first | append: " et al."}})
 {% else %}
-  {{entry.year}} ({{authors | first }})
+  ({{authors | first }})
 {% endif %}
