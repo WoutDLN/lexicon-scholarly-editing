@@ -1,7 +1,7 @@
 <!-- array with all contributors -->
 {%- assign contributors_linked = "" | split: "" -%}
 {%- for contributor in site.contributors -%}
-  {%- unless contributor.username == "contribot" -%}
+  {%- unless contributor.username == "Contribot" -%}
     {%- capture link -%}
     <a href="{{site.baseurl}}/contributors/{{contributor.username}}.html">
     {%- endcapture -%}
