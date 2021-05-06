@@ -5,7 +5,7 @@ source: chiesa_elementi_2002
 page: 48
 language: Italian
 contributor: Elisa
-last_updated_by: Wout
+updated_by: Wout
 
 ---
 

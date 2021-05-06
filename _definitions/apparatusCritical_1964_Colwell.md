@@ -5,7 +5,7 @@ source: colwell_variant_1964
 page: 256
 language: English
 contributor: Elisa
-last_updated_by: Jesse
+updated_by: Jesse
 
 ---
 

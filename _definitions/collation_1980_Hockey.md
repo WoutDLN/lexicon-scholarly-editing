@@ -5,7 +5,7 @@ source: hockey_guide_1980
 page: 144-145
 language: English
 contributor: Jesse
-last_updated_by: Jesse
+updated_by: Jesse
 
 ---
 

@@ -5,7 +5,7 @@ source: gabler_introduction_1995
 page: 6
 language: English
 contributor: Caroline
-last_updated_by: Caroline
+updated_by: Caroline
 
 ---
 

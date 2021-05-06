@@ -10,7 +10,7 @@ username.md
 ```
 
 ### 1.2 add front matter
-Inside the `.md` file, complete the following variables: `username` (lower case first name), `name` (full name, capitalized), `position` (usually `contributor`), `joined` (today's date).
+Inside the `.md` file, complete the following variables: `username` (e.g. first name, case sensitive!), `name` (full name, capitalized), `position` (usually `contributor`), `joined` (today's date).
 
 ### 1.3 add short bio
 Below the front matter, write a few lines about yourself, using markdown formatting.
@@ -62,7 +62,7 @@ Inside the `.md` file, complete the following variables:
 - `page` (page number, page range, other locator, or n.p. for 'no page'),
 - `language` (English full name of the definition's language),
 - `contributor` (`username` of whoever initially added the definition to the Lexicon), and
-- `last_updated_by` (`username` of whoever last updated/corrected the definition).
+- `updated_by` (`username`s of whoever updated/corrected the definition, separated by commas).
 
 ### 4.3 add definition
 Below the front matter, write out the full definition, using markdown formatting. Try to be as true to the original as possible. If possible, add links to other definitions in the lexicon, using `[linked text](lemmaFileName.html)`.
@@ -76,7 +76,7 @@ source: gresillon_elments_1994
 page: 243
 language: French
 contributor: Wout
-last_updated_by: Wout
+updated_by: Wout
 
 ---
 

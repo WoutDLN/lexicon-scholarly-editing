@@ -5,7 +5,7 @@ source: maas_critica_1952
 page: XVII-13
 language: Italian
 contributor: Elena
-last_updated_by: Caroline
+updated_by: Caroline
 
 ---
 

@@ -5,7 +5,7 @@ source: plachta_editionswissenschaft_1997
 page: 135
 language: German
 contributor: Caroline
-last_updated_by: Caroline
+updated_by: Caroline
 
 ---
 

@@ -5,7 +5,7 @@ source: contini_come_1982
 page: 233-234
 language: Italian
 contributor: Caroline
-last_updated_by: Caroline
+updated_by: Caroline
 
 ---
 

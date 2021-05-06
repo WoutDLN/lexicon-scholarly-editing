@@ -5,7 +5,7 @@ source: orlandi_informatica_2010
 page: 8
 language: Italian
 contributor: Elisa
-last_updated_by: Wout
+updated_by: Wout
 
 ---
 

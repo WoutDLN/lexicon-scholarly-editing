@@ -5,7 +5,7 @@ source: bauman_tei_2005
 page: 7
 language: English
 contributor: Jesse
-last_updated_by: Jesse
+updated_by: Jesse
 
 ---
 pointing

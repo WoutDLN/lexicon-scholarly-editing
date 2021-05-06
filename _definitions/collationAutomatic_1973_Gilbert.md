@@ -5,7 +5,7 @@ source: gilbert_automatic_1973
 page: 139
 language: English
 contributor: Elisa
-last_updated_by: Jesse
+updated_by: Jesse
 
 ---
 

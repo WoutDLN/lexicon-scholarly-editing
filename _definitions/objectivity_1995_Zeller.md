@@ -5,7 +5,7 @@ source: zeller_record_1995
 page: 19-20
 language: English
 contributor: Wout
-last_updated_by: Wout
+updated_by: Wout
 
 ---
 

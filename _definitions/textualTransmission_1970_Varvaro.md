@@ -5,7 +5,7 @@ source: varvaro_critica_1970
 page: 86-87
 language: Italian
 contributor: Caroline
-last_updated_by: Caroline
+updated_by: Caroline
 
 ---
 

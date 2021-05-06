@@ -5,7 +5,7 @@ source: bowman_genetic_1990
 page: 629
 language: English
 contributor: Caroline
-last_updated_by: Caroline
+updated_by: Caroline
 
 ---
 

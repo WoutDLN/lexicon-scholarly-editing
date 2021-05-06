@@ -5,7 +5,7 @@ source: shillingsburg_scholarly_1996
 page: 93-95
 language: English
 contributor: Wout
-last_updated_by: Wout
+updated_by: Wout
 
 ---
 

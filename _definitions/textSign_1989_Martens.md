@@ -5,7 +5,7 @@ source: martens_was_1989
 page: 12-13
 language: German
 contributor: Caroline
-last_updated_by: Caroline
+updated_by: Caroline
 
 ---
 

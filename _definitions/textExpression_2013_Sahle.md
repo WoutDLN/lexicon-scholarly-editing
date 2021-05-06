@@ -5,7 +5,7 @@ source: sahle_digitale_2013_1
 page: 10-11
 language: German
 contributor: Caroline
-last_updated_by: Caroline
+updated_by: Caroline
 
 ---
 

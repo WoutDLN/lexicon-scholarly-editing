@@ -5,7 +5,7 @@ source: bense_einfuhrung_1969
 page: 76
 language: German
 contributor: Caroline
-last_updated_by: Caroline
+updated_by: Caroline
 
 ---
 

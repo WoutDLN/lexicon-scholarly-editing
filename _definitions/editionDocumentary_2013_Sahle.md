@@ -5,7 +5,7 @@ source: sahle_digitale_2013_1
 page: 218
 language: German
 contributor: Wout
-last_updated_by: Wout
+updated_by: Wout
 
 ---
 

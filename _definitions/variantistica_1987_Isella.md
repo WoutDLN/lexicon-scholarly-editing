@@ -5,7 +5,7 @@ source: isella_varianti_1987
 page: 12
 language: Italian
 contributor: Caroline
-last_updated_by: Caroline
+updated_by: Caroline
 
 ---
 

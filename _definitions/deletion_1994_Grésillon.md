@@ -5,7 +5,7 @@ source: gresillon_elments_1994
 page: 245
 language: French
 contributor: Wout
-last_updated_by: Wout
+updated_by: Wout
 
 ---
 

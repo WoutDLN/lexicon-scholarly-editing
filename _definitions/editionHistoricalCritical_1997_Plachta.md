@@ -5,7 +5,7 @@ source: plachta_editionswissenschaft_1997
 page: 136-137
 language: German
 contributor: Wout
-last_updated_by: Wout
+updated_by: Wout
 
 ---
 

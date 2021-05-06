@@ -5,7 +5,7 @@ source: shillingsburg_scholarly_1996
 page: 75-76
 language: English
 contributor: Caroline
-last_updated_by: Caroline
+updated_by: Caroline
 
 ---
 

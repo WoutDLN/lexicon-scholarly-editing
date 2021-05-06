@@ -5,7 +5,7 @@ source: katajamaki_textual_2013
 page: 12-13
 language: English
 contributor: Caroline
-last_updated_by: Caroline
+updated_by: Caroline
 
 ---
 

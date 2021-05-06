@@ -5,7 +5,7 @@ source: trovato_everything_2014
 page: 132
 language: English
 contributor: Jesse
-last_updated_by: Jesse
+updated_by: Jesse
 
 ---
 Alberto Varvaro (“Considerazioni sulla contaminatione…”, 191) rightly shifts the focus of the discussion to the causes of contamination, reviving the distinction between two types of perturbation in genealogical relationships:

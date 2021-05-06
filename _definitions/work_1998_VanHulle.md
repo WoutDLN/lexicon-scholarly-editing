@@ -5,7 +5,7 @@ source: van_hulle_denkt_1998
 page: 96-97
 language: Dutch
 contributor: Caroline
-last_updated_by: Caroline
+updated_by: Caroline
 
 ---
 

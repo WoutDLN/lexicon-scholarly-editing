@@ -5,7 +5,7 @@ source: stussi_introduzione_1994
 page: 89
 language: Italian
 contributor: Elisa
-last_updated_by: Jesse
+updated_by: Jesse
 
 ---
 Il testo _originale_, materialmente inteso, può essere scritto dall’[autore](author.html) (_[autografo](holograph.html_) o sotto sua sorveglianza (_[idiografo](idiograph.html_), oppure può essere un’edizione a stampa da lui controllata e approvata.

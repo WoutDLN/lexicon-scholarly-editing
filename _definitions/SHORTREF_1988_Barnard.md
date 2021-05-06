@@ -5,7 +5,7 @@ source: barnard_sgml_1988
 page: 274
 language: English
 contributor: Caroline
-last_updated_by: Caroline
+updated_by: Caroline
 
 ---
 

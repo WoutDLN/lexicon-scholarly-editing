@@ -5,7 +5,7 @@ source: barnard_generalized_1988
 page: 28
 language: English
 contributor: Caroline
-last_updated_by: Caroline
+updated_by: Caroline
 
 ---
 

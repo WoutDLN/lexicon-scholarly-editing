@@ -5,7 +5,7 @@ source: huitfeldt_what_2008
 page: 309, note 1
 language: English
 contributor: Caroline
-last_updated_by: Wout
+updated_by: Wout
 
 ---
 

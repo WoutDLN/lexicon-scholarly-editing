@@ -5,7 +5,7 @@ source: contini_diligenza_1989
 page: 155-156
 language: Italian
 contributor: Elisa
-last_updated_by: Jesse
+updated_by: Jesse
 
 ---
 

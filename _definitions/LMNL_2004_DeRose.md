@@ -5,7 +5,7 @@ source: derose_markup_2004
 page: 8
 language: English
 contributor: Jesse
-last_updated_by: Jesse
+updated_by: Jesse
 
 ---
 LMNL (the Layered [Markup](markup.html) and Annotation Language […]) overcomes the limitations of marking up non-hierarchies in [XML](xml.html), except that it steps entirely outside the XML paradigm to do so. It can represent unlimited [overlap](overlap.html) of all kinds. In principle LMNL is a data model, not a syntax with an implied data model as [SGML](SGML.html) was, and as XML was until DOM and the Infoset added models.

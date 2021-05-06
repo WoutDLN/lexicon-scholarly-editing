@@ -5,7 +5,7 @@ source: segre_critique_1976
 page: 286
 language: French
 contributor: Caroline
-last_updated_by: Caroline
+updated_by: Caroline
 
 ---
 

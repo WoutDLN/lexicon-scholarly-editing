@@ -5,7 +5,7 @@ source: peirce_prolegomena_1906
 page: 506
 language: English
 contributor: Caroline
-last_updated_by: Caroline
+updated_by: Caroline
 
 ---
 

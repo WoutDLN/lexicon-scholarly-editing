@@ -5,7 +5,7 @@ source: trovato_everything_2014
 page: 66-67
 language: English
 contributor: Jesse
-last_updated_by: Jesse
+updated_by: Jesse
 
 ---
 [Textual critics](textualCriticism.html) should only use the word archetype to designate the point in the [stemma](stemma) beyond which the surviving tradition does not allow them to reach.

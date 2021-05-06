@@ -5,7 +5,7 @@ source: contini_saggio_1943
 page: 56
 language: Italian
 contributor: Jesse
-last_updated_by: Jesse
+updated_by: Jesse
 
 ---
 

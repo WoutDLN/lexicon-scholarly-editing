@@ -5,7 +5,7 @@ source: schmidt_inadequacy_2010
 page: 341
 language: English
 contributor: Caroline
-last_updated_by: Caroline
+updated_by: Caroline
 
 ---
 

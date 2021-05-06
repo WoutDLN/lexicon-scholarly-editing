@@ -5,7 +5,7 @@ source: stussi_introduzione_1994
 page: 128
 language: Italian
 contributor: Elisa
-last_updated_by: Wout
+updated_by: Wout
 
 ---
 

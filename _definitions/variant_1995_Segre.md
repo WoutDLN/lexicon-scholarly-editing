@@ -5,7 +5,7 @@ source: segre_critique_1995
 page: 30
 language: French
 contributor: Caroline
-last_updated_by: Caroline
+updated_by: Caroline
 
 ---
 

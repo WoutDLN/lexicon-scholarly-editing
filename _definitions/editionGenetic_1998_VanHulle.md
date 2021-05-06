@@ -5,7 +5,7 @@ source: van_hulle_denkt_1998
 page: 93-94
 language: Dutch
 contributor: Wout
-last_updated_by: Jesse
+updated_by: Jesse
 
 ---
 

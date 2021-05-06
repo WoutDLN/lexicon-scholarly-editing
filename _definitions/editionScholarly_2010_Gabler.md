@@ -5,7 +5,7 @@ source: gabler_theorizing_2010
 page: 44-45
 language: English
 contributor: Wout
-last_updated_by: Wout
+updated_by: Wout
 
 ---
 

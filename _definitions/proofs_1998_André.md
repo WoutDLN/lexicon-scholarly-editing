@@ -5,7 +5,7 @@ source: andre_petite_1998
 page: 46
 language: French
 contributor: Jesse
-last_updated_by: Jesse
+updated_by: Jesse
 
 ---
 Un [texte](text.html), une fois composé, est imprimé en un exemplaire (épreuve). Un [correcteur](proofreader.html) signale alors les fautes en indiquant

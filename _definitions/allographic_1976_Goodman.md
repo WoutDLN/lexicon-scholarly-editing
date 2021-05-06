@@ -5,7 +5,7 @@ source: goodman_languages_1976
 page: 121
 language: English
 contributor: Mats
-last_updated_by: Wout
+updated_by: Wout
 
 ---
 

@@ -5,7 +5,7 @@ source: pichler_advantages_1995
 page: 774-775
 language: English
 contributor: Wout
-last_updated_by: Wout
+updated_by: Wout
 
 ---
 

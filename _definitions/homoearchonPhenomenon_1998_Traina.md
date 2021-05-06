@@ -7,7 +7,7 @@ qtd_in: gane_dizionario_2013
 qtd_in_page: 248
 language: Italian
 contributor: Gioele
-last_updated_by: Jesse
+updated_by: Jesse
 
 ---
 

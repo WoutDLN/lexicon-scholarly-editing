@@ -8,7 +8,7 @@
     <strong>Achievements: </strong>
     {% assign contributions = site.definitions | where: 'contributor', page.username %}
     {% assign contributions_size = contributions | size %}
-    {% assign emendations = site.definitions | where_exp: 'item', 'item.last_updated_by contains page.username' %}
+    {% assign emendations = site.definitions | where_exp: 'item', 'item.updated_by contains page.username' %}
     {% assign emendations_size = emendations | size %}
 
     {%- if contributions_size >= 1 or emendations_size >= 1 -%}

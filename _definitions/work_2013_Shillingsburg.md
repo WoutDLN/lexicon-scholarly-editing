@@ -5,7 +5,7 @@ source: shillingsburg_literary_2013
 page: 13
 language: English
 contributor: Caroline
-last_updated_by: Caroline
+updated_by: Caroline
 
 ---
 

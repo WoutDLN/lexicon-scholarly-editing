@@ -5,7 +5,7 @@ source: west_textual_1973
 page: 14
 language: English
 contributor: Elisa
-last_updated_by: Caroline
+updated_by: Caroline
 
 ---
 

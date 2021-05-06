@@ -5,7 +5,7 @@ source: rizzo_lessico_1973
 page: 185
 language: Italian
 contributor: Elisa
-last_updated_by: Wout
+updated_by: Wout
 
 ---
 

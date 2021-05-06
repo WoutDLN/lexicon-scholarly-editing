@@ -5,7 +5,7 @@ source: froger_critique_1968
 page: 9
 language: French
 contributor: Elisa
-last_updated_by: Caroline
+updated_by: Caroline
 
 ---
 

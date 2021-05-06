@@ -6,7 +6,7 @@ page: 4.1
 locator: section
 language: English
 contributor: Caroline
-last_updated_by: Caroline
+updated_by: Caroline
 
 ---
 

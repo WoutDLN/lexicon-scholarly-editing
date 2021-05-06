@@ -5,7 +5,7 @@ source: vanhulle_textual_2004
 page: 47
 language: English
 contributor: Wout
-last_updated_by: Wout
+updated_by: Wout
 
 ---
 

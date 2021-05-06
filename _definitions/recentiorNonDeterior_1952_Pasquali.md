@@ -5,7 +5,7 @@ source: pasquali_storia_1952
 page: 4
 language: Italian
 contributor: Elisa
-last_updated_by: Caroline
+updated_by: Caroline
 
 ---
 

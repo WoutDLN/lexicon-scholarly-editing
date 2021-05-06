@@ -5,7 +5,7 @@ source: italia_che_2010
 page: 10
 language: Italian
 contributor: Monica
-last_updated_by: Caroline
+updated_by: Caroline
 
 ---
 
