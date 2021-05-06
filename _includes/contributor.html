@@ -1,31 +1,63 @@
 <div class="col-6">
   <h1>{{ page.name }}</h1>
   <p>
-    <strong>Role:</strong> {{ page.position }}
+    <strong>Role:</strong> {{ page.position | capitalize }}
   </p>
   {{ content }}
   <p>
     <strong>Achievements: </strong>
     {% assign contributions = site.definitions | where: 'contributor', page.username %}
-    {% assign emmendations = site.definitions | where: 'last_updated_by', page.username %}
+    {% assign contributions_size = contributions | size %}
+    {% assign emendations = site.definitions | where_exp: 'item', 'item.last_updated_by contains page.username' %}
+    {% assign emendations_size = emendations | size %}
 
-    {{ page.name }} has added a total of <a data-toggle="collapse" href="#contributions" aria-expanded="false" aria-controls="contributions">{{ contributions | size }} definitions</a> to the Lexicon, and edited at least <a data-toggle="collapse" href="#emmendations" aria-expanded="false" aria-controls="emmendations">{{ emmendations | size }} definitions</a>.
+    {%- if contributions_size >= 1 or emendations_size >= 1 -%}
+    {{ page.name }} has
+
+      {% if contributions_size >=1 %}
+        added <a data-toggle="collapse" href="#contributions" aria-expanded="false" aria-controls="contributions">{{ contributions_size }} definition
+        {%- if contributions_size > 1 -%}
+          s
+        {%- endif -%}
+        </a> to the Lexicon
+        {%- if emendations_size >=1 -%}
+          ,
+        {%- else -%}
+          .
+        {%- endif -%}
+      {% endif %}
+
+      {% if contributions_size >= 1 and emendations_size >= 1 %}
+      and
+      {% endif %}
+
+      {%- if emendations_size >=1 -%}
+        edited <a data-toggle="collapse" href="#emendations" aria-expanded="false" aria-controls="emendations">{{ emendations_size }} definition
+          {%- if emendations_size > 1 -%}
+            s
+          {%- endif -%}
+        </a>.&nbsp;
+      {%- endif -%}
+
     {{ page.name | split: " " | first }} started contributing to the Lexicon in {{ page.joined | date: "%B %Y" }}.
+
+    {%- endif -%}
+
     <div class="collapse" id="contributions">
       <div class="card card-body">
         <ul>
           {% for contribution in contributions %}
-          <li><a href="{{ site.baseurl }}{{ contribution.url }}">{{ contribution.lemma }}</a> quoted from {% cite contribution.source --style apa %}</li>
+          <li><a href="{{ site.baseurl }}{{ contribution.url }}">{{ contribution.lemma }}</a> quoted from <a href="../bibliography#{{ contribution.source }}">{% bibliography --query @*[key={{contribution.source}}] -T jekyll-scholar/citet %}</a></li>
           {% endfor %}
         </ul>
       </div>
     </div>
 
-    <div class="collapse" id="emmendations">
+    <div class="collapse" id="emendations">
       <div class="card card-body">
         <ul>
-          {% for emmendation in emmendations %}
-          <li><a href="{{ site.baseurl }}{{ emmendation.url }}">{{ emmendation.lemma }}</a>; quoted from {% cite emmendation.source --style apa %}</li>
+          {% for emendation in emendations %}
+          <li><a href="{{ site.baseurl }}{{ emendation.url }}">{{ emendation.lemma }}</a> quoted from <a href="../bibliography#{{ emendation.source }}">{% bibliography --query @*[key={{emendation.source}}] -T jekyll-scholar/citet %}</a></li>
           {% endfor %}
         </ul>
       </div>
