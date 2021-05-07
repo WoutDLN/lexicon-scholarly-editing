@@ -4,13 +4,13 @@ This is the quick-reference cheat sheet for adding definitions to the Lexicon in
 
 ## Step 1: add contributors
 ### 1.1 create contributor file
-If this is your first contribution, add a `.md` file to `_contributors` so we can aggregate your contributions. For the filename, use:
+If this is your first contribution, add a `.md` file to `_contributors` so we can aggregate your contributions. For the filename, please use a [slugified](https://slugify.online) version of whatever your username will be:
 ```
 username.md
 ```
 
 ### 1.2 add front matter
-Inside the `.md` file, complete the following variables: `username` (e.g. first name, case sensitive!), `name` (full name, capitalized), `position` (usually `contributor`), `joined` (today's date).
+Inside the `.md` file, complete the following variables: `username` (e.g. your first name), `name` (full name, capitalized), `position` (usually `contributor`), `joined` (today's date).
 
 ### 1.3 add short bio
 Below the front matter, write a few lines about yourself, using markdown formatting.
@@ -23,7 +23,7 @@ name: Elli Bleeker
 position: contributor
 joined: 2015-01-26
 ---
-DiXiT fellow who is based at the [Centre for Manuscript Genetics](https://www.uantwerpen.be/en/rg/centre-for-manuscript-genetics/) at the University of Antwerp, Belgium.
+A DiXiT fellow who is based at the [Centre for Manuscript Genetics](https://www.uantwerpen.be/en/rg/centre-for-manuscript-genetics/) at the University of Antwerp, Belgium.
 ```
 
 ## Step 2: add reference
