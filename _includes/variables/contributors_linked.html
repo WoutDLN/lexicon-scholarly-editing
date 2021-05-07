@@ -3,7 +3,7 @@
 {%- for contributor in site.contributors -%}
   {%- unless contributor.username == "Contribot" -%}
     {%- capture link -%}
-    <a href="{{site.baseurl}}/contributors/{{contributor.username}}.html">
+    <a href="{{site.baseurl}}/{{contributor.path | remove_first: "_" | replace: ".md", ".html" }}">
     {%- endcapture -%}
     {%- assign contributors_linked = contributor.name | prepend: link
                                               | append: "</a>"
