@@ -1,7 +1,7 @@
 ---
 
 lemma: avant-texte stage
-source: biasi_what_1996,
+source: biasi_what_1996
 page: 38-39
 language: English
 contributor: Wout
