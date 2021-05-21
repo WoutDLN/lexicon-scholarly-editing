@@ -1,4 +1,5 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4008433.svg)](https://doi.org/10.5281/zenodo.4008433)
+[![License](https://img.shields.io/github/license/WoutDLN/lexicon-scholarly-editing)](https://github.com/WoutDLN/lexicon-scholarly-editing/blob/main/LICENSE)
 # A Lexicon for Scholarly Editing
 ## About the Lexicon
 
