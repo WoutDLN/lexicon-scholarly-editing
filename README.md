@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4008433.svg)](https://doi.org/10.5281/zenodo.4008433)
-[![license](https://img.shields.io/github/license/WoutDLN/lexicon-scholarly-editing)](https://github.com/WoutDLN/lexicon-scholarly-editing/blob/main/LICENSE)
-[![build](https://github.com/WoutDLN/lexicon-scholarly-editing/actions/workflows/github-pages.yml/badge.svg)](https://github.com/WoutDLN/lexicon-scholarly-editing/actions/workflows/github-pages.yml)
+[![License](https://img.shields.io/github/license/WoutDLN/lexicon-scholarly-editing)](https://github.com/WoutDLN/lexicon-scholarly-editing/blob/main/LICENSE)
+[![build](https://img.shields.io/github/workflow/status/WoutDLN/lexicon-scholarly-editing/Build%20and%20deploy%20Jekyll%20site%20to%20GitHub%20Pages)](https://github.com/WoutDLN/lexicon-scholarly-editing/actions/workflows/github-pages.yml)
 
 # A Lexicon for Scholarly Editing
 ## About the Lexicon
