@@ -1,6 +1,1 @@
-<!-- array with all languages -->
-{% assign languages = "" | split: "" %}
-{% for definition in site.definitions %}
-{% assign languages = definition.language | concat: languages %}
-{% endfor %}
-{% assign languages = languages | uniq | sort_natural %}
+{%- assign languages = site.definitions | map: "language" | uniq | sort_natural -%}

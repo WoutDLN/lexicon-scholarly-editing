@@ -1,6 +1,1 @@
-<!-- array with all tags -->
-{% assign dogs = "" | split: "" %}
-{% for lemma in site.lexicon %}
-{% assign dogs = lemma.tags | concat: dogs %}
-{% endfor %}
-{% assign dogs = dogs | uniq | sort_natural %}
+{%- assign dogs = site.lexicon | map: "tags" | uniq | sort_natural -%}

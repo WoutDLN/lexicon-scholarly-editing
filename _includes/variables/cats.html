@@ -1,6 +1,1 @@
-<!-- array with all categories -->
-{% assign cats = "" | split: "" %}
-{% for lemma in site.lexicon %}
-{% assign cats = lemma.categories | concat: cats %}
-{% endfor %}
-{% assign cats = cats | uniq | sort_natural %}
+{%- assign cats = site.cats | map: "categories" | uniq | sort_natural -%}

@@ -1,6 +1,1 @@
-<!-- array with all sources -->
-{% assign sources = "" | split: "" %}
-{% for definition in site.definitions %}
-{% assign sources = definition.source | concat: sources %}
-{% endfor %}
-{% assign sources = sources | uniq | sort_natural %}
+{%- assign sources = site.definitions | map: "source" | uniq | sort_natural -%}
