@@ -1,7 +1,6 @@
 ---
 title: Home
 description: "homepage"
-layout: homepage
 ---
 {%- assign languages = site.definitions | map: "language" | uniq | sort_natural -%}
 {%- assign sources = site.definitions | map: "source" | uniq | sort_natural -%}
