@@ -1,5 +1,5 @@
 <!-- jQuery -->
-<script src="{{ site.baseurl }}/assets/js/jquery-3.5.0.min.js"></script>
+<script src="/assets/js/jquery-3.5.0.min.js"></script>
 
 <!-- Scripts for Bootstrap -->
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
@@ -9,12 +9,12 @@
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
 
 <!-- Scripts for waypoints -->
-<script src="{{ site.baseurl }}/assets/js/jquery.waypoints.min.js"></script>
-<script src="{{ site.baseurl }}/assets/js/shortcuts/sticky.min.js"></script>
+<script src="/assets/js/jquery.waypoints.min.js"></script>
+<script src="/assets/js/shortcuts/sticky.min.js"></script>
 
 <!-- Scripts for activating search function -->
-<script src="{{site.baseurl}}/assets/js/lunr.min.js"></script>
-<script src="{{site.baseurl}}/assets/js/search.js"></script>
+<script src="/assets/js/lunr.min.js"></script>
+<script src="/assets/js/search.js"></script>
 
 <!-- Script to automatically expand accordion when hash is called in URL-->
 <script type="text/javascript">
@@ -27,4 +27,60 @@ $(document).ready(
     ;}
 
    });
+</script>
+<script type="text/javascript" src="https://www.gstatic.com/charts/loader.js"></script>
+
+<!-- Load d3.js -->
+<script src="https://d3js.org/d3.v4.js"></script>
+
+<!-- Function for radial charts -->
+<script src="https://cdn.jsdelivr.net/gh/holtzy/D3-graph-gallery@master/LIB/d3-scale-radial.js"></script>
+
+<script>
+
+// set the dimensions and margins of the graph
+var margin = {top: 10, right: 10, bottom: 10, left: 10},
+    width = 460 - margin.left - margin.right,
+    height = 460 - margin.top - margin.bottom,
+    innerRadius = 80,
+    outerRadius = Math.min(width, height) / 2;   // the outerRadius goes from the middle of the SVG area to the border
+
+// append the svg object to the body of the page
+var svg = d3.select("#my_dataviz")
+  .append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + width / 2 + "," + ( height/2+100 )+ ")"); // Add 100 on Y translation, cause upper bars are longer
+
+d3.csv("data/circular_barplot.csv", function(data) {
+
+  // X scale
+  var x = d3.scaleBand()
+      .range([0, 2 * Math.PI])    // X axis goes from 0 to 2pi = all around the circle. If I stop at 1Pi, it will be around a half circle
+      .align(0)                  // This does nothing ?
+      .domain( data.map(function(d) { return d.lemma; }) ); // The domain of the X axis is the list of states.
+
+  // Y scale
+  var y = d3.scaleRadial()
+      .range([innerRadius, outerRadius])   // Domain will be define later.
+      .domain([0, 25]); // Domain of Y is from 0 to the max seen in the data
+
+  // Add bars
+  svg.append("g")
+    .selectAll("path")
+    .data(data)
+    .enter()
+    .append("path")
+      .attr("fill", "#69b3a2")
+      .attr("d", d3.arc()     // imagine your doing a part of a donut plot
+          .innerRadius(innerRadius)
+          .outerRadius(function(d) { return y(d['definitions']); })
+          .startAngle(function(d) { return x(d.lemma); })
+          .endAngle(function(d) { return x(d.lemma) + x.bandwidth(); })
+          .padAngle(0.01)
+          .padRadius(innerRadius))
+
+});
+
 </script>

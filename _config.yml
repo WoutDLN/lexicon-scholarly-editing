@@ -39,7 +39,6 @@ scholar:
   bibliography_list_tag: span
   bibliography_item_tag: span
 
-baseurl: /lexicon-scholarly-editing
 changelogurl: https://github.com/WoutDLN/lexicon-scholarly-editing/commits/main/
 
 name: LexiconSE

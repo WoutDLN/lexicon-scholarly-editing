@@ -2,28 +2,28 @@
 <nav id="paginatornav">
   <ul class="pagination" style="margin:0">
     <li class="page-item">
-      <a class="page-link" href="{{ paginator.first_page_path | prepend: site.baseurl }}" aria-label="First"><span aria-hidden="true">&laquo;</span><span class="sr-only">First</span></a>
+      <a class="page-link" href="{{ paginator.first_page_path }}" aria-label="First"><span aria-hidden="true">&laquo;</span><span class="sr-only">First</span></a>
     </li>
     {% if paginator.previous_page %}
     <li class="page-item">
-      <a class="page-link" href="{{ paginator.previous_page_path | prepend: site.baseurl }}" aria-label="Previous"><span aria-hidden="true">&lsaquo;</span><span class="sr-only">Previous</span></a>
+      <a class="page-link" href="{{ paginator.previous_page_path }}" aria-label="Previous"><span aria-hidden="true">&lsaquo;</span><span class="sr-only">Previous</span></a>
     </li>
     {% endif %}
     {% if paginator.page_trail %}
       {% for trail in paginator.page_trail %}
         <li class="page-item{% if page.url == trail.path %} active{% endif %}">
-            <a class="page-link" href="{{ trail.path | prepend: site.baseurl }}" title="{{trail.title}}">{{ trail.num }}</a>
+            <a class="page-link" href="{{ trail.path }}" title="{{trail.title}}">{{ trail.num }}</a>
         </li>
       {% endfor %}
     {% endif %}
     {% if paginator.next_page %}
     <li class="page-item">
-      <a class="page-link" href="{{ paginator.next_page_path | prepend: site.baseurl }}"  aria-label="Previous" aria-label="Next"><span aria-hidden="true">&rsaquo;</span>
+      <a class="page-link" href="{{ paginator.next_page_path }}"  aria-label="Previous" aria-label="Next"><span aria-hidden="true">&rsaquo;</span>
           <span class="sr-only">Next</span></a>
     </li>
     {% endif %}
     <li class="page-item">
-      <a class="page-link" href="{{ paginator.last_page_path | prepend: site.baseurl }}" aria-label="Last"><span aria-hidden="true">&raquo;</span><span class="sr-only">Last</span></a>
+      <a class="page-link" href="{{ paginator.last_page_path }}" aria-label="Last"><span aria-hidden="true">&raquo;</span><span class="sr-only">Last</span></a>
     </li>
   </ul>
 </nav>

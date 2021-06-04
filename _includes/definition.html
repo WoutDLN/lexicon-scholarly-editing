@@ -18,7 +18,7 @@
         <p>
           <small>
             {% assign responsible = site.contributors | where: 'username', definition.contributor | first %}
-            Contributed by <a href="{{ site.baseurl }}{{ responsible.url }}">{{ definition.contributor }}</a>.
+            Contributed by <a href="{{ responsible.url }}">{{ definition.contributor }}</a>.
             View <a href="{{ site.changelogurl }}{{ definition.path }}">changelog</a>.
           </small>
         </p>

@@ -15,7 +15,7 @@ description: Search page
         "year": "{% for definition in site.definitions %}{% if definition.lemma == lemma.name %}{{ definition.source | split: "_" | last | append: " " }}{% endif %}{% endfor %}",
         "category": "{{ lemma.category | xml_escape }}",
         "content": "{% for definition in site.definitions %}{% if definition.lemma == lemma.name %}{{ definition.content | strip_html | strip_newlines | remove_chars | escape | append: " " }}{% endif %}{% endfor %}",
-        "url": "{{ site.baseurl }}{{ lemma.url | xml_escape }}"
+        "url": "{{ lemma.url | xml_escape }}"
       }
       {% unless forloop.last %},{% endunless %}
     {% endfor %}

@@ -5,7 +5,7 @@
     		<div class="flex-container">
   			{% for item in site.data.navigation %}
     			<div class="nav-item" id="{{ item.name }}">
-    				<a href="{{ site.baseurl }}{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}><i class="{{item.icon}}"></i><span class="nav-item-text">{{ item.name }}</<span></a>
+    				<a href="{{ item.link }}" {% if page.url == item.link %}class="current"{% endif %}><i class="{{item.icon}}"></i><span class="nav-item-text">{{ item.name }}</<span></a>
     			</div>
   			{% endfor %}
  			</div>

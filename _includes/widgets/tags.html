@@ -18,7 +18,7 @@
         <ul class="list-group list-group-flush">
           {%- for puppy in litter -%}
             {% unless puppy == page  %}
-            <li class="list-group-item"><a href="{{ site.baseurl }}{{ puppy.url }}">{{ puppy.name }}</a></li>
+            <li class="list-group-item"><a href="{{ puppy.url }}">{{ puppy.name }}</a></li>
             {% endunless %}
           {%- endfor -%}
         </ul>

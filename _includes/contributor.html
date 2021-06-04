@@ -39,14 +39,14 @@
         </a>.&nbsp;
       {%- endif -%}
     {%- endif -%}
-    
+
     {{ page.name | split: " " | first }} started contributing to the Lexicon in {{ page.joined | date: "%B %Y" }}.
 
     <div class="collapse" id="contributions">
       <div class="card card-body">
         <ul>
           {% for contribution in contributions %}
-          <li><a href="{{ site.baseurl }}{{ contribution.url }}">{{ contribution.lemma }}</a> quoted from <a href="../bibliography#{{ contribution.source }}">{% bibliography --query @*[key={{contribution.source}}] -T jekyll-scholar/citet %}</a></li>
+          <li><a href="{{ contribution.url }}">{{ contribution.lemma }}</a> quoted from <a href="../bibliography#{{ contribution.source }}">{% bibliography --query @*[key={{contribution.source}}] -T jekyll-scholar/citet %}</a></li>
           {% endfor %}
         </ul>
       </div>
@@ -56,7 +56,7 @@
       <div class="card card-body">
         <ul>
           {% for emendation in emendations %}
-          <li><a href="{{ site.baseurl }}{{ emendation.url }}">{{ emendation.lemma }}</a> quoted from <a href="../bibliography#{{ emendation.source }}">{% bibliography --query @*[key={{emendation.source}}] -T jekyll-scholar/citet %}</a></li>
+          <li><a href="{{ emendation.url }}">{{ emendation.lemma }}</a> quoted from <a href="../bibliography#{{ emendation.source }}">{% bibliography --query @*[key={{emendation.source}}] -T jekyll-scholar/citet %}</a></li>
           {% endfor %}
         </ul>
       </div>

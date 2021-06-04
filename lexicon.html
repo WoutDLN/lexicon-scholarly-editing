@@ -9,7 +9,7 @@ pagination:
 
 <div class="list-group">
       {% for lemma in paginator.posts %}
-      <a href="{{ site.baseurl }}{{ lemma.url }}" class="list-group-item list-group-item-action">
+      <a href="{{ lemma.url }}" class="list-group-item list-group-item-action">
 
         {% if lemma.name_diacritics %}
         {% assign def_per_lemma = site.definitions | where: 'lemma', lemma.name_diacritics %}
