@@ -7,9 +7,9 @@
 
 The [Lexicon of Scholarly Editing](https://woutdln.github.io/lexicon-scholarly-editing/) is an open academic resource for definitions of concepts that are relevant to the field of Scholarly Editing. Rather positing new definitions, however, the lexicon quotes existing definitions from textual scholars as they appear in academic articles, monographs, and the like. The Lexicon was first developed in WordPress (2012 onwards), but has been redeveloped into a Jekyll website in 2020 to make it more sustainable, more citable, to improve collaboration, crediting, and versioning options, and to allow for more automation while also publishing the definitions as a dataset. Find out more on our [About](https://woutdln.github.io/lexicon-scholarly-editing/about.html) page.
 
-## About the Author
+## About the Developer
 
-This repository was developed by [Wout Dillen](https://github.com/WoutDLN), a postdoctoral researcher at the [University of Antwerp](https://uantwerpen.be) as part of his position as the university's CLARIAH-VL coordinator. He is also the secretary of the [European Society of Textual Scholarship](https://textualscholarship.eu/), and the General Editor of the society's Open Access jounal [_Variants_](https://journals.openedition.org/variants/) from Issue 15 onwards.
+This repository was originally developed by [Wout Dillen](https://github.com/WoutDLN), as part of his position as a postdoctoral researcher at the [University of Antwerp](https://uantwerpen.be), while he was the university's coordinator of [CLARIAH-VL](https://clariahvl.hypotheses.org/). Wout currently works as a Senior Lecturer in Library and Information Science at the [University of Borås](https://www.hb.se/), Sweden. He is also the Secretary of the [European Society of Textual Scholarship (ESTS)](https://textualscholarship.eu/), and part of the Executive Board of the [DH Benelux community](https://dhbenelux.org/). He is also the General editor of the ESTS's journal [_Variants_](https://journals.openedition.org/variants/), and one of the editors of the [_DH Benelux Journal_](https://journal.dhbenelux.org/) – both Open Access publications.
 
 ## About the Website
 
