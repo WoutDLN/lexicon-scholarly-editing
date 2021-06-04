@@ -137,6 +137,10 @@ li.page-item.active {
   font-size: smaller;
 }
 
+.sidebar-card {
+  background-color: rgba($black, .1) !important;
+}
+
 p.bibliography {
   text-indent:-2vw;
   padding-left:2vw;
