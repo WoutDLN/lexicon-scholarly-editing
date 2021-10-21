@@ -1,6 +1,6 @@
 ---
 username: Dirk
-name: Dirk VAn Hulle
+name: Dirk Van Hulle
 nationality: Belgian
 joined: 2012-01-01
 ---
