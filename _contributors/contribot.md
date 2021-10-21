@@ -2,7 +2,6 @@
 username: Contribot
 name: Contribot the Robot
 nationality: AI
-position: contributor
 joined: 2020-05-06
 ---
 

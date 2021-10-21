@@ -1,11 +1,10 @@
 <div class="col-6">
   <h1>{{ page.name }}</h1>
   <p>
-    <strong>Role:</strong> {{ page.position | capitalize }}
+    {{ content | prepend: "<strong>Short Bio:</strong> "}}
   </p>
-  {{ content }}
   <p>
-    <strong>Achievements: </strong>
+    <strong>Contribution:</strong>
     {% assign contributions = site.definitions | where: 'contributor', page.username %}
     {% assign contributions_size = contributions | size %}
     {% assign emendations = site.definitions | where_exp: 'item', 'item.updated_by contains page.username' %}
