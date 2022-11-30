@@ -31,7 +31,7 @@ Add a BibTeX entry for the source you're quoting to the `lexicon.bib` file insid
 
 ## Step 3: add lemma
 ### 3.1 create lemma file
-If the lemma of your definition is not in the Lexicon yet a `.md` file to `_lexicon`. For the filename, use:
+If the lemma of your definition is not in the Lexicon yet, add  a `.md` file to `_lexicon`. For the filename, use:
 ```
 lemmaName.md
 ```
