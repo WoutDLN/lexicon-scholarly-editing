@@ -59,8 +59,8 @@ Add a `.md` file to the `_definitions` directory. For the filename, use: `lemmaF
 Inside the `.md` file, complete the following variables:
 - `lemma` (value of corresponding lemma's `name` variable),
 - `source` (`@key` of corresponding BibTeX source in `lexicon.bib`),
-- `page` (page number, page range, other locator, or n.p. for 'no page'),
-- `language` (English full name of the definition's language),
+- `page` (page number, page range, other locator, or `n.p.` for 'no page'),
+- `language` (English full name of the definition's language; e.g. `Italian`),
 - `contributor` (`username` of whoever initially added the definition to the Lexicon), and
 - `updated_by` (`username`s of whoever updated/corrected the definition, separated by commas).
 
