@@ -37,7 +37,7 @@ lemmaName.md
 ```
 
 ### 3.2 add front matter
-The lemma needs at least a `name` variable in the front matter. Just write it as you would like it to appear in the Lexicon's list of concepts. If your lemma has diacritics(such as letters with accents), write the lemma **without** diacritics in `name`, and a version **with** diacritics in a `name_diacritics` variable. You can also add [lists] of tags or categories.
+The lemma needs at least a `name` variable in the front matter. Just write it as you would like it to appear in the Lexicon's list of concepts. If your lemma has diacritics (such as letters with accents), write the lemma **without** diacritics in `name`, and a version **with** diacritics in a `name_diacritics` variable. You can also add [lists] of tags or categories.
 
 ### 3.3 complete example of lemma file
 ```
