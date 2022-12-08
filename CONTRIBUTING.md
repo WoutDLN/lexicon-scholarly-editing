@@ -31,13 +31,13 @@ Add a BibTeX entry for the source you're quoting to the `lexicon.bib` file insid
 
 ## Step 3: add lemma
 ### 3.1 create lemma file
-If the lemma of your definition is not in the Lexicon yet a `.md` file to `_lexicon`. For the filename, use:
+If the lemma of your definition is not in the Lexicon yet, add  a `.md` file to `_lexicon`. For the filename, use:
 ```
 lemmaName.md
 ```
 
 ### 3.2 add front matter
-The lemma needs at least a `name` variable in the front matter. Just write it as you would like it to appear in the Lexicon's list of concepts. If your lemma has diacritics(such as letters with accents), write the lemma **without** diacritics in `name`, and a version **with** diacritics in a `name_diacritics` variable. You can also add [lists] of tags or categories.
+The lemma needs at least a `name` variable in the front matter. Just write it as you would like it to appear in the Lexicon's list of concepts. If your lemma has diacritics (such as letters with accents), write the lemma **without** diacritics in `name`, and a version **with** diacritics in a `name_diacritics` variable. You can also add [lists] of tags or categories.
 
 ### 3.3 complete example of lemma file
 ```
@@ -59,8 +59,8 @@ Add a `.md` file to the `_definitions` directory. For the filename, use: `lemmaF
 Inside the `.md` file, complete the following variables:
 - `lemma` (value of corresponding lemma's `name` variable),
 - `source` (`@key` of corresponding BibTeX source in `lexicon.bib`),
-- `page` (page number, page range, other locator, or n.p. for 'no page'),
-- `language` (English full name of the definition's language),
+- `page` (page number, page range, other locator, or `n.p.` for 'no page'),
+- `language` (English full name of the definition's language; e.g. `Italian`),
 - `contributor` (`username` of whoever initially added the definition to the Lexicon), and
 - `updated_by` (`username`s of whoever updated/corrected the definition, separated by commas).
 
