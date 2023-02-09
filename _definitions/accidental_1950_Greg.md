@@ -9,4 +9,4 @@ updated_by: Wout
 
 ---
 
-others, such in general as spelling, [punctuation](punctiuation.html), word-division, and the like, affecting mainly its formal presentation, which may be regarded as the accidents, or as I shall call them 'accidentals', of the [text](text.html).
+others, such in general as spelling, [punctuation](punctuation.html), word-division, and the like, affecting mainly its formal presentation, which may be regarded as the accidents, or as I shall call them 'accidentals', of the [text](text.html).
