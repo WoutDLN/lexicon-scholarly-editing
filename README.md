@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4008433.svg)](https://doi.org/10.5281/zenodo.4008433)
-[![License](https://img.shields.io/github/license/WoutDLN/lexicon-scholarly-editing)](https://github.com/WoutDLN/lexicon-scholarly-editing/blob/main/LICENSE)
-[![build](https://img.shields.io/github/workflow/status/WoutDLN/lexicon-scholarly-editing/github-pages.yml)](https://github.com/WoutDLN/lexicon-scholarly-editing/actions/workflows/github-pages.yml)
+![GitHub](https://img.shields.io/github/license/WoutDLN/lexicon-scholarly-editing)
+![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/WoutDLN/lexicon-scholarly-editing/github-pages.yml)
 
 # A Lexicon for Scholarly Editing
 ## About the Lexicon
