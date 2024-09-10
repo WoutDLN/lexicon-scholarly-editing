@@ -1,7 +1,7 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4008433.svg)](https://doi.org/10.5281/zenodo.4008433)
 ![GitHub](https://img.shields.io/github/license/WoutDLN/lexicon-scholarly-editing)
 ![GitHub Workflow Status (with event)](https://img.shields.io/github/actions/workflow/status/WoutDLN/lexicon-scholarly-editing/github-pages.yml)
-[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](CODE_OF_CONDUCT.md)
 
 # A Lexicon for Scholarly Editing
 ## About the Lexicon
