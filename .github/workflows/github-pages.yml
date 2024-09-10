@@ -11,5 +11,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: helaili/jekyll-action@v2
-        env:
-          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+        with:
+          target_branch: gh-pages
+          target_path: v2.0
+          keep_history: true
+          token: ${{ secrets.GITHUB_TOKEN }}
