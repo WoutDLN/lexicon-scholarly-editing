@@ -63,11 +63,14 @@ GEM
       http_parser.rb (~> 0)
     erubi (1.13.0)
     eventmachine (1.2.7)
-    eventmachine (1.2.7-x64-mingw32)
     execjs (2.9.1)
-    ffi (1.17.0)
+    ffi (1.17.0-arm64-darwin)
+    ffi (1.17.0-x86_64-darwin)
     forwardable-extended (2.6.0)
-    google-protobuf (4.28.0)
+    google-protobuf (4.28.0-arm64-darwin)
+      bigdecimal
+      rake (>= 13)
+    google-protobuf (4.28.0-x86_64-darwin)
       bigdecimal
       rake (>= 13)
     http_parser.rb (0.8.0)
@@ -124,12 +127,12 @@ GEM
       crass (~> 1.0.2)
       nokogiri (>= 1.12.0)
     mercenary (0.4.0)
-    mini_portile2 (2.8.7)
     minitest (5.25.1)
     namae (1.2.0)
       racc (~> 1.7)
-    nokogiri (1.16.7)
-      mini_portile2 (~> 2.8.2)
+    nokogiri (1.16.7-arm64-darwin)
+      racc (~> 1.4)
+    nokogiri (1.16.7-x86_64-darwin)
       racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
@@ -172,14 +175,11 @@ GEM
     rexml (3.3.7)
     rouge (4.3.0)
     safe_yaml (1.0.5)
-    sass-embedded (1.78.0)
+    sass-embedded (1.78.0-arm64-darwin)
       google-protobuf (~> 4.27)
-      rake (>= 13)
-    sass-embedded (1.78.0-x64-mingw32)
+    sass-embedded (1.78.0-x86_64-darwin)
       google-protobuf (~> 4.27)
     sassc (2.4.0)
-      ffi (~> 1.9)
-    sassc (2.4.0-x64-mingw32)
       ffi (~> 1.9)
     sassc-rails (2.1.2)
       railties (>= 4.0.0)
@@ -209,8 +209,8 @@ GEM
     zeitwerk (2.6.18)
 
 PLATFORMS
-  ruby
-  x64-mingw32
+  arm64-darwin
+  x86_64-darwin
 
 DEPENDENCIES
   bootstrap (~> 4.4.1)
@@ -223,5 +223,8 @@ DEPENDENCIES
   unicode (~> 0.4.4.4)
   webrick (~> 1.7)
 
+RUBY VERSION
+   ruby 3.1.3p185
+
 BUNDLED WITH
-   2.2.16
+   2.5.17
