@@ -14,7 +14,7 @@ This repository was originally developed by [Wout Dillen](https://github.com/Wou
 
 ## About the Website
 
-The repository's website was developed using [Jekyll](https://jekyllrb.com/), and is hosted on [GitHub Pages](https://pages.github.com/) by making use of GitHub Actions ([as documented in the Jekyll documentation](https://jekyllrb.com/docs/continuous-integration/github-actions/)). It uses Jekyll plugins such as [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) and [jekyll-last-modified-at](https://github.com/gjtorikian/jekyll-last-modified-at), and its search function makes use of [lunar.js](https://lunrjs.com/). Except for the definitions themselves, the copyright of which belong to the relevant authors, [this website's contents and design are licensed under a CC-BY 4.0 license](https://woutdln.github.io/lexicon-scholarly-editing/copyright.html).
+The repository's website was developed using [Jekyll](https://jekyllrb.com/), and is hosted on [GitHub Pages](https://pages.github.com/) by making use of GitHub Actions ([as documented in the Jekyll documentation](https://jekyllrb.com/docs/continuous-integration/github-actions/)). It uses Jekyll plugins such as [jekyll-scholar](https://github.com/inukshuk/jekyll-scholar) and [jekyll-last-modified-at](https://github.com/gjtorikian/jekyll-last-modified-at), and its search function makes use of [lunar.js](https://lunrjs.com/). Except for the definitions themselves, the copyright of which belong to the relevant holders, [this website's contents and design are licensed under a CC-BY 4.0 license](https://woutdln.github.io/lexicon-scholarly-editing/copyright.html).
 
 ## Contribute
 
