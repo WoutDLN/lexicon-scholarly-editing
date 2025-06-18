@@ -100,5 +100,15 @@
             "identifier": "10.17613/M6ZB9P",
             "relation_type": "IsDescribedBy"
         }
-    ]
+    ],
+    "language": [
+        "eng",
+        "nld",
+        "fra",
+        "deu",
+        "ita",
+        "lat",
+        "spa"
+    ],
+    "license": "cc-by"
 }
