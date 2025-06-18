@@ -94,5 +94,36 @@
             "affiliation": "Univeristy of Padova",
             "type": "Researcher"
         }
-    ]
+    ],
+    "keywords": [
+        "textual scholarship",
+        "scholarly editing",
+        "digital scholarly editing",
+        "lexicon"
+    ],
+    "related_identifiers": [
+        {
+            "identifier": "10.17613/M6ZB9P",
+            "relation_type": "IsDescribedBy"
+        },
+        {
+            "identifier": "10.7385/99241",
+            "relation_type": "IsDescribedBy",
+            "resource_type": "publication-article"
+        },
+        {
+            "identifier": "10.17613/M6ZB9P",
+            "relation_type": "IsDescribedBy"
+        }
+    ],
+    "language": [
+        "eng",
+        "nld",
+        "fra",
+        "deu",
+        "ita",
+        "lat",
+        "spa"
+    ],
+    "license": "cc-by"
 }
