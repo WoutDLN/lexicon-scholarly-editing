@@ -101,14 +101,5 @@
         "digital scholarly editing",
         "lexicon"
     ],
-    "language": [
-        "eng",
-        "nld",
-        "fra",
-        "deu",
-        "ita",
-        "lat",
-        "spa"
-    ],
     "license": "cc-by"
 }
