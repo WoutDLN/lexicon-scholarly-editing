@@ -11,73 +11,88 @@
     [
         {
             "name": "Álvarez-Carbajal, Francisco Javier",
-            "orcid": "0000-0002-9729-8098"
+            "orcid": "0000-0002-9729-8098",
+            "type": "Researcher"
         },
         {
             "name": "Barabucci, Gioele",
             "orcid": "0000-0003-4586-0111",
-            "affiliation": "University of Cologne"
+            "affiliation": "University of Cologne",
+            "type": "Researcher"
         },
         {
             "name": "Bleeker, Elli",
             "orcid": "0000-0003-2039-7300",
-            "affiliation": "Royal Netherlands Academy of Arts & Sciences (KNAW)"
+            "affiliation": "Royal Netherlands Academy of Arts & Sciences (KNAW)",
+            "type": "Researcher"
         },
         {
             "name": "Crowley, Ronan",
             "orcid": "0000-0002-2016-5270",
-            "affiliation": "Johann Wolfgang Goethe-Universität Frankfurt am Main"
+            "affiliation": "Johann Wolfgang Goethe-Universität Frankfurt am Main",
+            "type": "Researcher"
         },
         {
             "name": "Dahlström, Mats",
             "orcid": "/0000-0003-4584-7144",
-            "affiliation": "University of Borås"
+            "affiliation": "University of Borås",
+            "type": "Researcher"
         },
         {
-            "name": "Franquet, Jesse"
+            "name": "Franquet, Jesse",
+            "type": "Researcher"
         },
         {   
             "name": "Kelly, Aodhán",
             "orcid": "0000-0002-1387-751X",
-            "affiliation": "Maastricht University"
+            "affiliation": "Maastricht University",
+            "type": "Researcher"
         },
         {
-            "name": "Longo, Luciano"
+            "name": "Longo, Luciano",
+            "type": "Researcher"
         },
         {
             "name": "Martinez, Merisa Ariel",
             "orcid": "0000-0003-1299-720X",
-            "affiliation": "Uppsala University"
+            "affiliation": "Uppsala University",
+            "type": "Researcher"
         },
         {
             "name": "Neuber, Frederike",
             "orcid": "0000-0001-8279-9298",
-            "affiliation": "Berlin-Brandenburg Academy of Sciences and Humanities"
+            "affiliation": "Berlin-Brandenburg Academy of Sciences and Humanities",
+            "type": "Researcher"
         },
         {
             "name": "Nury, Elisa",
             "orcid": "0000-0003-4688-6567",
-            "affiliation": "University of Geneva"
+            "affiliation": "University of Geneva",
+            "type": "Researcher"
         },
         {
             "name": "Spadini, Elena",
             "orcid": "0000-0002-4522-2833",
-            "affiliation": "University of Bern"
+            "affiliation": "University of Bern",
+            "type": "Researcher"
         },
         {
             "name": "Vandyck, Caroline",
             "orcid": "0009-0006-9995-1325",
-            "affiliation": "University of Antwerp"
+            "affiliation": "University of Antwerp",
+            "type": "Researcher"
         },
         {
             "name": "Van Hulle, Dirk",
             "orcid": "0000-0002-7066-6313",
-            "affiliation": "University of Oxford"
+            "affiliation": "University of Oxford",
+            "type": "Researcher"
         },
         {
             "name": "Zanardo, Monica",
             "orcid": "0000-0002-2472-1561",
-            "affiliation": "Univeristy of Padova"
+            "affiliation": "Univeristy of Padova",
+            "type": "Researcher"
         }
     ]
 }
