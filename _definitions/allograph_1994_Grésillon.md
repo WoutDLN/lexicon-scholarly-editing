@@ -1,6 +1,6 @@
 ---
 
-lemma: allographic
+lemma: allograph
 source: gresillon_elments_1994
 page: 241
 language: French
