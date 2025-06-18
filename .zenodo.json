@@ -3,7 +3,102 @@
     "creators": [
         {
             "name": "Dillen, Wout",
-	    "orcid": "0000-0002-7862-2403"
+	        "orcid": "0000-0002-7862-2403",
+            "affiliation": "University of Borås"
+        }
+    ],
+    "contributors":
+    [
+        {
+            "name": "Álvarez-Carbajal, Francisco Javier",
+            "orcid": "0000-0002-9729-8098"
+        },
+        {
+            "name": "Barabucci, Gioele",
+            "orcid": "0000-0003-4586-0111",
+            "affiliation": "University of Cologne"
+        },
+        {
+            "name": "Bleeker, Elli",
+            "orcid": "0000-0003-2039-7300",
+            "affiliation": "Royal Netherlands Academy of Arts & Sciences (KNAW)"
+        },
+        {
+            "name": "Crowley, Ronan",
+            "orcid": "0000-0002-2016-5270",
+            "affiliation": "Johann Wolfgang Goethe-Universität Frankfurt am Main"
+        },
+        {
+            "name": "Dahlström, Mats",
+            "orcid": "/0000-0003-4584-7144",
+            "affiliation": "University of Borås"
+        },
+        {
+            "name": "Franquet, Jesse"
+        },
+        {   
+            "name": "Kelly, Aodhán",
+            "orcid": "0000-0002-1387-751X",
+            "affiliation": "Maastricht University"
+        },
+        {
+            "name": "Longo, Luciano"
+        },
+        {
+            "name": "Martinez, Merisa Ariel",
+            "orcid": "0000-0003-1299-720X",
+            "affiliation": "Uppsala University"
+        },
+        {
+            "name": "Neuber, Frederike",
+            "orcid": "0000-0001-8279-9298",
+            "affiliation": "Berlin-Brandenburg Academy of Sciences and Humanities"
+        },
+        {
+            "name": "Nury, Elisa",
+            "orcid": "0000-0003-4688-6567",
+            "affiliation": "University of Geneva"
+        },
+        {
+            "name": "Spadini, Elena",
+            "orcid": "0000-0002-4522-2833",
+            "affiliation": "University of Bern"
+        },
+        {
+            "name": "Vandyck, Caroline",
+            "orcid": "0009-0006-9995-1325",
+            "affiliation": "University of Antwerp"
+        },
+        {
+            "name": "Van Hulle, Dirk",
+            "orcid": "0000-0002-7066-6313",
+            "affiliation": "University of Oxford"
+        },
+        {
+            "name": "Zanardo, Monica",
+            "orcid": "0000-0002-2472-1561",
+            "affiliation": "Univeristy of Padova"
+        }
+    ],
+    "keywords": [
+        "textual scholarship",
+        "scholarly editing",
+        "digital scholarly editing",
+        "lexicon"
+    ],
+    "related_identifiers": [
+        {
+            "identifier": "10.17613/M6ZB9P",
+            "relation_type": "IsDescribedBy"
+        },
+        {
+            "identifier": "10.7385/99241",
+            "relation_type": "IsDescribedBy",
+            "resource_type": "publication-article"
+        },
+        {
+            "identifier": "10.17613/M6ZB9P",
+            "relation_type": "IsDescribedBy"
         }
     ]
 }
